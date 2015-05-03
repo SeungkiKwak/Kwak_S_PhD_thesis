@@ -30,11 +30,11 @@
 #' 
 #' @examples
 #' \dontrun{
-#' setwd("inst/rmarkdown")
+#' setwd("inst/rmarkdown_template")
 #' rmd2pdf()
 #' }
 rmd2pdf <- function(file='thesis.Rmd', template='thesis_template.latex',
-                    biber=TRUE, saveTmpFiles=FALSE) {
+                    biber=TRUE, saveTmpFiles=FALSE, ...) {
   
   if (str_length(Sys.which('xelatex')) == 0) {
     stop(str_c('Must have xelatex installed and accesible from the command line',
@@ -72,8 +72,14 @@ rmd2pdf <- function(file='thesis.Rmd', template='thesis_template.latex',
   
   texFile <- str_c("./tmp/", filename, ".tex")
   
+  cslFile <- str_c(filename, ".csl")
+
+  bibFile <- str_c(filename, ".bib")
+  
   # make pandoc command string
-  pandocCmd <- str_c("pandoc ", shQuote(mdFile),
+  pandocCmd <- str_c("pandoc ", shQuote(mdFile), 
+                     " --bibliography=", shQuote(bibFile),
+                     " --csl=", shQuote(cslFile),
                      " -t latex -o ", shQuote(texFile),
                      " --template=", shQuote(template))
   

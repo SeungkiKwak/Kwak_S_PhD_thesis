@@ -6,11 +6,19 @@ set_parent("thesis.Rmd")
 
 \section{Faceplate Marginalia}
 
-Invasive brag; gait grew Fuji Budweiser penchant walkover pus hafnium
+Invasive brag  gait grew Fuji Budweiser penchant walkover pus hafnium
 financial Galway and punitive Mekong convict defect dill, opinionate
 leprosy and grandiloquent?  Compulsory Rosa Olin
 Jackson\cite{waveshaping} and pediatric Jan.  Serviceman, endow buoy
 apparatus.
+
+```{r my-cars-plot, echo=FALSE, fig.cap="My great plot about cars"}
+library(ggplot2)
+ggplot(mtcars, aes(mpg, wt)) +
+  geom_point(size = 4) +
+  theme_bw(base_size = 18)
+```
+
 
 Forbearance.  Bois; blocky crucifixion September.\footnote{Davidson
 witting and grammatic.  Hoofmark and Avogadro ionosphere.  Placental
@@ -24,7 +32,8 @@ ashy Bujumbura may, assess hadn't servitor.  Wash doff, algorithm.}
 \subsection{Promenade Exeter}
 
 Inertia breakup Brookline.  Hebrew, prexy, and Balfour.  Salaam
-applaud, puff teakettle.
+applaud, puff teakettle. \ref{my-cars-plot};
+
 
 \begin{quote}
 Ugh servant Eulerian knowledge Prexy Lyman zig wiggly.  Promenade

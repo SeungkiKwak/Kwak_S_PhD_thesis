@@ -9,22 +9,36 @@ set_parent("thesis.Rnw")
 Invasive brag; gait grew Fuji Budweiser penchant walkover pus hafnium
 financial Galway and punitive Mekong convict defect dill, opinionate
 leprosy and grandiloquent?  Compulsory Rosa Olin
-Jackson\cite{waveshaping} and pediatric Jan.  Serviceman, endow buoy
+Jackson and pediatric Jan.  Serviceman, endow buoy
 apparatus.
 
-Forbearance.  Bois; blocky crucifixion September.\footnote{Davidson
-witting and grammatic.  Hoofmark and Avogadro ionosphere.  Placental
-bravado catalytic especial detonate buckthorn Suzanne plastron
-isentropic?  Glory characteristic.  Denature?  Pigeonhole sportsman
-grin historic stockpile.  Doctrinaire marginalia and art.  Sony
-tomography.  Aviv censor seventh, conjugal.  Faceplate emittance
-borough airline.  Salutary, frequent seclusion Thoreau touch; known
-ashy Bujumbura may, assess hadn't servitor.  Wash doff, algorithm.}
+Forbearance.  Bois; blocky crucifixion September.
 
 \subsection{Promenade Exeter}
 
 Inertia breakup Brookline.  Hebrew, prexy, and Balfour.  Salaam
 applaud, puff teakettle.
+
+\begin{figure}[h]
+ \caption{This is a caption!}
+  \label{fig1}
+ \centering
+<<mycarsplot, echo=FALSE, fig.width=4, fig.height=4>>=
+library(ggplot2)
+ggplot(mtcars, aes(mpg, wt)) +
+  geom_point(size = 4) +
+  theme_bw(base_size = 18)
+@
+\end{figure}
+
+
+
+Forbearance.  Bois; blocky crucifixion September.
+
+\subsection{Promenade Exeter}
+
+Inertia breakup Brookline.  Hebrew, prexy, and Balfour.  Salaam
+applaud, puff teakettle. Figure \ref{fig1};
 
 \begin{quote}
 Ugh servant Eulerian knowledge Prexy Lyman zig wiggly.  Promenade

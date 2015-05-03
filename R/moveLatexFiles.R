@@ -1,5 +1,5 @@
 moveLatexFiles <- function(tmpExtensions = c("aux", "bbl", "bcf", "blg", "lof",
-                               "log", "lot", "run.xml", "toc")) {
+                               "log", "lot", "run.xml", "toc", "out")) {
   
   filesInDir <- 
     unlist(str_split(system("ls", intern=TRUE), pattern = "[[:space:]]+"))
