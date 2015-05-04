@@ -8,6 +8,7 @@
 \patchcmd{\chapter}{plain}{empty}{}{}
 
 
+
 %% Stuff from https://github.com/suchow/Dissertate
  
 % The following line would print the thesis in a postscript font 
@@ -117,7 +118,7 @@
 
 \newtheorem{theorem}{Jibberish}
 
-\bibliography{references}
+%% \bibliography{references}
 
 \hyphenation{mar-gin-al-ia}
 

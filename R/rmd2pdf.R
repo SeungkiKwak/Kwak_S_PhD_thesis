@@ -34,7 +34,9 @@
 #' rmd2pdf()
 #' }
 rmd2pdf <- function(file='thesis.Rmd', template='thesis_template.latex',
-                    biber=TRUE, saveTmpFiles=FALSE, ...) {
+                    biber=TRUE, saveTmpFiles=FALSE){
+  
+
   
   if (str_length(Sys.which('xelatex')) == 0) {
     stop(str_c('Must have xelatex installed and accesible from the command line',
@@ -114,4 +116,6 @@ rmd2pdf <- function(file='thesis.Rmd', template='thesis_template.latex',
   if (!saveTmpFiles) cleanUp(saveExtensions)
   
   return(str_c(filename, ".pdf"))
+  
+ 
 }
