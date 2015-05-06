@@ -1,7 +1,7 @@
 Seungki Kwak's PhD Thesis
 ==============================
 
-This research compendium contains the source files for my PhD. It is organised as an R package that contains a function that will render the R markdown files into a single attractive PDF that conforms to the [UW Graduate School requirements for thesis formatting](http://www.grad.washington.edu/students/etd/req-sections.shtml). The thesis chapters, figures and raw data files are in the `inst/rmarkdown` directory.
+This research compendium contains the source files for my PhD. It is organised as an R package that contains a function that will render the R markdown files into a single attractive PDF that conforms to the [UW Graduate School requirements for thesis formatting](http://www.grad.washington.edu/students/etd/req-sections.shtml). The thesis chapters, figures and raw data files are in the [`inst/rmarkdown_template`](/inst/rmarkdown_template) directory.
 
 ## Installation
 
@@ -11,7 +11,7 @@ The most convinent way to access the files in this compendium is to download the
 git clone https://github.com/SeungkiKwak/kwakthesis
 ```
 
-Then open the `Kwak_S_PhD_Thesis.RProj` file in RStudio to explore the compendium. The PDF file of the thesis, along with other supporting material, is in the `inst/rmarkdown_template` directory .
+Then open the `Kwak_S_PhD_Thesis.RProj` file in RStudio to explore the compendium. The PDF file of the thesis, along with other supporting material, is in the [`inst/rmarkdown_template`](/inst/rmarkdown_template) directory .
 
 To install this as an R package, and access the thesis files, use `devtools`  with the following lines at the R prompt:
 
