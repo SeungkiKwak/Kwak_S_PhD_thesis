@@ -13,7 +13,8 @@ Imports:
     knitr,
     stringr,
     repmis,
-    ggplot2
+    ggplot2,
+    dependencies
 License: MIT
 Roxygen: list(wrap = FALSE)
 VignetteBuilder: knitr

@@ -92,7 +92,7 @@ formatting challenges found in thesis production.
 
 ```{r setup, include=FALSE}
 # for hi-res plots
-opts_chunk$set(dev = 'pdf')
+knitr::opts_chunk$set(dev = 'pdf')
 ```
 
 ```{r, cache=FALSE, child="chapter1.Rmd"}
@@ -124,20 +124,33 @@ This document was typeset using the \textsf{\XeTeX} typesetting system originall
 
 The body text is set at 11pt with \familydefault. The thesis was written as [R markdown](http://rmarkdown.rstudio.com/) formatted documents, which was converted to PDF using [pandoc](http://pandoc.org/) using [knitr](http://yihui.name/knitr/) with a custom R package.
 
+
 This PDF was generated on `r Sys.time()` in the following computational environment:
 
-```{r colophon}
+```{r session_info, echo=FALSE}
 # which R packages and versions?
 sessionInfo()
+```
 
+The following depedencies external to R are required: 
+
+```{r non_r_deps, echo=FALSE}
 # what other pieces of software?
 # devtools::install_github("ropensci/dependencies")
 needs <- dependencies::needs()
-c(needs$depends$SystemRequirements[needs$depends$SystemRequirements != "NULL"], needs$imports$SystemRequirements[needs$imports$SystemRequirements != "NULL"])
+c(needs$depends$SystemRequirements[
+  needs$depends$SystemRequirements != "NULL"], 
+  needs$imports$SystemRequirements[
+    needs$imports$SystemRequirements != "NULL"])
+```
 
+```{r git_data, echo=FALSE} 
 # what commit is this file at?
 git_data <- repmis::git_stamp(repo = getwd())
 ```
 
-The current git commit of this file is `r git_data[1]`, which is on the `r git_data[2]` branch. The current commit message is `r git_data[3]`. 
+The current git commit of this file is `r git_data[1]`, which is on the `r git_data[2]` branch. The current commit message is "`r git_data[3]`". 
+
+\cleardoublepage\null
+
 
