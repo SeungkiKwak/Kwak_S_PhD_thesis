@@ -126,9 +126,18 @@ The body text is set at 11pt with \familydefault. The thesis was written as [R m
 
 This PDF was generated on `r Sys.time()` in the following computational environment:
 
-```{r session_info}
+```{r colophon}
+# which R packages and versions?
 sessionInfo()
+
+# what other pieces of software?
+# devtools::install_github("ropensci/dependencies")
+needs <- dependencies::needs()
+c(needs$depends$SystemRequirements[needs$depends$SystemRequirements != "NULL"], needs$imports$SystemRequirements[needs$imports$SystemRequirements != "NULL"])
+
+# what commit is this file at?
+git_data <- repmis::git_stamp(repo = getwd())
 ```
 
-
+The current git commit of this file is `r git_data[1]`, which is on the `r git_data[2]` branch. The current commit message is `r git_data[3]`. 
 

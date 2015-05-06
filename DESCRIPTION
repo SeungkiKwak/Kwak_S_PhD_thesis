@@ -11,7 +11,9 @@ Depends:
 Date: April 22, 2015
 Imports: 
     knitr,
-    stringr
+    stringr,
+    repmis,
+    ggplot2
 License: MIT
 Roxygen: list(wrap = FALSE)
 VignetteBuilder: knitr
