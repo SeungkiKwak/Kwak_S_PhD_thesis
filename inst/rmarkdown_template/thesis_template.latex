@@ -7,7 +7,9 @@
 \usepackage{etoolbox}
 \patchcmd{\chapter}{plain}{empty}{}{}
 
-
+%% for more attractive tables
+\usepackage{booktabs}
+\usepackage{longtable}
 
 %% Stuff from https://github.com/suchow/Dissertate
  
@@ -121,6 +123,16 @@
 %% \bibliography{references}
 
 \hyphenation{mar-gin-al-ia}
+
+%
+% ----- apply watermark to every page
+% ----- change 'stamp' to 'nostamp'
+%------ to omit watermark
+%
+\usepackage[stamp]{draftwatermark}
+% % Use the following to make modification
+\SetWatermarkText{DRAFT}
+\SetWatermarkLightness{0.95}
 
 \begin{document}
 $body$
