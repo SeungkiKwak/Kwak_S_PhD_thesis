@@ -7,7 +7,9 @@
 \usepackage{etoolbox}
 \patchcmd{\chapter}{plain}{empty}{}{}
 
-
+%% for more attractive tables
+\usepackage{booktabs}
+\usepackage{longtable}
 
 %% Stuff from https://github.com/suchow/Dissertate
  

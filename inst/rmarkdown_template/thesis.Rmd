@@ -93,6 +93,8 @@ formatting challenges found in thesis production.
 ```{r setup, include=FALSE}
 # for hi-res plots
 knitr::opts_chunk$set(dev = 'pdf')
+# suppress xtable message
+options(xtable.comment = FALSE)
 ```
 
 ```{r, cache=FALSE, child="chapter1.Rmd"}
@@ -146,10 +148,12 @@ c(needs$depends$SystemRequirements[
 
 ```{r git_data, echo=FALSE} 
 # what commit is this file at?
-git_data <- repmis::git_stamp(repo = getwd())
+library(git2r)
+repo <- repository(path = "../..")
+last_commit <- commits(repo)[[1]]
 ```
 
-The current git commit of this file is `r git_data[1]`, which is on the `r git_data[2]` branch. The current commit message is "`r git_data[3]`". 
+The current git commit of this file is `r last_commit@sha`, which is on the `r branches(repo)[[1]]@name` branch and was made by `r last_commit@committer@name` on `r when(last_commit)`. The current commit message is "`r last_commit@summary`".
 
 \cleardoublepage\null
 
