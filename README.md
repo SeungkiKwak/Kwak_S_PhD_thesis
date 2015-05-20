@@ -17,7 +17,8 @@ To install this as an R package, and access the thesis files, use `devtools`  wi
 
 ```
 library(devtools)
-devtools::install_github("SeungkiKwak/kwakthesis")
+devtools::install_github("ropensci/dependencies")
+devtools::install_github("SeungkiKwak/Kwak_S_PhD_thesis")
 library(kwakthesis)
 ```
 
@@ -37,6 +38,25 @@ You may need to install some additional software before you can build the PDF. I
 which pandoc
 which xelatex
 which biber
+```
+
+If you don't have one of these, you can install from the shell prompt like so:
+
+```
+# for pandoc
+wget https://github.com/jgm/pandoc/releases/download/1.13.2/pandoc-1.13.2-1-amd64.deb
+sudo gdebi pandoc-1.13.2-1-amd64.deb
+# for biber
+sudo apt-get install biber
+# for xelatex
+...
+# for font EB Garamond
+sudo apt-get install fonts-ebgaramond
+# for font Source Code Pro
+wget https://github.com/adobe-fonts/source-code-pro/archive/1.017R.zip
+unzip 1.017R.zip
+cp source-code-pro-1.017R/OTF/*.otf /usr/local/share/fonts/
+
 ```
 
 ## Acknowledgements
