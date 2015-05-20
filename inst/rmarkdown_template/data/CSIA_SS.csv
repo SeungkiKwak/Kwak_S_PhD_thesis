@@ -1,0 +1,29 @@
+Sample No.,Compound detected,C16:0 (??13C),C18:0 (??13C),Interpretation via CSIA
+SOS030,"C16:0, C18:0",-25.7,-27.3,Fresh water and/or Marine
+SOS031,"C16:0, C17:0, C18:0",-26,-27.9,Fresh water and/or Marine
+SOS032,"C14:0, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C24:0,  C24:1",-23.8,-25.7,Marine
+SOS033,"C14:0, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C24:0, C24:1",-22.8,-31.1,Not identifiable
+SOS035,"C14:0, C16:0, C18:0, C18:2, C22:1, C24:1",-29.5,-27.2,Not identifiable
+SOS036,"C14:0, C16:0, C17:0, C18:0, C18:2, C20:0, C22:0, C22:1, C24:1",-22.8,-24.5,Marine
+SOS037,"C14:0, C16:0, C16:1, C17:0, C18:0,  C18:1, C20:0, C22:1, C24:0, C24:1",-28.8,-28.5,C3 plant oil
+SOS038,"C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C19:1, C20:0, C22:0. C22:1, C24:1",-26.5,-24.3,Pork adipose
+SOS039,"C14:0, C15:0, C16:0, C17:0, C18:0, C19:0, C20:0, C22:0, C22:1, C24:1",-30.7,-28.1,Equine adipose
+SOS040,"C14:0, C16:0, C16:1, C17:0, C18:0, C18:2, C20:0, C22:0, C22:1, C24:0, C24:1",-26.2,-23.5,Pork adipose
+SOS041,"C14:0, C16:0, C18:0, C20:0,  C22:0, C22:1, C24:0, C24:1",-26,-23.6,Pork adipose
+SOS042,"C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C20:0, C22:0, C22:1, C23:0, C24:0, C24:1",-23.2,-23.9,Marine
+SOS043,"C14:0, C16:0, C16:1, C18:0, C18:1, C18:2, C19:1, C22:0, C22:1, C23:0, C24:1",-26.8,-26.3,Pork adipose
+SOS045,"C14:0, C16:0, C18:0, C18:2, C22:1, C24:1 ",-28.6,-27.7,C3 plant oil
+SOS047,"C14:0, C16:0, C18:0, C18:2, C22:1, C24:1",-29,-27.5,C3 plant oil
+SOS048,"C14:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C22:0, C22:1, C24:1",-26.1,-23.9,Pork adipose
+SOS049,"C16:0, C18:0, C19:0, C20:0, C22:0, C24:0, C24:1, phytanic acid",-27.4,-24.3,Pork adipose and aquatic resources 
+SOS050,"C14:0, C16:0, C16:1, C17:0, C18:0, C18:2, C20:0, C22:0, C22:1, C23:0, C24:0, C24:1",-27.9,-23.6,Not identifiable
+SOS051,"C14:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C22:0, C22:1, C24:1 ",-22.3,-21.4,Marine
+SOS054,"C14:0, C16:0, C16:1, C17:0, C18:0, C18:2,  C22:0, C22:1, C24:1",-25.2,-25.7,Fresh water and/or Marine
+SOS055,"C14:0, C16:0, C16:1, C18:0, C18:1, C22:1, C24:1",-27.4,-27.4,C3 plant oil and/or Pork adipose
+SOS056,"C14:0, C16:0, C17:0, C18:0, C18:2, C19:0, C19:1, C20:0, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1, phytanic acid",-24.6,-22.3,Pork adipose and aquatic resources
+SOS057,"C14:0, C16:0, C18:0, C18:2, C20:0, C22:0, C22:1, C24:0, C24:1 ",-25.4,-23,Pork adipose 
+SOS058,"C14:0, C16:0, C17:0, C18:0, C18:2, C19:0, C20:0, C22:0, C22:1, C24:0, C24:1",-29,-25,Not identifiable
+SOS060,"C14:0, C16:0, C18:0, C18:2, C22:1, C24:1",-25.8,-24.2,Pork adipose
+SOS062,"C14:0, C16:0, C17:0, C18:0, C18:2, C19:0, C20:0, C22:0, C22:1, C24:0, C24:1",-25.9,-23.5,Pork adipose
+SOS063,"C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C19:1, C20:0, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1",-25.3,-23.1,Pork adipose
+SOS064,"C14:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C22:1, C24:1",-25.2,-26.3,Fresh water and/or Marine
