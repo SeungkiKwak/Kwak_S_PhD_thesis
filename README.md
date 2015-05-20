@@ -21,7 +21,7 @@ devtools::install_github("SeungkiKwak/kwakthesis")
 library(kwakthesis)
 ```
 
-##  Build the thesis
+##  Build the thesis 
 
 If you want to rebuild the PDF file of the thesis, you'll need to make a copy of this repository as indicated above, then change the working directory in R to `inst/rmarkdown_template` and use the function `rmd2pdf` to make a PDF file of the thesis, like this:
 

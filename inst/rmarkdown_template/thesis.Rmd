@@ -94,6 +94,7 @@ formatting challenges found in thesis production.
 # for hi-res plots
 knitr::opts_chunk$set(dev = 'pdf')
 # suppress xtable message
+library(xtable)
 options(xtable.comment = FALSE)
 ```
 
