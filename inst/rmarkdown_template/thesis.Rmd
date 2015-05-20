@@ -98,14 +98,19 @@ library(xtable)
 options(xtable.comment = FALSE)
 ```
 
-```{r, cache=FALSE, child="chapter1.Rmd"}
+```{r, ch1, cache=FALSE, child="chapter1.Rmd"}
 ```
 
-```{r, cache=FALSE, child="chapter2.Rmd"}
+```{r, ch2, cache=FALSE, child="chapter2.Rmd"}
 ```
 
-```{r, cache=FALSE, child="chapter3.Rmd"}
-# add more chunks like this to include additional chapters in the PDF
+```{r, ch3, cache=FALSE, child="chapter3.Rmd"}
+```
+
+```{r, ch4, cache=FALSE, child="chapter4.Rmd"}
+```
+
+```{r, ch5, cache=FALSE, child="chapter5.Rmd"}
 ```
 
 <!--
