@@ -22,9 +22,9 @@ Organic residues are found in association with archaeological pottery either as 
 
 During the usage of pottery vessels in prehistoric times (e.g. during culinary practices), fats, oils and waxes originated from animals, insects or plant products become entrapped within the vessel wall. The fats and waxes are protected from microbial and chemical degradations as well as groundwater leaching by the ceramic matrix. These organic residues can be extracted from the potsherds and analyzed hundreds or even thousands of years after the pottery was discarded by ancient people. For example, in case of Great Britain, absorbed residues are typically detected in 50 to 60 % of all vessel studied [@Mukherjee2004]; however, the actual proportion is dependent on many factors including burial conditions and age [@Evershed2008a]. Though Fats and waxes can also be preserved as a form of charred or dried deposits adhering to the vessel wall, this class of residue is much less commonly observed. 
 
-The preservation of organic compounds in the porous walls of pottery was first recognized over 30 years ago, when the lipids extracted from archaeological potteries were analyzed by the gas chromatography (hereafter GC) [@Condamin1976]. This approach uses the ratio between the amounts of common fatty acids to determine particular classes of food [cf. Patrick1985; @Eerkens2005; -@Eerkens2007]. But it has a problem, for different kinds of fatty acids decompose at different rates over time due to oxidation and hydrolysis. Since such ratios are not stable over time, researchers have to rely on those of the fatty acids that decompose at similar rates. For example, Eerkens [-@Eerkens2001; -@Eerkens2005; -@Eerkens2007] set up the criteria for distinguishing different food classes, based on four useful ratios involving eight fatty acids which are relatively common in archaeological residues (C12:0/C14:0, C16:0/C18:0, C16:1/C18:1 and (C15:0 + C17:0)/C18:0). Upon these criteria, he was able to distinguish five different food classes which are: meat of terrestrial mammals, fish, seeds/nuts and berries, roots, and greens (Table 4.1). After these studies that attempted to determine the origins of the organic residues based on the proportions between individual compounds, more sophisticated mass-spectrometric instruments were employed and made it possible to identify a wide range of organic commodities within archaeological vessels. 
+The preservation of organic compounds in the porous walls of pottery was first recognized over 30 years ago, when the lipids extracted from archaeological potteries were analyzed by the gas chromatography (hereafter GC) [@Condamin1976]. This approach uses the ratio between the amounts of common fatty acids to determine particular classes of food [cf. Patrick1985; @Eerkens2005; -@Eerkens2007]. But it has a problem, for different kinds of fatty acids decompose at different rates over time due to oxidation and hydrolysis. Since such ratios are not stable over time, researchers have to rely on those of the fatty acids that decompose at similar rates. For example, Eerkens [-@Eerkens2001; -@Eerkens2005; -@Eerkens2007] set up the criteria for distinguishing different food classes, based on four useful ratios involving eight fatty acids which are relatively common in archaeological residues (C12:0/C14:0, C16:0/C18:0, C16:1/C18:1 and (C15:0 + C17:0)/C18:0). Upon these criteria, he was able to distinguish five different food classes which are: meat of terrestrial mammals, fish, seeds/nuts and berries, roots, and greens (Table \ref{fatty_acid_ratio}). After these studies that attempted to determine the origins of the organic residues based on the proportions between individual compounds, more sophisticated mass-spectrometric instruments were employed and made it possible to identify a wide range of organic commodities within archaeological vessels. 
 
-Identification and characterization of lipid residues rely upon the comparison of chemical properties of lipid biomarker compounds that are complex organic molecular structures derived from organisms, and that are presented in both the archaeological ceramics and contemporary reference plants and animals. Such "biomarkers" can help scientists to reconstruct the dietary life of prehistoric peoples [@Evershed2008, -@Evershed2008a; @Heron1993: pp. 267-270]. This has been achieved by the high temperature gas chromatography (hereafter HTGC) and gas chromatography - mass spectrometry (hereafter GC-MS) techniques that can acquire detailed molecular compositional information from the extracts. That information can subsequently be compared to that of modern reference materials. Through this method, scholars have identified terrestrial and marine animal fats, plant leaf waxes (e.g. cabbage and leek), beeswax, birch bark tar, and palm fruit (Table 4.2).  But the biomarkers only occur in case of good preservation of the organic residues; more often we only have the degraded products. More recently, the use of soft ionization techniques in MS, such as electrospray ionization (ESI), has proven particularly useful in the structural characterization of high molecular weight compounds preserved within archaeological pottery like triacylglycerols (hereafter TAGs). They are more difficult to examine with the GC-MS technique [@Stear2008: p. 26; @Mirabaud2007]. 
+Identification and characterization of lipid residues rely upon the comparison of chemical properties of lipid biomarker compounds that are complex organic molecular structures derived from organisms, and that are presented in both the archaeological ceramics and contemporary reference plants and animals. Such "biomarkers" can help scientists to reconstruct the dietary life of prehistoric peoples [@Evershed2008, -@Evershed2008a; @Heron1993: pp. 267-270]. This has been achieved by the high temperature gas chromatography (hereafter HTGC) and gas chromatography - mass spectrometry (hereafter GC-MS) techniques that can acquire detailed molecular compositional information from the extracts. That information can subsequently be compared to that of modern reference materials. Through this method, scholars have identified terrestrial and marine animal fats, plant leaf waxes (e.g. cabbage and leek), beeswax, birch bark tar, and palm fruit (Table \ref{biomarkers}).  But the biomarkers only occur in case of good preservation of the organic residues; more often we only have the degraded products. More recently, the use of soft ionization techniques in MS, such as electrospray ionization (ESI), has proven particularly useful in the structural characterization of high molecular weight compounds preserved within archaeological pottery like triacylglycerols (hereafter TAGs). They are more difficult to examine with the GC-MS technique [@Stear2008: p. 26; @Mirabaud2007]. 
 
 
 |   ratio   |   state  |  terrestrial mammals|  fish|   roots|  greens|  seeds/nuts and berries |
@@ -35,6 +35,21 @@ Identification and characterization of lipid residues rely upon the comparison o
 |           | degraded |       <0.15         | <0.15|  >0.15 |  >0.05 |         >0.15           |
 
 Table 4.1. Criteria used to distinguish food types, based on fatty acid ratios [@Eerkens2005]		
+
+```{r table_example, results='asis', echo=FALSE}
+# read in the CSV file from /data
+example_tab <- read.csv("data/fatty_acid_ratio.csv")
+# for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
+print(xtable(example_tab, 
+             size="footnotesize", 
+             caption="Criteria used to distinguish food types, based on fatty acid ratios [@Eerkens2005]", 
+             label="fatty_acid_ratio"),
+      include.rownames=FALSE,
+      booktabs = TRUE,
+      floating = FALSE, 
+      tabular.environment='longtable'
+      )
+```
 
 Most recently, the application of the compound-specific stable carbon isotope analysis (hereafter CSIA) by the gas chromatography-combustion-isotope ratio mass spectrometry (hereafter GC-C-IRMS) enabled a more specific characterization of the organic compounds within archaeological pottery. The stable carbon isotope analysis has become a powerful method for tracing diet patterns of animals, for the isotopic composition of animals depends upon the food they eat [@Malainey2010]. In archaeological settings, the method has been widely used on human remains for understanding human subsistence patterns by distinguishing C3 diets (e.g. rice) from C4 diets (e.g. millet) [@Barton2009; @Bentley2007]. In the field of ceramic studies, Hastorf and DeNiro [-@Hastorf1985] conducted the bulk carbon isotope analysis for charred organic residues on the surface of potsherds to understand the human diet. With the introduction of GC-C-IRMS, the stable carbon isotope value of individual compounds in a mixture can now be measured with high precision, providing a unique opportunity to conduct the carbon isotopic analysis on the fatty acids that are insulated within the fabric of archaeological ceramics [@Mottram1999]. Scholars have been successfully tracing the presence of C3, C4 plants, animal fat, and aquatic resources (e.g. fish and mammals) on prehistoric potsherds through CSIA [@Craig2011; -@Craig2013; @Cramp2011; @Evershed1994; @Evershed1997; @Mottram1999; @Reber2004; @Salque2013].	  
 
@@ -69,6 +84,20 @@ Commodities 					  Lipid biomarkers                                             
 
 Table 4.2. Identification of fatty acid by using GC-MS [modified from @Stear2008] 
 
+```{r table_example, results='asis', echo=FALSE}
+# read in the CSV file from /data
+example_tab <- read.csv("data/biomarkers.csv")
+# for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
+print(xtable(example_tab, 
+             size="footnotesize", 
+             caption="Identification of fatty acid by using GC-MS [modified from @Stear2008]", 
+             label="biomarkers"),
+      include.rownames=FALSE,
+      booktabs = TRUE,
+      floating = FALSE, 
+      tabular.environment='longtable'
+      )
+```
 
 \section{Identification of lipids}
 
@@ -155,7 +184,7 @@ When utilizing this theoretical mixing model for the interpretation of the contr
 
 C3, C4 and marine plant contributions
 
-Plants are consumed by herbivores and herbivores are consumed by carnivores. Since $\delta$^13^C values in living organisms are influenced by their food, careful consideration is demanded, when the researcher tries to trace their identity based on $\delta$^13^C values. For example, discriminating the contribution of C4 plants to the diet of animals is not an easy task. This task might not be a problem in the areas where there are no native C4 plants (e.g. the northern part of Europe or Britain), but must be taken into account when analyzing the lipids from more arid regions, where C4 plants are quite ubiquitous. Table 4.3 shows the ranges of bulk $\delta$^13^C values of the major ecosystem; it provides a guideline to the trends that might be observed in archaeological lipids [@Mukherjee2004]. 
+Plants are consumed by herbivores and herbivores are consumed by carnivores. Since $\delta$^13^C values in living organisms are influenced by their food, careful consideration is demanded, when the researcher tries to trace their identity based on $\delta$^13^C values. For example, discriminating the contribution of C4 plants to the diet of animals is not an easy task. This task might not be a problem in the areas where there are no native C4 plants (e.g. the northern part of Europe or Britain), but must be taken into account when analyzing the lipids from more arid regions, where C4 plants are quite ubiquitous. Table \ref{bulk_istope_reference} shows the ranges of bulk $\delta$^13^C values of the major ecosystem; it provides a guideline to the trends that might be observed in archaeological lipids [@Mukherjee2004]. 
 
 |      Material      | Bulk $\delta$^13^C value ($\permil$) |
 |:------------------:|:------------------------------:|
@@ -168,6 +197,21 @@ Plants are consumed by herbivores and herbivores are consumed by carnivores. Sin
 |  Marine carbonates |          0                     |
 
 Table 4.3. The ranges of bulk $\delta$^13^C values of natural materials [modified from @Mukherjee2004]
+
+```{r table_example, results='asis', echo=FALSE}
+# read in the CSV file from /data
+example_tab <- read.csv("data/bulk_istope_reference.csv")
+# for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
+print(xtable(example_tab, 
+             size="footnotesize", 
+             caption="The ranges of bulk $\delta$^13^C values of natural materials [modified from @Mukherjee2004]", 
+             label="bulk_istope_reference"),
+      include.rownames=FALSE,
+      booktabs = TRUE,
+      floating = FALSE, 
+      tabular.environment='longtable'
+      )
+```
 
 In case of the archaeological lipid present in potsherds, the contribution of C4 plants to an animal's diet would have cause more enriched $\delta$^13^C values of the C16:0 and C18:0 fatty acids. So, if the reference animals used to compile the database are reared on C3 diets, the $\delta$^13^C values from archaeological lipids will show a deviation from those given by the database, when identifying animal fats with a possible C4 diet contribution. This means, for example, it is quite possible that pure ruminant adipose fat can be misinterpreted as a mixture of ruminant and porcine adipose fats, or even pure pig fat (cf. Figure \ref{mixingcurve}).
 
