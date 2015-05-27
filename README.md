@@ -17,7 +17,7 @@ To install this as an R package, and access the thesis files, use `devtools`  wi
 
 ```
 library(devtools)
-devtools::install_github("ropensci/dependencies")
+devtools::install_github("ropensci/dependencies") # non-CRAN dependency
 devtools::install_github("SeungkiKwak/Kwak_S_PhD_thesis")
 library(kwakthesis)
 ```

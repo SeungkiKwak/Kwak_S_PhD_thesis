@@ -64,7 +64,7 @@ U2516   & 0.36      & 20.4               & 5.532±0.277        & 8.712±0.91 & 8
 		  
 Table 3.1. The result of the luminescence dating (*Dose rates are rounded to two decimal places, but calculation of the total dose rate was carried out prior to rounding)
 
-```{r table_example, results='asis', echo=FALSE}
+```{r table_lumi_eg_date, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/lumi_eg_date.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
