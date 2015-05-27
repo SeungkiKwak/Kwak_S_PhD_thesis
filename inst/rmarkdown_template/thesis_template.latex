@@ -137,6 +137,11 @@
 %% for the per mil symbol
 \usepackage{wasysym}
 
+%% to allow to rotate pages to landscape
+\usepackage{lscape}
+%% to adjust table column width
+\usepackage{tabularx} 
+
 \begin{document}
 $body$
 \end{document}

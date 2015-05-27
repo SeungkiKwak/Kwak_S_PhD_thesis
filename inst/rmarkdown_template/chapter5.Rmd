@@ -73,7 +73,7 @@ Table 5.1. The results of AMS radiocarbon dating of the Kimpo-Yangcho site [@Kim
 
 ```{r radiocarbon_KM, results='asis', echo=FALSE}
 # read in the CSV file from /data
-example_tab <- read.csv("data/radiocarbon_KM.csv")
+example_tab <- read.csv("data/radiocarbon_KM.csv", quote="")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
 print(xtable(example_tab, 
              size="footnotesize", 
@@ -254,20 +254,29 @@ KIM078	     C14:0, C16:0, C18:0, C20:0	                     -21.8	              
 ---------------------------------------------------------------------------------------------------------------------------------------
 Table 5.4. The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Kimpo-Yangchon site, and their interpretations
 
+\newpage
+\begin{landscape}
+
 ```{r CSIA_KM, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/CSIA_KM.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
-print(xtable(example_tab, 
+my_table <- xtable(example_tab, 
+     
              size="footnotesize", 
              caption="The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Kimpo-Yangchon site, and their interpretations", 
-             label="CSIA_KM"),
-      include.rownames=FALSE,
+             label="CSIA_KM")
+      
+
+align(my_table) <-  "|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|"
+print(my_table, include.rownames=FALSE,
       booktabs = TRUE,
       floating = FALSE, 
-      tabular.environment='longtable'
+      tabular.environment='longtable', 
       )
 ```
+\end{landscape}
+
 
 There are compounds which are only found in certain food groups. Especially, phytanic acid (3,7,11,15-tetramethylhexadecanoic acid) and 4,8,12-TMTD (4,8,12-trimethyltridecanoic acid) are isoprenoid compounds which mostly are found in particularly high concentrations in marine animals [@Evershed2008b; cf. Chapter 4]. Along with thermally produced long-chain ω-(o-alkylphenyl)alkanoic acids, these compounds are indicators of aquatic/marine resources [@Craig2011; @Evershed2008b]. Since the Kimpo-Yangchon site is only 4 kilometers apart from the Han river (Figure \ref{site_locations_zoomin}), it is essential to know whether its dwellers relied on aquatic resources. Among those 20 samples, one samples showed the presence of phytanic acid (KIM061), indicating the possibility that those pots were used for processing aquatic resources.  
 	
