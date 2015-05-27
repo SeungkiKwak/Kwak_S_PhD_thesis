@@ -36,7 +36,7 @@ Identification and characterization of lipid residues rely upon the comparison o
 
 Table 4.1. Criteria used to distinguish food types, based on fatty acid ratios [@Eerkens2005]		
 
-```{r table_example, results='asis', echo=FALSE}
+```{r fatty_acid_ratio, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/fatty_acid_ratio.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -84,7 +84,7 @@ Commodities 					  Lipid biomarkers                                             
 
 Table 4.2. Identification of fatty acid by using GC-MS [modified from @Stear2008] 
 
-```{r table_example, results='asis', echo=FALSE}
+```{r biomarkers, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/biomarkers.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -198,7 +198,7 @@ Plants are consumed by herbivores and herbivores are consumed by carnivores. Sin
 
 Table 4.3. The ranges of bulk $\delta$^13^C values of natural materials [modified from @Mukherjee2004]
 
-```{r table_example, results='asis', echo=FALSE}
+```{r bulk_istope_reference, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/bulk_istope_reference.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf

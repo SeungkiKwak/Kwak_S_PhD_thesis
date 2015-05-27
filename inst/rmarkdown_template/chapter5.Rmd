@@ -71,7 +71,7 @@ As for the Mumun period, 126 house pits, pit features, and firing features were 
  
 Table 5.1. The results of AMS radiocarbon dating of the Kimpo-Yangcho site [@Kim2013]
 
-```{r table_example, results='asis', echo=FALSE}
+```{r radiocarbon_KM, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/radiocarbon_KM.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -150,7 +150,7 @@ At least two samples were collected from each of the houses, except those which 
  
 Table 5.2. The samples collected from the Kimpo-Yangchon site for the organic geochemical analyses in this thesis
 
-```{r table_example, results='asis', echo=FALSE}
+```{r sampling_OG_KM, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/sampling_OG_KM.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -175,7 +175,7 @@ U3046        Area 2-1 “D”/No.10     Body    0.3
 
 Table 5.3. The samples collected from the Kimpo-Yangchon site for the luminescence dating in this thesis
 
-```{r table_example, results='asis', echo=FALSE}
+```{r sampling_LM_KM, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/sampling_LM_KM.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -254,7 +254,7 @@ KIM078	     C14:0, C16:0, C18:0, C20:0	                     -21.8	              
 ---------------------------------------------------------------------------------------------------------------------------------------
 Table 5.4. The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Kimpo-Yangchon site, and their interpretations
 
-```{r table_example, results='asis', echo=FALSE}
+```{r CSIA_KM, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/CSIA_KM.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -298,7 +298,7 @@ Table \ref{LM_KM} shows the results of the luminescence dating. Though the dates
 ---------------------------------------------------------------------------------------------------------------------------
 Table 5.5. The results of the luminescence dating of the potsherd samples from the Kimpo-Yangchon site. Note that the age of U3046 was calculated solely based on the OSL signal due to an abnormally large error term of the TL date (±1538 yr.).
 
-```{r table_example, results='asis', echo=FALSE}
+```{r LM_KM, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/LM_KM.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -347,7 +347,7 @@ Location/house pit No.	 Cultural historical period	  C14 date (BP; uncalibrated)
  
 Table 5.6. The results of AMS radiocarbon dating of the Kimpo-Yangcho site [@Kim2008]
 
-```{r table_example, results='asis', echo=FALSE}
+```{r radiocarbon_SS, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/radiocarbon_SS.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -416,7 +416,7 @@ Sample No.	  Location/house pit No.    Part    C14 date (BP; uncalibrated)
  
 Table 5.7. The samples collected from the Sosa-Dong site for the organic geochemical analyses in this thesis
 
-```{r table_example, results='asis', echo=FALSE}
+```{r sampling_OG_SS, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/sampling_OG_SS.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -442,7 +442,7 @@ U3043	      Area “La”/No.14	        Body	 0.3
 
 Table 5.8. The samples collected from the Sosa-Dong site for the luminescence dating in this thesis
 
-```{r table_example, results='asis', echo=FALSE}
+```{r sampling_LM_SS, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/sampling_LM_SS.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -552,7 +552,7 @@ Sample No.	  Compound detected	                          C16:0($\delta$^13^C)	 C
 --------------------------------------------------------------------------------------------------------------------------------------
 Table 5.9. The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Sosa-Dong site, and their interpretations
 
-```{r table_example, results='asis', echo=FALSE}
+```{r CSIA_SS, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/CSIA_SS.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -592,7 +592,7 @@ Table \ref{LM_SS} shows the results of the luminescence dating. Overall, the dat
 --------------------------------------------------------------------------------------------------------------------------------
 Table 5.10. The results of the luminescence dating of the potsherd samples from the Sosa-Dong site
 
-```{r table_example, results='asis', echo=FALSE}
+```{r LM_SS, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/LM_SS.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -640,7 +640,7 @@ house pit No.	         Cultural historical period	  C14 date (BP; uncalibrated)	
 
 Table 5.11. The results of the AMS radiocarbon dating of the Songguk-Ri site [@Kim2011; -@Kim2013a]
 
-```{r table_example, results='asis', echo=FALSE}
+```{r radiocarbon_SG, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/radiocarbon_SG.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -695,7 +695,7 @@ Sample No.	  Location/house pit No.    Part    C14 date (BP; uncalibrated)
 
 Table 5.12. The samples collected from the Songguk-Ri site for the organic geochemical analyses in this thesis
 
-```{r table_example, results='asis', echo=FALSE}
+```{r sampling_OG_SG, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/sampling_OG_SG.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -798,7 +798,7 @@ Sample No.	  Compound detected	                          C16:0($\delta$^13^C)	  
 ------------------------------------------------------------------------------------------------------------------------------------------
 Table 5.13. The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Songguk-Ri site, and their interpretations
 
-```{r table_example, results='asis', echo=FALSE}
+```{r CSIA_SG, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/CSIA_SG.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -841,7 +841,7 @@ house pit No.	         Cultural historical period	  C14 date (BP; uncalibrated)	
 
 Table 5.14. The results of the AMS radiocarbon dating of the Eupha-Ri site [@Wang2013]
  
-```{r table_example, results='asis', echo=FALSE}
+```{r radiocarbon_EP, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/radiocarbon_EP.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -898,7 +898,7 @@ Sample No.	  Location/house pit No.    Part                  C14 date (BP; uncal
  
 Table 5.15. The samples collected from the Eupha-Ri site for the organic geochemical analyses in this thesis
 
-```{r table_example, results='asis', echo=FALSE}
+```{r sampling_OG_EP, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/sampling_OG_EP.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -925,7 +925,7 @@ U3041	      No. 29	                Body	 0.3
 
 Table 5.16. The samples collected from the Eupha-Ri site for the luminescence dating in this thesis
 
-```{r table_example, results='asis', echo=FALSE}
+```{r sampling_LM_EP, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/sampling_LM_EP.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -974,7 +974,7 @@ Sample No.	  Compound detected	                          C16:0($\delta$^13^C)	 C
 --------------------------------------------------------------------------------------------------------------------------------------------
 Table 5.17. The results of the organic geochemical analyses by GC-MS and GC-C-IRMS of the samples from the Eupha-Ri site, and their interpretations
 
-```{r table_example, results='asis', echo=FALSE}
+```{r CSIA_EP, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/CSIA_EP.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
@@ -1018,7 +1018,7 @@ Table \ref{LM_EP} shows the results of the luminescence dating. U3039 and U3041 
 --------------------------------------------------------------------------------------------------------------------------------- 
 Table 5.18. The results of the luminescence dating of the potsherd samples from the Eupha-Ri site. The overall low water content of the samples shows the less porous nature of the Iron Age pottery.
 
-```{r table_example, results='asis', echo=FALSE}
+```{r LM_EP, results='asis', echo=FALSE}
 # read in the CSV file from /data
 example_tab <- read.csv("data/LM_EP.csv")
 # for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
