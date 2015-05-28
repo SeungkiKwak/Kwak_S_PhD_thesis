@@ -51,18 +51,30 @@ Blue light emitting diodes are most widely used type for generating OSL signal f
 
 \section{Luminescence dating and its application to the Korean archaeology}
 
-The luminescence dating is a technique for dating once-heated materials, and is used by archaeologists primarily to date ancient ceramics and sediments (Feathers 2003). This technique can measure the time that has elapsed since the last exposure to heat and light of the materials constituting the object. As this exposure event generally occurred when pottery was made, the luminescence dating is ideal for dating archaeological ceramics (Feathers 2003). The optically stimulated luminescence dating (hereafter OSL), infrared stimulated luminescence dating (hereafter IRSL), and thermoluminescence dating (hereafter TL) methods employed for dating ceramics have been quite common in Europe and the United States for nearly two decades, but they are yet to be widely used in Korea. Given the abundance of ceramics in Korean archaeological records, it is surprising that the luminescence technique has not been more frequently employed. Though it has been mentioned considerably since its initial introduction (J. Choi et al. 2006; J. Choi et al. 2009), it has been used mainly in the field of geology (J. Bang et al. 2009). In archaeology, after its applicability was considered (D. Hong et al. 2001), it has only been employed to date sediments in Paleolithic archaeological sites (J. Kim et al. 2010).  Probably the absence of archaeological luminescence dating of ceramics in Korea may be attributed to the uncritical acceptance of the relative chronologies. I partially agree to the detailed relative chronologies based on the decoration and style of potteries and their serviceable nature (H. Lee 2008; J. Bae 2007), but their applicability is quite low in subsistence change settings, for they are only based on the physical characteristics of pottery. Of course, the primary purpose of the luminescence dating in this research is to investigate the role of intensive rice farming and to establish the chronology of subsistence strategies over time by correlating the dates it obtained with the results of organic geochemistry analyses. However, with a systematic application of the luminescence dating, I was also able to grasp a glimpse of a more reliable chronology which can be easily applied to other archaeological studies. In 2011, I dated one potsherd from the archaeological deposit in Hongseong city, central part of the Korean peninsula. Using the thermoluminescence method, I was able to confirm that the potsherd was from the proto-historic period (280±86AD; U2516 in Table 3.1). 
+The luminescence dating is a technique for dating once-heated materials, and is used by archaeologists primarily to date ancient ceramics and sediments (Feathers 2003). This technique can measure the time that has elapsed since the last exposure to heat and light of the materials constituting the object. As this exposure event generally occurred when pottery was made, the luminescence dating is ideal for dating archaeological ceramics (Feathers 2003). The optically stimulated luminescence dating (hereafter OSL), infrared stimulated luminescence dating (hereafter IRSL), and thermoluminescence dating (hereafter TL) methods employed for dating ceramics have been quite common in Europe and the United States for nearly two decades, but they are yet to be widely used in Korea. Given the abundance of ceramics in Korean archaeological records, it is surprising that the luminescence technique has not been more frequently employed. Though it has been mentioned considerably since its initial introduction (J. Choi et al. 2006; J. Choi et al. 2009), it has been used mainly in the field of geology (J. Bang et al. 2009). In archaeology, after its applicability was considered (D. Hong et al. 2001), it has only been employed to date sediments in Paleolithic archaeological sites (J. Kim et al. 2010).  Probably the absence of archaeological luminescence dating of ceramics in Korea may be attributed to the uncritical acceptance of the relative chronologies. I partially agree to the detailed relative chronologies based on the decoration and style of potteries and their serviceable nature (H. Lee 2008; J. Bae 2007), but their applicability is quite low in subsistence change settings, for they are only based on the physical characteristics of pottery. Of course, the primary purpose of the luminescence dating in this research is to investigate the role of intensive rice farming and to establish the chronology of subsistence strategies over time by correlating the dates it obtained with the results of organic geochemistry analyses. However, with a systematic application of the luminescence dating, I was also able to grasp a glimpse of a more reliable chronology which can be easily applied to other archaeological studies. In 2011, I dated one potsherd from the archaeological deposit in Hongseong city, central part of the Korean peninsula. Using the thermoluminescence method, I was able to confirm that the potsherd was from the proto-historic period (280±86AD; U2516 in Table \ref{lumi_eg_date}). 
 
 
-\begin{table}[h]
-\begin{tabular}{llllllll}
-Lab. No & Depth (m) & Water Content (\%) & Dose rate* (Gy/ka) & TL (De)                 & OSL (De)    & IRSL (De)   & Age       \\
-U2516   & 0.36      & 20.4               & 5.532±0.277        & 8.712±0.91 & 8.586±0.331 & 7.215±0.361 & 280±86 AD \\
-        &           &                    &                    & 11.665±1.423            &              &
-\end{tabular}
-\end{table}
-		  
-Table 3.1. The result of the luminescence dating (*Dose rates are rounded to two decimal places, but calculation of the total dose rate was carried out prior to rounding)
+\begin{landscape}
+
+```{r table_lumi_eg_date, results='asis', echo=FALSE}
+# read in the CSV file from /data
+example_tab <- read.csv("data/lumi_eg_date.csv", check.names = FALSE)
+# for details of table formatting, see 
+# http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
+my_table <- xtable(example_tab, 
+             size="footnotesize", 
+             caption="The result of the luminescence dating (*Dose rates are rounded to two decimal places, but calculation of the total dose rate was carried out prior to rounding)", 
+             label="lumi_eg_date")
+# set column widths
+align(my_table) <-  "p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}"
+print(my_table, include.rownames=FALSE,
+      booktabs = TRUE,
+      floating = FALSE, 
+      tabular.environment='longtable', 
+      )
+```
+
+\end{landscape}
 
 All the samples for my research was dated at the Luminescence dating lab, Department of Anthropology, University of Washington. The Luminescence dating method enables the evaluation of the time that has passed since the mineral grains were crystallized, that is, since the grains were last exposed to daylight or heated to a few hundred degrees Celsius. Generally, as at the lab of the University of Washington, the method uses an optically and thermally sensitive light or luminescence signal emitted by minerals such as quartz and feldspar. For dating, the amount of absorbed energy (luminescence signal) per mass of mineral (1 J/kg= 1 Gray) due to the natural radiation exposure since the last zeroing - known as the palaeodose - is determined by comparing the natural luminescence signal of the sample with that which is induced by the artificial irradiation (Preusser et al. 2008). The time having passed since the last daylight exposure/heating (the date of the sample) is obtained through dividing the palaeodose by the dose rate, the latter representing the amount of energy deposited per mass of mineral by the radiation exposure on the sample over a certain time (Preusser et al. 2008). The potsherds in this thesis was dated by using this formula, and both of the two general methods, TL, OSL, and IRSL will be applied. For a further clarification, the dates from the luminescence dating were correlated with those from AMS radiocarbon dating.
 
