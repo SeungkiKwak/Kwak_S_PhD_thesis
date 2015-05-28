@@ -1,13 +1,13 @@
-Sample No.,Compound detected,C16:0 (¥ä13C),C18:0 (¥ä13C),Interpretation via CSIA and GC-MS
+Sample No.,Compound detected,C16:0 (¥ä13C),C18:0 (¥ä13C),Interpretation via CSIA and GC.dash.MS
 ,,,,
-EUP005,"C14:0, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C20:0, C21:0, C22:0, C22:1, C23:0, C24:0, phytanic acid",-26.2,-29.4,Aquatic resources
-EUP019,"C16:0, C18:0, C20:0, C22:0, C22:1, C24:0",-29.2,-30.1,Ruminant adipose
-EUP020,"C16:0, C18:0, C18:2",-32.4,-31.4,Not identifiable
-EUP021,"C16:0, C18:0, C18:2",-30.1,-30.4,Ruminant adipose and/or Equine adipose 
-EUP022,"C16:0, C18:0",-32.7,-30.5,Not identifiable
-EUP030,"C14:0, C16:0, C16:1, C18:0, C18:2",-27.3,-29.7,Ruminant adipose and/or  C3 plant oil
-EUP031,"C16:0, C17:0, C18:0, C20:0, C22:0",-26.8,-26.6,Pork adipose and/or Fresh water resource 
-EUP032,"C14:0, C15:0, C16:0, C16:1, C18:0, C18:2",-27,-28.2,Ruminant adipose and/or Fresh water resource  and/or  C3 plant oil
+EUP005,C14:0, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C20:0, C21:0, C22:0, C22:1, C23:0, C24:0, phytanic acid,.dash.26.2,.dash.29.4,Aquatic resources
+EUP019,C16:0, C18:0, C20:0, C22:0, C22:1, C24:0,.dash.29.2,.dash.30.1,Ruminant adipose
+EUP020,C16:0, C18:0, C18:2,.dash.32.4,.dash.31.4,Not identifiable
+EUP021,C16:0, C18:0, C18:2,.dash.30.1,.dash.30.4,Ruminant adipose and/or Equine adipose 
+EUP022,C16:0, C18:0,.dash.32.7,.dash.30.5,Not identifiable
+EUP030,C14:0, C16:0, C16:1, C18:0, C18:2,.dash.27.3,.dash.29.7,Ruminant adipose and/or  C3 plant oil
+EUP031,C16:0, C17:0, C18:0, C20:0, C22:0,.dash.26.8,.dash.26.6,Pork adipose and/or Fresh water resource 
+EUP032,C14:0, C15:0, C16:0, C16:1, C18:0, C18:2,.dash.27,.dash.28.2,Ruminant adipose and/or Fresh water resource  and/or  C3 plant oil
 ,,,,
 ,,,,
 ,,,,

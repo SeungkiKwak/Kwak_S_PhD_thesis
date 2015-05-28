@@ -1,5 +1,5 @@
 Sample No.,House pit or pit feature No.,Part ,C14 date (BP; uncalibrated)
-SON001,No. 52,Body,"2560¡¾40, 2460¡¾40"
+SON001,No. 52,Body,2560??40, 2460??40
 SON002,No. 53,Body,
 SON003,No. 54,Body,
 SON004,No. 60,Body,
@@ -8,8 +8,8 @@ SON006,No. 73,Body,
 SON007,No. 77,Body,
 SON008,No. 54 (pit feature),Body,
 SON009,No. 59 (pit feature),Body,
-SON010,No. 51,Body,"2410¡¾40, 2520¡¾40"
-SON011,No. 51,Body,"2410¡¾40, 2520¡¾40"
+SON010,No. 51,Body,2410??40, 2520??40
+SON011,No. 51,Body,2410??40, 2520??40
 SON012,No. 60,Body,
 SON013,No. 60,Body,
 SON014,No. 61,Body,
@@ -17,7 +17,7 @@ SON015,No. 72,Body,
 SON016,No. 72,Body,
 SON017,No. 74,Body,
 SON018,No. 74,Body,
-SON019,No. 52,Body,"2560¡¾40, 2460¡¾40"
+SON019,No. 52,Body,2560??40, 2460??40
 SON020,No. 53,Body,
 SON021,No. 58,Body,
 SON022,No. 58,Body,
