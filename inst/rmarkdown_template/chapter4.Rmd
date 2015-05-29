@@ -49,46 +49,22 @@ C16:0/C18:0 & Fresh & \textless 3.5 & 4?6 & 3?12 & 5?12 & 0?9 \\
 
 
 
-Most recently, the application of the compound-specific stable carbon isotope analysis (hereafter CSIA) by the gas chromatography-combustion-isotope ratio mass spectrometry (hereafter GC-C-IRMS) enabled a more specific characterization of the organic compounds within archaeological pottery. The stable carbon isotope analysis has become a powerful method for tracing diet patterns of animals, for the isotopic composition of animals depends upon the food they eat [@Malainey2010]. In archaeological settings, the method has been widely used on human remains for understanding human subsistence patterns by distinguishing C3 diets (e.g. rice) from C4 diets (e.g. millet) [@Barton2009; @Bentley2007]. In the field of ceramic studies, Hastorf and DeNiro [-@Hastorf1985] conducted the bulk carbon isotope analysis for charred organic residues on the surface of potsherds to understand the human diet. With the introduction of GC-C-IRMS, the stable carbon isotope value of individual compounds in a mixture can now be measured with high precision, providing a unique opportunity to conduct the carbon isotopic analysis on the fatty acids that are insulated within the fabric of archaeological ceramics [@Mottram1999]. Scholars have been successfully tracing the presence of C3, C4 plants, animal fat, and aquatic resources (e.g. fish and mammals) on prehistoric potsherds through CSIA [@Craig2011; -@Craig2013; @Cramp2011; @Evershed1994; @Evershed1997; @Mottram1999; @Reber2004; @Salque2013].	  
+Most recently, the application of the compound-specific stable carbon isotope analysis (hereafter CSIA) by the gas chromatography-combustion-isotope ratio mass spectrometry (hereafter GC-C-IRMS) enabled a more specific characterization of the organic compounds within archaeological pottery. The stable carbon isotope analysis has become a powerful method for tracing diet patterns of animals, for the isotopic composition of animals depends upon the food they eat [@Malainey2010]. In archaeological settings, the method has been widely used on human remains for understanding human subsistence patterns by distinguishing C3 diets (e.g. rice) from C4 diets (e.g. millet) [@Barton2009; @Bentley2007]. In the field of ceramic studies, Hastorf and DeNiro [-@Hastorf1985] conducted the bulk carbon isotope analysis for charred organic residues on the surface of potsherds to understand the human diet. With the introduction of GC-C-IRMS, the stable carbon isotope value of individual compounds in a mixture can now be measured with high precision, providing a unique opportunity to conduct the carbon isotopic analysis on the fatty acids that are insulated within the fabric of archaeological ceramics [@Mottram1999]. Scholars have been successfully tracing the presence of C3, C4 plants, animal fat, and aquatic resources (e.g. fish and mammals) on prehistoric potsherds through CSIA [@Craig2011; -@Craig2013; @Cramp2011; @Evershed1994; @Evershed1997; @Mottram1999; @Reber2004; @Salque2013].
 
-
------------------------------------------------------------------------------------------------------------------------------
-Commodities 					  Lipid biomarkers                                                       References
---------------------------------- ---------------------------------------------------------------------- --------------------
-	Terrestrial animal fats        Characteristic distribution of TAGs, 								 Evershed et al. 2001
-								   diacylglycerols (hereafter DAGs), monoacylglycerols 
-								   (hereafter MAGs) and free fatty acids. Particularly 
-								   high abundance of C16:0 and C18:0 fatty acids.						    
-                                    
-	Marine animal fats              Isoprenoid fatty acids (4, 8, 12-trimethyltridecanoic 				 Hansel et al. 2004; 
-									acid and phytanic acid). Thermally 									 Copley et al. 2004;
-									produced $\omega$-(o-alkylphenyl)alkanoic 					         Craig et al. 2011 
-									acids																 
-																										  																									
-	Plant waxes 					Long chain alcohols, ketones, n-alkanes, aldehydes 					 Evershed et al. 1991 
-	(e.g. brassica wax)			    and wax esters. Specific biomarkers of brassica wax (cabbage): 
-									nonacosane, nonacosan-15-o1, nonacosan-15-one.                    	        
-									
-	Beeswax                         Characteristic distribution of odd number n-alkanes (C23-C33), 		 Evershed et al. 1997; 
-									even numbered free fatty acids (C22-C30), and long chain palmitic 	 Regert et al. 2003 
-									wax esters (C40-C52)                                      			 
-																										 
-									
-	Birch bark tar                  Triterpenoids from lupane family, namely betulin, lupeol and         Charters et al. 1993
-									lupenone                                                                
-									
-	Palm fruit                      High abundance of C12:0 and C14:0 saturated fatty,acid               Copley et al. 2001   
-------------------------------------------------------------------------------------------------------------------------------
-
-Table 4.2. Identification of fatty acid by using GC-MS [modified from @Stear2008] 
-
-
-
-
-
-
-
-
+\begin{table}[h]
+\begin{tabular}{p{3cm}p{8cm}p{4cm}}
+\hline
+Commodities                     & Lipid biomarkers                                                                                                                                                                            & References                                                \\ \hline
+Terrestrial animal fats         & Characteristic distribution of TAGs, diacylglycerols (hereafter DAGs), monoacylglycerols (hereafter MAGs) and free fatty acids. Particularly high abundance of C16:0 and C18:0 fatty acids. & Evershed et al. 2001                                      \\ \hline
+Marine animal fats              & Isoprenoid fatty acids (4, 8, 12-trimethyltridecanoic acid and phytanic acid). Thermally produced $\omega$-(o-alkylphenyl)alkanoic acids                                                          & Hansel et al. 2004, Copley et al. 2004, Craig et al. 2011 \\ \hline
+Plant waxes (e.g. brassica wax) & Long chain alcohols, ketones, n-alkanes, aldehydes and wax esters. Specific biomarkers of brassica wax (cabbage) nonacosane, nonacosan-15-o1, nonacosan-15-one.                             & Evershed et al. 1991                                      \\ \hline
+Beeswax                         & Characteristic distribution of odd number n-alkanes (C23-C33), even numbered free fatty acids (C22-C30), and long chain palmitic wax esters (C40-C52)                                       & Evershed et al. 1997, Regert et al. 2003                  \\ \hline
+Birch bark tar                  & Triterpenoids from lupane family, namely betulin, lupeol and lupenone                                                                                                                       & Charters et al. 1993                                      \\ \hline
+Palm fruit                      & High abundance of C12:0 and C14:0 saturated fatty acid                                                                                                                                      & Copley et al. 2001                                        \\ \hline
+\end{tabular}
+\caption{Identification of fatty acid by using GC-MS (modified from Stear 2008)}
+\label{biomarkers}
+\end{table}
 
 
 \section{Identification of lipids}
