@@ -218,6 +218,7 @@ Table \ref{LM_KM} shows the results of the luminescence dating. Though the dates
 
 
 \begin{table}[h]
+\centering
 \begin{tabular}{@{}lp{1cm}p{1.5cm}p{1.75cm}lllp{1.75cm}@{}}
 \toprule
 Lab. No & Depth (m) & Water Content (\%) & Dose rate* (Gy/ka) & TL (De)       & OSL (De)      & IRSL (De)     & Age (BC)            \\ \midrule
@@ -233,35 +234,37 @@ U3046   & 0.3       & 15.1               & 6.880±0.579       & 10.792±2.031 & 
 
 The Sosa-Dong site is located on the low hill of Sosa-Dong, Pyeongtaek city, Gyeonggi province. The site is about 2.5 kilometers north of the Anseong stream (Figure \ref{site_locations}; \ref{site_locations_zoomin}).The excavation was conducted by Korea institute of Heritage, from September 2004 to September 2006 [@Kim2008]. The site comprehends various archaeological phenomena such as house pits, mound burials, pit graves, pit features and ditches which belong to different time periods from the Mumun period to the historical Joseon Dynasty (AD 1392 - 1897). 
 
-A total of 81 Mumun period house pits were found. Based on the results of the radiocarbon dating of charcoal from the house pits (Table \ref{radiocarbon_SS}), it is inferred that the site goes back to the times as early as the incipient/early stage of the Mumun period, or as late as the middle/late Mumun period. The house pits are classified into four types based on their shape: square, circular, rectangular, and longhouse. The rectangular and longhouse pits were built around the early stage of the Mumun period (2900 - 2700 BP); and the square and circular pits near the late Mumun period (2500 - 2300 BP). The site has a chronological void from 2700 BP to 2500 BP. Some of these houses incorporate hearths, storage pits and ditches as interior features. Most of the potteries have the rim-punctuation or a combination of lip-scoring/rim-punctuation; and others a combination of double-rim/short slanted incision or rim-punctuation/short slanted incision (figure \ref{SS-artifacts}). As for the ground stone tools, arrowheads, daggers, chisels and axes were found (Figure \ref{SS-artifacts}). As for the farming tools, semi-lunar shaped stone knives (Figure \ref{farming}b) and mortars/pestles were found. Especially, carbonized 46 rice (Oryza sativa; Figure \ref{Rice}a) and 31 possible barley (Hodeum vulgare L.; Figure \ref{Rice}b) grains were found inside of one house pit, near the hearth (Area "Ga"/No. 10). 
+A total of 81 Mumun period house pits were found. Based on the results of the radiocarbon dating of charcoal from the house pits (Table \ref{tab:radiocarbon_SS}), it is inferred that the site goes back to the times as early as the incipient/early stage of the Mumun period, or as late as the middle/late Mumun period. The house pits are classified into four types based on their shape: square, circular, rectangular, and longhouse. The rectangular and longhouse pits were built around the early stage of the Mumun period (2900 - 2700 BP); and the square and circular pits near the late Mumun period (2500 - 2300 BP). The site has a chronological void from 2700 BP to 2500 BP. Some of these houses incorporate hearths, storage pits and ditches as interior features. Most of the potteries have the rim-punctuation or a combination of lip-scoring/rim-punctuation; and others a combination of double-rim/short slanted incision or rim-punctuation/short slanted incision (figure \ref{SS-artifacts}). As for the ground stone tools, arrowheads, daggers, chisels and axes were found (Figure \ref{SS-artifacts}). As for the farming tools, semi-lunar shaped stone knives (Figure \ref{farming}b) and mortars/pestles were found. Especially, carbonized 46 rice (Oryza sativa; Figure \ref{Rice}a) and 31 possible barley (Hodeum vulgare L.; Figure \ref{Rice}b) grains were found inside of one house pit, near the hearth (Area "Ga"/No. 10). 
 
 The overall archaeological phenomena of the Sosa-Dong site are quite similar to those of the Kimpo-Yangchon site. The composition of different types of house pits, potteries and stone artifacts clearly indicate the resemblance between the two sites. Probably one of the most interesting features of the Sosa-Dong site compared with the Kimpo-Yangchon site is carbonized rice and possible barley grains. Considering their 'burnt' condition, it is beyond all doubt that rice and barley were cooked for consumption.    
    
-Location/house pit No.	 Cultural historical period	  C14 date (BP; uncalibrated)	Calendar date 
------------------------ ---------------------------- ----------------------------- ----------------  
- Area "La"/No. 20 	      Mumun                        3010B160	                     BC 1240 
- Area "Da"/No. 5	      Mumun	                       2990B150	                     BC 1220
- Area "Da"/No. 6	      Mumun	                       2990B150	                     BC 1220
- Area "Ga"/No. 17	      Mumun	                       2950B150	                     BC 1160
- Area "Ga"/No. 7	      Mumun	                       2930B160	                     BC 1150 
- Area "Da"/No. 7	      Mumun 	                   2930B150	                     BC 1150 
- Area "La"/No. 10	      Mumun	                       2900B150	                     BC 1120
- Area "Ga"/No. 2	      Mumun	                       2850B160	                     BC 1060
- Area "Ga"/No. 10	      Mumun	                       2840B150	                     BC 1050
- Area "Ga"/No. 14	      Mumun	                       2850B150	                     BC 1050
- Area "Ga"/No. 16	      Mumun	                       2840B150	                     BC 1050
- Area "Ga"/No. 18	      Mumun	                       2840B150	                     BC 1050
- Area "Ga"/No. 28	      Mumun	                       2850B150	                     BC 1050
- Area "Da"/No. 4	      Mumun	                       2810B150	                     BC 980
- Area "Ga"/No. 20	      Mumun	                       2750B150	                     BC 910
- Area "La"/No. 4	      Mumun	                       2740B150	                     BC 900
- Chronological void
- Area "Ga"/No. 13	      Mumun	                       2550B150	                     BC 670
- Area "La"/No. 7	      Mumun	                       2470B180	                     BC 600
- Area "Ga"/No. 15	      Mumun	                       2470B160	                     BC 590
- Area "Ga"/No. 4	      Mumun	                       2300B150	                     BC 310
- 
-Table 5.6. The results of AMS radiocarbon dating of the Kimpo-Yangcho site [@Kim2008]
+\begin{longtable}[htbp]{@{}llll@{}}
+\toprule
+Location/house pit No. & Cultural historical period & C14 date (uncalibrated years BP) & Calendar date \\ \midrule \endhead 
+Area La/No. 20     & Mumun                      & 3010±60                    & BC 1240       \\
+Area Da/No. 5      & Mumun                      & 2990±50                    & BC 1220       \\
+Area Da/No. 6      & Mumun                      & 2990±50                    & BC 1220       \\
+Area Ga/No. 17     & Mumun                      & 2950±50                    & BC 1160       \\
+Area Ga/No. 7      & Mumun                      & 2930±60                    & BC 1150       \\
+Area Da/No. 7      & Mumun                      & 2930±50                    & BC 1150       \\
+Area La/No. 10     & Mumun                      & 2900±50                    & BC 1120       \\
+Area Ga/No. 2      & Mumun                      & 2850±60                    & BC 1060       \\
+Area Ga/No. 10     & Mumun                      & 2840±50                    & BC 1050       \\
+Area Ga/No. 14     & Mumun                      & 2850±50                    & BC 1050       \\
+Area Ga/No. 16     & Mumun                      & 2840±50                    & BC 1050       \\
+Area Ga/No. 18     & Mumun                      & 2840±50                    & BC 1050       \\
+Area Ga/No. 28     & Mumun                      & 2850±50                    & BC 1050       \\
+Area Da/No. 4      & Mumun                      & 2810±50                    & BC 980        \\
+Area Ga/No. 20     & Mumun                      & 2750±50                    & BC 910        \\
+Area La/No. 4      & Mumun                      & 2740±50                    & BC 900        \\
+Chronological void     &                            &                             &               \\
+Area Ga/No. 13     & Mumun                      & 2550±50                    & BC 670        \\
+Area La/No. 7      & Mumun                      & 2470±80                    & BC 600        \\
+Area Ga/No. 15     & Mumun                      & 2470±60                    & BC 590        \\
+Area Ga/No. 4      & Mumun                      & 2300±50                    & BC 310        \\ \bottomrule
+\caption{The results of AMS radiocarbon dating of the Sosa-Dong site}
+\label{tab:radiocarbon_SS}
+\end{longtable}
 
 
 ![Some of the artifacts uncovered during the excavation of the Sosa-Dong site including potsherd, arrowheads and stone chisel. The potsherd in the picture has the rim-punctuation/short slanted incision \label{SS-artifacts}](figures/SS-artifacts.jpg) 
@@ -276,61 +279,24 @@ The general sampling strategy for the organic geochemical analyses on the Sosa-D
 
 ![Diagram showing the lipid concentration of each body part from the both experimental and archaeological sherd samples [adapted from -@Evershed2008] \label{lipidcon}](figures/lipidcon.jpg) 
 
-Sample No.	  Location/house pit No.    Part    C14 date (BP; uncalibrated)
------------ ------------------------- -------- -------------------------------
- SOS030       Area "La"/No. 14	        Body	
- SOS031	      Area "La"/No. 4	        Body	
- SOS032	      Area "La"/No. 4	        Rim	
- SOS033	      Area "La"/No. 4	        Rim	
- SOS034	      Area "Ga"/No. 7	        Body	    2930B160
- SOS035	      Area "Ga"/No. 10	        Body	    2840B150
- SOS036	      Area "Ga"/No. 10	        Body	    2840B150
- SOS037	      Area "Ga"/No. 14	        Body	    2850B150
- SOS038	      Area "Ga"/No. 14	        Body	    2850B150
- SOS039       Area "La"/No. 11	        Rim	
- SOS040	      Area "La"/No. 11	        Body	
- SOS041	      Area "La"/No. 11	        Body	
- SOS042	      Area "Ga"/No. 23	        Body	
- SOS043	      Area "Ga"/No. 23    	    Body	
- SOS044	      Area "Ga"/No. 24	        Body	
- SOS045	      Area "Ga"/No. 24	        Body	
- SOS046	      Area "Ga"/No. 25	        Body	
- SOS047	      Area "Ga"/No. 25	        Body	
- SOS048	      Area "La"/No. 15	        Rim	
- SOS049	      Area "La"/No. 15	        Rim	
- SOS050	      Area "La"/No. 15	        Rim	
- SOS051	      Area "La"/No. 2	        Body	
- SOS052	      Area "La"/No. 2	        Body	
- SOS053	      Area "La"/No. 5	        Body	
- SOS054	      Area "La"/No. 5	        Body	
- SOS055	      Area "La"/No. 10	        Body	    2900B150
- SOS056	      Area "La"/No. 10	        Rim	        2900B150
- SOS057	      Area "La"/No. 19	        Body	
- SOS058    	  Area "La"/No. 19	        Body	
- SOS059	      Area "La"/No. 18	        Body	
- SOS060	      Area "La"/No. 18	        Body	
- SOS061	      Area "La"/No. 31	        Body	
- SOS062	      Area "La"/No. 31	        Body	
- SOS063	      Area "La"/No. 31	        Body	
- SOS064	      Area "La"/No. 32	        Body	
- SOS065	      Area "La"/No. 32	        Body	
- SOS066	      Area "La"/No. 36	        Body	
- 
-Table 5.7. The samples collected from the Sosa-Dong site for the organic geochemical analyses in this thesis
-
 
 \subsubsection{Luminescence dating}
 
-As at the Kimpo-Yangchon site, two samples were collected for the luminesce dating to see if there would be positive correlations between its results and the published AMS radiocarbon dates [@Kim2008, Table 5.6]. One of the two samples was collected from a house which had been dated by the radiocarbon dating, and the other from another which has not been (Table \ref{sampling_LM_SS}). 
-
-Sample No.	  Location/house pit No.	Part	 Depth (m)
------------ ------------------------- -------- -------------
-U3042	      Area "La"/No.4	        Body	 0.3
-U3043	      Area "La"/No.14	        Body	 0.3
-
-Table 5.8. The samples collected from the Sosa-Dong site for the luminescence dating in this thesis
+As at the Kimpo-Yangchon site, two samples were collected for the luminesce dating to see if there would be positive correlations between its results and the published AMS radiocarbon dates [@Kim2008, Table ???]. One of the two samples was collected from a house which had been dated by the radiocarbon dating, and the other from another which has not been (Table \ref{tab:sampling_LM_SS}). 
 
 
+
+\begin{table}[h]
+\centering
+\begin{tabular}{@{}llll@{}}
+\toprule
+Sample No. & Location/house pit No. & Part & Depth (m) \\ \midrule
+U3042      & Area La/No.4       & Body & 0.3       \\
+U3043      & Area La/No.14      & Body & 0.3       \\ \bottomrule
+\end{tabular}
+\caption{ The samples collected from the Sosa-Dong site for the luminescence dating in this thesis}
+\label{tab:sampling_OG_SS}
+\end{table}
 
 \subsection{Organic geochemical results}
 
@@ -340,92 +306,43 @@ Table \ref{CSIA_SS}, Figure \ref{CSIASosa}, \ref{CSIASosa2}, and \ref{CSIASosa3}
 
 As I mentioned above, the most frequently observed compounds in archaeological lipid residues are palmitic (C16:0) and stearic (C18:0) fatty acids [@Evershed2008]. The Sosa-Dong site was not an exception, and the organic compounds of all samples were dominated by those two saturated fatty acids, due to the degradation in soil during several thousand years of post-depositional processes. Along with the C16:0 and C18:0 fatty acids, I was able to identify both major short- and long-chain (un)saturated fatty acids including C13:0, C14:0, C15:0, C15:1, C16:1, C17:0, C18:1, C18:2, C20:0, C22:0, C22:1, C23:0, C24:0, and C24:1.
 
-------------------------------------------------------------------------------------------------------------------------------------------
-Sample No.	  Compound detected	                          C16:0($\delta$^13^C)	 C18:0($\delta$^13^C)	Interpretation via CSIA and GC-MS
------------ -------------------------------------------  ---------------------- ---------------------- -----------------------------------
- SOS030      C16:0, C18:0                                    -25.7	               -27.3	            Fresh water and/or Marine  
- 
- SOS031	     C16:0, C17:0, C18:0	                         -26.0	               -27.9	            Fresh water and/or Marine
-			 
- SOS032	     C14:0, C15:0, C16:0, C16:1, C17:0, C18:0, 	     -23.8	               -25.7	            Marine
-             C18:2, C22:0, C24:0,  C24:1
-			 
- SOS033	     C14:0, C15:0, C15:1, C16:0, C16:1, C17:0,       -22.8	               -31.1	            Not identifiable
-             C18:0, C18:2, C22:0, C24:0, C24:1		
-			 
- SOS035	     C14:0, C16:0, C18:0, C18:2, C22:1, C24:1	     -29.5	               -27.2	            Not identifiable
- 
- SOS036	     C14:0, C16:0, C17:0, C18:0, C18:2, C20:0,       -22.8	               -24.5	            Marine
-             C22:0, C22:1, C24:1
-			 
- SOS037	     C14:0, C16:0, C16:1, C17:0, C18:0, C18:1,       -28.8	               -28.5	            C~3~ plant oil
-             C20:0, C22:1, C24:0, C24:1 	                         
-																					  
- SOS038	     C14:0, C14:1, C16:0, C16:1, C17:0, C18:0,       -26.5	               -24.3	            Pork adipose
-             C18:2, C19:1, C20:0, C22:0. C22:1, C24:1
-			 
- SOS039	     C14:0, C15:0, C16:0, C17:0, C18:0, C19:0,       -30.7	               -28.1	            Equine adipose
-             C20:0, C22:0, C22:1, C24:1
-			 
- SOS040	     C14:0, C16:0, C16:1, C17:0, C18:0, C18:2,       -26.2	               -23.5	            Pork adipose
-             C20:0, C22:0, C22:1, C24:0, C24:1
-			 
- SOS041	     C14:0, C16:0, C18:0, C20:0, C22:0, C22:1,       -26.0	               -23.6	            Pork adipose
-             C24:0, C24:1	
-			 
- SOS042	     C14:0, C14:1, C16:0, C16:1, C17:0, C18:0,       -23.2	               -23.9	            Marine
-             C18:2, C20:0, C22:0, C22:1, C23:0, C24:0, 
-			 C24:1
-			 
- SOS043	     C14:0, C16:0, C16:1, C18:0, C18:1, C18:2,       -26.8	               -26.3	            Pork adipose
-             C19:1, C22:0, C22:1, C23:0, C24:1
-			 
- SOS045	     C14:0, C16:0, C18:0, C18:2, C22:1, C24:1 	     -28.6	               -27.7	            C~3~ plant oil
- 
- SOS047	     C14:0, C16:0, C18:0, C18:2, C22:1, C24:1	     -29.0	               -27.5	            C~3~ plant oil
- 
- SOS048	     C14:0, C16:0, C16:1, C17:0, C18:0, C18:1,       -26.1	               -23.9	            Pork adipose
-             C18:2, C22:0, C22:1, C24:1
-			 
- SOS049	     C16:0, C18:0, C19:0, C20:0, C22:0, C24:0,       -27.4	               -24.3	            Pork adipose
-             C24:1, phytanic acid	                                                                    and/or aquatic resources 
-			 
- SOS050	     C14:0, C16:0, C16:1, C17:0, C18:0, C18:2,       -27.9	               -23.6	            Not identifiable
-             C20:0, C22:0, C22:1, C23:0, C24:0, C24:1
-		
- SOS051	     C14:0, C16:0, C16:1, C17:0, C18:0, C18:1,       -22.3	               -21.4	            Marine
-             C18:2, C19:0, C22:0. C22:1, C24:1 		
-			 
- SOS054	     C14:0, C16:0, C16:1, C17:0, C18:0, C18:2,       -25.2	               -25.7	            Fresh water and/or Marine
-             C22:0, C22:1, C24:1
-	
- SOS055	     C14:0, C16:0, C16:1, C18:0, C18:1, C22:1,       -27.4	               -27.4	            C~3~ plant oil
-             C24:1	                                                                                    and/or Pork adipose
-			
- SOS056	     C14:0, C16:0, C17:0, C18:0, C18:2, C19:0,       -24.6	               -22.3	            Pork adipose
-             C19:1, C20:0, C20:2, C21:0, C22:0, C22:1,                                                  and/or aquatic resources
-             C23:0, C24:0, C24:1, phytanic acid
-			
- SOS057	     C14:0, C16:0, C18:0, C18:2, C20:0, C22:0,       -25:4	               -23:0	            Pork adipose
-             C22:1, C24:0, C24:1 		
-			 
- SOS058	     C14:0, C16:0, C17:0, C18:0, C18:2, C19:0,       -29.0	               -25.0	            Not identifiable
-             C20:0, C22:0, C22:1, C24:0, C24:1	
-			 
- SOS060	     C14:0, C16:0, C18:0, C18:2, C22:1, C24:1	     -25.8	               -24.2	            Pork adipose
-
- SOS062	     C14:0, C16:0, C17:0, C18:0, C18:2, C19:0,       -25.9	               -23.5	            Pork adipose
-             C20:0, C22:0, C22:1, C24:0, C24:1
-			 
- SOS063	     C13:0, C14:0, C14:1, C15:0, C15:1, C16:0,       -25.3	               -23.1	            Pork adipose
-             C16:1, C17:0, C18:0, C18:2, C19:0, C19:1,
-             C20:0, C20:2, C21:0, C22:0, C22:1, C23:0, 
-			 C24:0, C24:1
-			 
- SOS064	     C14:0, C16:0, C16:1, C17:0, C18:0, C18:1,       -25.2	               -26.3	            Fresh water and/or Marine
-             C18:2, C22:1, C24:1	                    
---------------------------------------------------------------------------------------------------------------------------------------
 Table 5.9. The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Sosa-Dong site, and their interpretations
+
+
+\begin{longtable}[htbp]{@{}lp{5cm}llp{4cm}@{}}
+\toprule
+Sample No. & Compound detected                                                                         & C16:0 ($\delta$\textsuperscript{13}C) & C18:0 ($\delta$\textsuperscript{13}C) & Interpretation via CSIA               \\ \midrule \endhead
+SOS030     & C16:0, C18:0                                                                                                                               & -25.7         & -27.3         & Fresh water and/or Marine          \\
+SOS031     & C16:0, C17:0, C18:0                                                                                                                        & -26           & -27.9         & Fresh water and/or Marine          \\
+SOS032     & C14:0, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C24:0,  C24:1                                                                      & -23.8         & -25.7         & Marine                             \\
+SOS033     & C14:0, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C24:0, C24:1                                                                & -22.8         & -31.1         & Not identifiable                   \\
+SOS035     & C14:0, C16:0, C18:0, C18:2, C22:1, C24:1                                                                                                   & -29.5         & -27.2         & Not identifiable                   \\
+SOS036     & C14:0, C16:0, C17:0, C18:0, C18:2, C20:0, C22:0, C22:1, C24:1                                                                              & -22.8         & -24.5         & Marine                             \\
+SOS037     & C14:0, C16:0, C16:1, C17:0, C18:0,  C18:1, C20:0, C22:1, C24:0, C24:1                                                                      & -28.8         & -28.5         & C3 plant oil                       \\
+SOS038     & C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C19:1, C20:0, C22:0. C22:1, C24:1                                                         & -26.5         & -24.3         & Pork adipose                       \\
+SOS039     & C14:0, C15:0, C16:0, C17:0, C18:0, C19:0, C20:0, C22:0, C22:1, C24:1                                                                       & -30.7         & -28.1         & Equine adipose                     \\
+SOS040     & C14:0, C16:0, C16:1, C17:0, C18:0, C18:2, C20:0, C22:0, C22:1, C24:0, C24:1                                                                & -26.2         & -23.5         & Pork adipose                       \\
+SOS041     & C14:0, C16:0, C18:0, C20:0,  C22:0, C22:1, C24:0, C24:1                                                                                    & -26           & -23.6         & Pork adipose                       \\
+SOS042     & C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C20:0, C22:0, C22:1, C23:0, C24:0, C24:1                                                  & -23.2         & -23.9         & Marine                             \\
+SOS043     & C14:0, C16:0, C16:1, C18:0, C18:1, C18:2, C19:1, C22:0, C22:1, C23:0, C24:1                                                                & -26.8         & -26.3         & Pork adipose                       \\
+SOS045     & C14:0, C16:0, C18:0, C18:2, C22:1, C24:1                                                                                                   & -28.6         & -27.7         & C3 plant oil                       \\
+SOS047     & C14:0, C16:0, C18:0, C18:2, C22:1, C24:1                                                                                                   & -29           & -27.5         & C3 plant oil                       \\
+SOS048     & C14:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C22:0, C22:1, C24:1                                                                       & -26.1         & -23.9         & Pork adipose                       \\
+SOS049     & C16:0, C18:0, C19:0, C20:0, C22:0, C24:0, C24:1, phytanic acid                                                                             & -27.4         & -24.3         & Pork adipose and aquatic resources \\
+SOS050     & C14:0, C16:0, C16:1, C17:0, C18:0, C18:2, C20:0, C22:0, C22:1, C23:0, C24:0, C24:1                                                         & -27.9         & -23.6         & Not identifiable                   \\
+SOS051     & C14:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C22:0, C22:1, C24:1                                                                & -22.3         & -21.4         & Marine                             \\
+SOS054     & C14:0, C16:0, C16:1, C17:0, C18:0, C18:2,  C22:0, C22:1, C24:1                                                                             & -25.2         & -25.7         & Fresh water and/or Marine          \\
+SOS055     & C14:0, C16:0, C16:1, C18:0, C18:1, C22:1, C24:1                                                                                            & -27.4         & -27.4         & C3 plant oil and/or Pork adipose   \\
+SOS056     & C14:0, C16:0, C17:0, C18:0, C18:2, C19:0, C19:1, C20:0, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1, phytanic acid                     & -24.6         & -22.3         & Pork adipose and aquatic resources \\
+SOS057     & C14:0, C16:0, C18:0, C18:2, C20:0, C22:0, C22:1, C24:0, C24:1                                                                              & -25.4         & -23           & Pork adipose                       \\
+SOS058     & C14:0, C16:0, C17:0, C18:0, C18:2, C19:0, C20:0, C22:0, C22:1, C24:0, C24:1                                                                & -29           & -25           & Not identifiable                   \\
+SOS060     & C14:0, C16:0, C18:0, C18:2, C22:1, C24:1                                                                                                   & -25.8         & -24.2         & Pork adipose                       \\
+SOS062     & C14:0, C16:0, C17:0, C18:0, C18:2, C19:0, C20:0, C22:0, C22:1, C24:0, C24:1                                                                & -25.9         & -23.5         & Pork adipose                       \\
+SOS063     & C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C19:1, C20:0, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1 & -25.3         & -23.1         & Pork adipose                       \\
+SOS064     & C14:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C22:1, C24:1                                                                              & -25.2         & -26.3         & Fresh water and/or Marine          \\ \bottomrule
+\caption{The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Sosa-Dong site, and their interpretations}
+\label{CSIA_SS}
+\end{longtable}
 
 
 
@@ -445,14 +362,18 @@ The samples were dated using TL, OSL, and IRSL at the luminescence dating lab, U
 
 Table \ref{LM_SS} shows the results of the luminescence dating. Overall, the dates match with the main occupation period of the Sosa-Dong site estimated by the radiocarbon dates. 
 
---------------------------------------------------------------------------------------------------------------------------------
- Lab. No   Depth (m)   Water Content (%)  Dose rate* (Gy/ka)     TL (De)          OSL (De)        IRSL (De)       Age
---------- ----------- ------------------ -------------------- --------------- ----------------- -------------- -----------------
- U3042      0.30        18.4                 7.87B10.47	        20.97B11.59	     14.49B10.43	     13.19B10.31	      882B1209 BC     
- 
- U3043	    0.30	    19.7	             6.66B10.40	        13.99B11.47	     11.96B10.23	     14.18B10.59    	  995B1127 BC                   
---------------------------------------------------------------------------------------------------------------------------------
-Table 5.10. The results of the luminescence dating of the potsherd samples from the Sosa-Dong site
+
+\begin{table}[h]
+\centering
+\begin{tabular}{@{}p{1cm}p{1cm}p{1.5cm}p{1.75cm}lllp{1.75cm}@{}}
+\toprule
+Lab. No & Depth (m) & Water Content (\%) & Dose rate* (Gy/ka) & TL (De)       & OSL (De)      & IRSL (De)     & Age (BC)            \\ \midrule
+U3042   & 0.3       & 18.4               & 7.872±0.475       & 20.97±1.59   & 14.487±0.43  & 13.194±0.307 & 882±209 \\
+U3043   & 0.3       & 19.7               & 6.664±0.400       & 13.999±1.469 & 11.958±0.229 & 14.18±0.591  & 995±127 \\ \bottomrule
+\end{tabular}
+\caption{The results of the luminescence dating of the potsherd samples from the Sosa-Dong site}
+\label{LM-SS}
+\end{table}
 
 
 \section{Songguk-Ri}
@@ -465,28 +386,34 @@ The latest excavation of the Songguk-Ri site was conducted by the Korean Nationa
 
 During the 14th excavation, several kinds of carbonized grains were found at 11 different features including house pits and pit features. The confirmed kinds were rice (Oryza sativa), foxtail millet (Setaria italica), broomcorn millet (Panicum Millaceum), soybean (Glycine max) and azuki (Vigna augularis). The two dominant grains were foxtail millet and rice, which occupied respectively about 65 and 32 percent of the identified ones, (their respective number: 5798 and 2892).
 
-house pit No.	         Cultural historical period	  C14 date (BP; uncalibrated)	Calendar date 
------------------------ ---------------------------- ----------------------------- ----------------  
- No. 2 	                  Mumun                        2430B150	                     BC 475 
- No. 23 		          Mumun	                       2540B150	                     BC 660
- No. 23 	              Mumun	                       2450B140	                     BC 580
- No. 26 	              Mumun	                       2350B160	                     BC 450
- No. 26 	              Mumun	                       2360B150	                     BC 450
- No. 38	                  Mumun	                       2500B160	                     BC 655
- No. 39	                  Mumun	                       2590B150	                     BC 785
- No. 43	                  Mumun	                       2220B160	                     BC 260
- No. 48	                  Mumun	                       2520B150	                     BC 595
- No. 51 	              Mumun	                       2410B140	                     BC 470
- No. 51 	              Mumun	                       2520B140	                     BC 650
- No. 52 	              Mumun	                       2560B140	                     BC 680
- No. 52 	              Mumun	                       2460B140	                     BC 580
- No. 67	                  Mumun	                       2420B140	                     BC 470
- No. 67 	              Mumun	                       2490B150	                     BC 650
- No. 68	                  Mumun	                       2440B140	                     BC 580
- No. 70	                  Mumun	                       2410B140	                     BC 470
- No. 70	                  Mumun	                       2430B150                     	 BC 580
 
-Table 5.11. The results of the AMS radiocarbon dating of the Songguk-Ri site [@Kim2011; -@Kim2013a]
+\begin{table}[h]
+\begin{tabular}{@{}llll@{}}
+\toprule
+house pit No. & Cultural historical period & C14 date (uncalibrated years BP) & Calendar date \\ \midrule
+No. 2         & Mumun                      & 2430±50                    & BC 475        \\
+No. 23        & Mumun                      & 2540±50                    & BC 660        \\
+No. 23        & Mumun                      & 2450±40                    & BC 580        \\
+No. 26        & Mumun                      & 2350±60                    & BC 450        \\
+No. 26        & Mumun                      & 2360±50                    & BC 450        \\
+No. 38        & Mumun                      & 2500±60                    & BC 655        \\
+No. 39        & Mumun                      & 2590±50                    & BC 785        \\
+No. 43        & Mumun                      & 2220±60                    & BC 260        \\
+No. 48        & Mumun                      & 2520±50                    & BC 595        \\
+No. 51        & Mumun                      & 2410±40                    & BC 470        \\
+No. 51        & Mumun                      & 2520±40                    & BC 650        \\
+No. 52        & Mumun                      & 2560±40                    & BC 680        \\
+No. 52        & Mumun                      & 2460±40                    & BC 580        \\
+No. 67        & Mumun                      & 2420±40                    & BC 470        \\
+No. 67        & Mumun                      & 2490±50                    & BC 650        \\
+No. 68        & Mumun                      & 2440±40                    & BC 580        \\
+No. 70        & Mumun                      & 2410±40                    & BC 470        \\
+No. 70        & Mumun                      & 2430±50                    & BC 580        \\ \bottomrule
+\end{tabular}
+\caption{ The results of the AMS radiocarbon dating of the Songguk-Ri site Kim 2011; 2013a}
+\label{radiocarbon-SG}
+\end{table}
+
 
 
 
@@ -498,38 +425,40 @@ Table 5.11. The results of the AMS radiocarbon dating of the Songguk-Ri site [@K
 
 The samples for the organic geochemical analyses were collected during the 14th excavation of the Songguk-Ri site. The general sampling strategy for the site was somewhat different from that of the Kimpo-Yangchon and Sosa-Dong sites. Since the potsherds from the Songguk-Ri site were quite scarce, all the available ones which were conceded by the institution were sampled for the analysis. Under these circumstances, I have collected a total of 27 samples from 16 house pits and 2 pit features (Table \ref{sampling_OG_SG}). Unfortunately, no rim and upper body parts were selectively collected, for none of the available potsherds came from the rim portion. 
 
-Sample No.	  Location/house pit No.    Part    C14 date (BP; uncalibrated)
------------ ------------------------- -------- -------------------------------
- SON001	      No. 52	               Body	     2560B140, 2460B140
- SON002	      No. 53	               Body	
- SON003	      No. 54	               Body	
- SON004	      No. 60	               Body	
- SON005	      No. 70	               Body	
- SON006	      No. 73	               Body	
- SON007	      No. 77	               Body	
- SON008	      No. 54 (pit feature)	   Body	
- SON009	      No. 59 (pit feature)	   Body	
- SON010	      No. 51	               Body	     2410B140, 2520B140
- SON011	      No. 51	               Body	     2410B140, 2520B140
- SON012	      No. 60	               Body	
- SON013	      No. 60	               Body	
- SON014	      No. 61	               Body	
- SON015	      No. 72	               Body	
- SON016	      No. 72	               Body	
- SON017	      No. 74	               Body	
- SON018	      No. 74	               Body	
- SON019	      No. 52	               Body	     2560B140, 2460B140
- SON020	      No. 53                   Body	
- SON021	      No. 58	               Body	
- SON022	      No. 58	               Body	
- SON023	      No. 59	               Body	
- SON024	      No. 59	               Body	
- SON025	      No. 62	               Body	
- SON026	      No. 63	               Body	
- SON027	      No. 69	               Body	
+\begin{longtable}[htbp]{@{}lllll@{}}
+\toprule
+Sample No. & Location/house pit No. & Part & C14 date (uncalibrated years BP) \\ \midrule \endhead 
+SON001     & No. 52                       & Body & 2560±40, 2460±40 \\
+SON002     & No. 53                       & Body &                             &                      \\
+SON003     & No. 54                       & Body &                             &                      \\
+SON004     & No. 60                       & Body &                             &                      \\
+SON005     & No. 70                       & Body &                             &                      \\
+SON006     & No. 73                       & Body &                             &                      \\
+SON007     & No. 77                       & Body &                             &                      \\
+SON008     & No. 54 (pit feature)         & Body &                             &                      \\
+SON009     & No. 59 (pit feature)         & Body &                             &                      \\
+SON010     & No. 51                       & Body & 2410±40, 2520±40 \\
+SON011     & No. 51                       & Body & 2410±40, 2520±40 \\
+SON012     & No. 60                       & Body &                             &                      \\
+SON013     & No. 60                       & Body &                             &                      \\
+SON014     & No. 61                       & Body &                             &                      \\
+SON015     & No. 72                       & Body &                             &                      \\
+SON016     & No. 72                       & Body &                             &                      \\
+SON017     & No. 74                       & Body &                             &                      \\
+SON018     & No. 74                       & Body &                             &                      \\
+SON019     & No. 52                       & Body & 2560±40, 2460±40 \\
+SON020     & No. 53                       & Body &                             &                      \\
+SON021     & No. 58                       & Body &                             &                      \\
+SON022     & No. 58                       & Body &                             &                      \\
+SON023     & No. 59                       & Body &                             &                      \\
+SON024     & No. 59                       & Body &                             &                      \\
+SON025     & No. 62                       & Body &                             &                      \\
+SON026     & No. 63                       & Body &                             &                      \\
+SON027     & No. 69                       & Body &                             &                      \\ \bottomrule
 
-Table 5.12. The samples collected from the Songguk-Ri site for the organic geochemical analyses in this thesis
-
+\caption{The samples collected from the Songguk-Ri site for the organic geochemical analyses in this thesis}
+\label{CSIA-SS}
+\end{longtable}
 
 
 \subsubsection{Luminescence dating}
