@@ -2,10 +2,6 @@
 set_parent("thesis.Rmd")
 ```
 
-```{r}
-knitr::opts_chunk$set(eval=FALSE)
-```
-
 
 
 
@@ -34,23 +30,23 @@ The preservation of organic compounds in the porous walls of pottery was first r
 Identification and characterization of lipid residues rely upon the comparison of chemical properties of lipid biomarker compounds that are complex organic molecular structures derived from organisms, and that are presented in both the archaeological ceramics and contemporary reference plants and animals. Such "biomarkers" can help scientists to reconstruct the dietary life of prehistoric peoples [@Evershed2008, -@Evershed2008a; @Heron1993: pp. 267-270]. This has been achieved by the high temperature gas chromatography (hereafter HTGC) and gas chromatography - mass spectrometry (hereafter GC-MS) techniques that can acquire detailed molecular compositional information from the extracts. That information can subsequently be compared to that of modern reference materials. Through this method, scholars have identified terrestrial and marine animal fats, plant leaf waxes (e.g. cabbage and leek), beeswax, birch bark tar, and palm fruit (Table \ref{biomarkers}).  But the biomarkers only occur in case of good preservation of the organic residues; more often we only have the degraded products. More recently, the use of soft ionization techniques in MS, such as electrospray ionization (ESI), has proven particularly useful in the structural characterization of high molecular weight compounds preserved within archaeological pottery like triacylglycerols (hereafter TAGs). They are more difficult to examine with the GC-MS technique [@Stear2008: p. 26; @Mirabaud2007]. 
 
 
-```{r fatty_acid_ratio, results='asis', echo=FALSE}
-# read in the CSV file from /data
-example_tab <- read.csv("data/fatty_acid_ratio.csv", check.names = FALSE)
-# for details of table formatting, see 
-# http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
-my_table <- xtable(example_tab, 
-             size="footnotesize", 
-             caption="Criteria used to distinguish food types, based on fatty acid ratios (Eerkens 2005)", 
-             label="fatty_acid_ratio")
-# set column widths
-#align(my_table) <-  "p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}"
-print(my_table, include.rownames=FALSE,
-      booktabs = TRUE,
-      floating = FALSE, 
-      tabular.environment='longtable', 
-      )
-```
+\begin{table}[ht]
+\centering
+\begin{tabular}{p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}}
+  \hline
+ratio & State & terrestrial mammals & fish & Roots & greens & seeds/nuts and berries \\ 
+  \hline
+C16:0/C18:0 & Fresh & \textless 3.5 & 4?6 & 3?12 & 5?12 & 0?9 \\ 
+   & degraded & \textless 7 & 8?12 & 6?24 & 10?24 & 0?18 \\ 
+  C12:0/C14:0 & Fresh & \textless 0.15 & \textless 0.15 & \textgreater 0.15 & \textgreater 0.05 & \textgreater 0.15 \\ 
+   & degraded & \textless 0.15 & \textless 0.15 & \textgreater 0.15 & \textgreater 0.05 & \textgreater 0.15 \\ 
+   \hline
+\end{tabular}
+\caption{Criteria used to distinguish food types, based on fatty acid ratios (Eerkens 2005)} 
+\label{fatty_acid_ratio}
+\end{table}
+
+
 
 
 Most recently, the application of the compound-specific stable carbon isotope analysis (hereafter CSIA) by the gas chromatography-combustion-isotope ratio mass spectrometry (hereafter GC-C-IRMS) enabled a more specific characterization of the organic compounds within archaeological pottery. The stable carbon isotope analysis has become a powerful method for tracing diet patterns of animals, for the isotopic composition of animals depends upon the food they eat [@Malainey2010]. In archaeological settings, the method has been widely used on human remains for understanding human subsistence patterns by distinguishing C3 diets (e.g. rice) from C4 diets (e.g. millet) [@Barton2009; @Bentley2007]. In the field of ceramic studies, Hastorf and DeNiro [-@Hastorf1985] conducted the bulk carbon isotope analysis for charred organic residues on the surface of potsherds to understand the human diet. With the introduction of GC-C-IRMS, the stable carbon isotope value of individual compounds in a mixture can now be measured with high precision, providing a unique opportunity to conduct the carbon isotopic analysis on the fatty acids that are insulated within the fabric of archaeological ceramics [@Mottram1999]. Scholars have been successfully tracing the presence of C3, C4 plants, animal fat, and aquatic resources (e.g. fish and mammals) on prehistoric potsherds through CSIA [@Craig2011; -@Craig2013; @Cramp2011; @Evershed1994; @Evershed1997; @Mottram1999; @Reber2004; @Salque2013].	  
@@ -87,23 +83,7 @@ Commodities 					  Lipid biomarkers                                             
 Table 4.2. Identification of fatty acid by using GC-MS [modified from @Stear2008] 
 
 
-```{r biomarkers, results='asis', echo=FALSE}
-# read in the CSV file from /data
-example_tab <- read.csv("data/biomarkers.csv", check.names = FALSE)
-# for details of table formatting, see 
-# http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
-my_table <- xtable(example_tab, 
-             size="footnotesize", 
-             caption="Identification of fatty acid by using GC-MS (modified from Stear 2008)", 
-             label="biomarkers")
-# set column widths
-#align(my_table) <-  "p{1cm}p{3cm}p{8cm}p{3cm}"
-print(my_table, include.rownames=FALSE,
-      booktabs = TRUE,
-      floating = FALSE, 
-      tabular.environment='longtable', 
-      )
-```
+
 
 
 
@@ -179,8 +159,8 @@ $$\delta^{13}C_{mix}=\delta^{13}C_{(A)}\left ( \frac{(X\times A)}{\left (X\times
 
 Where:         
 $\delta$^13^C~mix~ = predicted $\delta$^13^C value of the fatty acid with contributions from fats A and B          
-$\delta$^13^C<sub>(A)</sub> = $\delta$^13^C value of the individual fatty acid in fat A         
-$\delta$^13^C<sub>(B)</sub> = $\delta$^13^C value of the individual fatty acid in fat B         
+$\delta$^13^C\textless sub>(A)\textless /sub> = $\delta$^13^C value of the individual fatty acid in fat A         
+$\delta$^13^C\textless sub>(B)\textless /sub> = $\delta$^13^C value of the individual fatty acid in fat B         
 X = percentage of fat A present (%)         
 Y = percentage of fat B present (%)         
 A = percentage of the individual fatty acid in fat A (%)         
@@ -210,21 +190,6 @@ Plants are consumed by herbivores and herbivores are consumed by carnivores. Sin
 
 Table 4.3. The ranges of bulk $\delta$^13^C values of natural materials [modified from @Mukherjee2004]
 
-```{r bulk_istope_reference, results='asis', echo=FALSE}
-# read in the CSV file from /data
-example_tab <- read.csv("data/bulk_istope_reference.csv", check.names = FALSE)
-# for details of table formatting, see http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf
-print(xtable(example_tab, 
-             size="footnotesize", 
-             caption="The ranges of bulk $\\delta$$^{13}$C values of natural materials modified from Mukherjee (2004)", 
-             label="bulk_istope_reference"),
-      include.rownames=FALSE,
-      booktabs = TRUE,
-      floating = FALSE, 
-      tabular.environment='longtable',
-      sanitize.text.function=function(x){x}
-      )
-```
 
 In case of the archaeological lipid present in potsherds, the contribution of C4 plants to an animal's diet would have cause more enriched $\delta$^13^C values of the C16:0 and C18:0 fatty acids. So, if the reference animals used to compile the database are reared on C3 diets, the $\delta$^13^C values from archaeological lipids will show a deviation from those given by the database, when identifying animal fats with a possible C4 diet contribution. This means, for example, it is quite possible that pure ruminant adipose fat can be misinterpreted as a mixture of ruminant and porcine adipose fats, or even pure pig fat (cf. Figure \ref{mixingcurve}).
 
