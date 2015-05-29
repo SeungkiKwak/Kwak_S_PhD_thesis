@@ -168,65 +168,32 @@ Before collecting 49 samples from the Kinpo-Yangchon site for the organic geoche
 
 Table \ref{CSIA_KM} and Figure \ref{CSIAKimpo}, \ref{CSIAKM2}, and \ref{CSIAKM3} show the results of the organic geochemical analyses. Among the 49 samples, I was able to analyze 20. 29 samples had to be omitted mainly due to contamination and low concentration of lipids. In spite of going through the cleaning process of samples using drill bits to minimize contamination, in accordance with the standard protocol (cf. Chapter 4), not all the sherds were suitable for the analyses. This is mainly because of poor handling of the pottery during the excavation and curation processes. Generally, the most frequently observed compounds in archaeological lipid residues are palmitic (C16:0) and stearic (C18:0) fatty acids [@Evershed2008]. As expected, the organic compounds of all samples were dominated by those two saturated fatty acids. This means those organic compounds were highly degraded in soil during several thousand years of post-depositional processes (cf. Chapter 4). Nevertheless, with the results of GC-MS analysis, I was able to identify both major short- and long-chain (un)saturated fatty acids including C14:0, C15:0, C15:1, C17:0, C18:1, C20:0, C22:0, C22:2, and C24:0.
 
---------------------------------------------------------------------------------------------------------------------------------------------
-Sample No.	  Compound detected	                          C16:0($\delta$^13^C)	 C18:0($\delta$^13^C)	  Interpretation via CSIA and GC-MS
------------ -------------------------------------------  ---------------------- ---------------------- -------------------------------------
-KIM038       C14:0, C15:0, C15:1, C16:0, C16:1, C17:0,       -29.6	               -31.2	              Ruminant adipose
-             C18:0, C18:1, C19:0, C20:0, C21:0, C22:0, 
-	         C24:0	
-			 
-KIM042	     C14:0, C16:0, C17:0, C18:0, C20:0, C20:1,       -28.8	               -27.3                  Not identifiable
-             C22:0, C24:0
-			 
-KIM043	     C16:0, C17:0, C18:0, C20:0, C22:0	             -26.7	               -25.4	              Pork adipose
-
-KIM044	     C14:0, C15:0, C16:0, C16:1, C17:0,              -25.6	               -26.2	              Aquatic resource  
-             C18:0, C20:0, C24:0	                                                                      and/or Pork adipose
-			 
-KIM049	     C14:0, C15:0, C16:0, C17:0, C18:0, C24:0	     -16.8	               -17.2	              Marine and/or C4 plants 
-
-KIM051	     C14:0, C15:0, C16:0, C16:1, C17:0, C18:0,       -27.8	               -27.7	              Pork adipose   
-             C19:0, C20:0, C22:0, C23:0, C24:0	                                                          and/or C~3~ plant oil
-			 
-KIM052	     C16:0, C18:0, C22:2 	                         -27.9	               -29.3	              Ruminant adipose and/or 
-                                                                            		                      C~3~ plant oil
-																					  
-KIM057	     C15:0, C16:0, C17:0, C18:0, C20:0, C20:1	     -24.8	               -22.5	              Pork adipose
-
-KIM059	     C14:0, C15:0, C16:0, C17:0, C18:0, C19:0,       -27.3	               -27.7	              Not identifiable
-             C20:0, C24:0	
-			 
-KIM060	     C14:0, C15:0, C16:0, C17:0, C18:0, C18:1,       -26.7	               -24.7	              Pork adipose
-             C19:0, C20:0, C20:1, C22:0, C24:0	
-			 
-KIM061	     C14:0, C16:0, C18:0, C20:0, phytanic acid	     -23.0	               -25.4	              Marine 
-
-KIM062	     C16:0, C18:0	                                 -27.8	               -26.9	              Pork adipose and/or 
-                                                                                                          C~3~ plant oil
-
-KIM069	     C16:0, C17:0, C18:0, C20:0	                     -25.7	               -26.6	              Aquatic resource 
-                                                                                                          and/or Pork adipose
-																					  
-KIM071	     C16:0, C18:0	                                 -28.7	               -29.8	              Ruminant adipose
-
-KIM072	     C16:0, C18:0	                                 -28.3	               -29.7	              Ruminant adipose  
-                                                                                                          and/or C~3~ plant oil
-																					  
-KIM073	     C14:0, C16:0, C17:0, C18:0	                     -27.2	               -27.8	              Pork adipose and/or 
-                                                                                                          C~3~ plant oil
-
-KIM075	     C14:0, C15:0, C16:0, C17:0, C18:0, C20:0,       -24.1	               -23.5                  Marine and/or 
-             C20:1	                                                                                      Pork adipose
-			 
-KIM076	     C14:0, C16:0, C17:0, C18:0, C20:0	             -26.5	               -26.4	              Pork adipose
-
-KIM077	     C14:0, C16:0, C18:0	                         -27.3	               -27.5	              Not identifiable
-
-KIM078	     C14:0, C16:0, C18:0, C20:0	                     -21.8	               -24.7	              Marine
----------------------------------------------------------------------------------------------------------------------------------------
-Table 5.4. The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Kimpo-Yangchon site, and their interpretations
-
-
+\begin{longtable}[htbp]{@{}lp{5cm}llp{4cm}@{}}
+\toprule
+Sample No. & Compound detected                                                                         & C16:0 ($\delta$\textsuperscript{13}C) & C18:0 ($\delta$\textsuperscript{13}C) & Interpretation via CSIA               \\ \midrule \endhead 
+KIM038     & C14:0, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C20:0, C21:0, C22:0, C24:0 & -29.6         & -31.2         & Ruminant adipose                      \\
+KIM042     & C14:0, C16:0, C17:0, C18:0, C20:0, C20:1, C22:0, C24:0                                    & -28.8         & -27.3         & Not identifiable                      \\
+KIM043     & C16:0, C17:0, C18:0, C20:0, C22:0                                                         & -26.7         & -25.4         & Pork adipose                          \\
+KIM044     & C14:0, C15:0, C16:0, C16:1, C17:0, C18:0, C20:0, C24:0                                    & -25.6         & -26.2         & Aquatic resource and/or Pork adipose  \\
+KIM049     & C14:0, C15:0, C16:0, C17:0, C18:0, C24:0                                                  & -16.8         & -17.2         & Marine                                \\
+KIM051     & C14:0, C15:0, C16:0, C16:1, C17:0, C18:0, C19:0, C20:0, C22:0, C23:0, C24:0               & -27.8         & -27.7         & Pork adipose and/or C3 plant oil      \\
+KIM052     & C16:0, C18:0, C22:2                                                                       & -27.9         & -29.3         & Ruminant adipose and/or C3 plant oil  \\
+KIM057     & C15:0, C16:0, C17:0, C18:0, C20:0, C20:1                                                  & -24.8         & -22.5         & Pork adipose                          \\
+KIM059     & C14:0, C15:0, C16:0, C17:0, C18:0, C19:0, C20:0, C24:0                                    & -27.3         & -27.7         & Not identifiable                      \\
+KIM060     & C14:0, C15:0, C16:0, C17:0, C18:0, C18:1, C19:0, C20:0, C20:1, C22:0, C24:0               & -26.7         & -24.7         & Pork adipose                          \\
+KIM061     & C14:0, C16:0, C18:0, C20:0, phytanic acid                                                 & -23           & -25.4         & Marine                                \\
+KIM062     & C16:0, C18:0                                                                              & -27.8         & -26.9         & Pork adipose and/or C3 plant oil      \\
+KIM069     & C16:0, C17:0, C18:0, C20:0                                                                & -25.7         & -26.6         & Aquatic resource and/or Pork adipose  \\
+KIM071     & C16:0, C18:0                                                                              & -28.7         & -29.8         & Ruminant adipose                      \\
+KIM072     & C16:0, C18:0                                                                              & -28.3         & -29.7         & Ruminant adipose and/or  C3 plant oil \\
+KIM073     & C14:0, C16:0, C17:0, C18:0                                                                & -27.2         & -27.8         & Pork adipose and/or C3 plant oil      \\
+KIM075     & C14:0, C15:0, C16:0, C17:0, C18:0, C20:0, C20:1                                           & -24.1         & -23.5         & Marine and/or Pork adipose            \\
+KIM076     & C14:0, C16:0, C17:0, C18:0, C20:0                                                         & -26.5         & -26.4         & Pork adipose                          \\
+KIM077     & C14:0, C16:0, C18:0                                                                       & -27.3         & -27.5         & Not identifiable                      \\
+KIM078     & C14:0, C16:0, C18:0, C20:0                                                                & -21.8         & -24.7         & Marine                                \\ \bottomrule
+\caption{The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Kimpo-Yangchon site, and their interpretations}
+\label{CSIA_KM}
+\end{longtable}
 
 
 There are compounds which are only found in certain food groups. Especially, phytanic acid (3,7,11,15-tetramethylhexadecanoic acid) and 4,8,12-TMTD (4,8,12-trimethyltridecanoic acid) are isoprenoid compounds which mostly are found in particularly high concentrations in marine animals [@Evershed2008b; cf. Chapter 4]. Along with thermally produced long-chain O	-(o-alkylphenyl)alkanoic acids, these compounds are indicators of aquatic/marine resources [@Craig2011; @Evershed2008b]. Since the Kimpo-Yangchon site is only 4 kilometers apart from the Han river (Figure \ref{site_locations_zoomin}), it is essential to know whether its dwellers relied on aquatic resources. Among those 20 samples, one samples showed the presence of phytanic acid (KIM061), indicating the possibility that those pots were used for processing aquatic resources.  
@@ -248,15 +215,18 @@ The samples were dated using TL, OSL, and IRSL at the luminescence dating lab, U
  
 Table \ref{LM_KM} shows the results of the luminescence dating. Though the dates were slightly outside the main occupation period (2,800 - 2,700 BP) of the Kimpo-Yangchon site estimated by the radiocarbon dates, they corresponded overall with the published dates.
 
---------------------------------------------------------------------------------------------------------------------------
- Lab. No   Depth(m)   Water Content(%)  Dose rate (Gy/ka)    TL (De)          OSL (De)     IRSL (De)      Age
---------- ---------- ----------------- ------------------- --------------- -------------- -------------- -----------------
- U3045      0.30        10.7               5.23B10.49        13.62B13.55      12.82B10.30     11.14B10.43      658B1150 BC           
- 
- U3046	    0.30	    15.1	           6.88B10.58	    10.79B12.03	    11.77B10.39     10.16B10.44      495B1185 BC 
-                                                                                                             (OSL)                  
----------------------------------------------------------------------------------------------------------------------------
-Table 5.5. The results of the luminescence dating of the potsherd samples from the Kimpo-Yangchon site. Note that the age of U3046 was calculated solely based on the OSL signal due to an abnormally large error term of the TL date (B11538 yr.).
+
+
+\begin{table}[h]
+\begin{tabular}{@{}lp{1cm}p{1.5cm}p{1.75cm}lllp{1.75cm}@{}}
+\toprule
+Lab. No & Depth (m) & Water Content (\%) & Dose rate* (Gy/ka) & TL (De)       & OSL (De)      & IRSL (De)     & Age (BC)            \\ \midrule
+U3045   & 0.3       & 10.7               & 5.227±0.486       & 13.625±3.55  & 12.819±0.296 & 11.141±0.429 & 658±150       \\
+U3046   & 0.3       & 15.1               & 6.880±0.579       & 10.792±2.031 & 11.775±0.389 & 10.16±0.445  & 495±185 (OSL) \\ \bottomrule
+\end{tabular}
+\caption{The results of the luminescence dating of the potsherd samples from the Kimpo-Yangchon site. Note that the age of U3046 was calculated solely based on the OSL signal due to an abnormally large error term of the TL date (11538 yr)}
+\label{LM_KM}
+\end{table}
 
 
 \section{Sosa-Dong}
