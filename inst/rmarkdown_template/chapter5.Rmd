@@ -86,59 +86,64 @@ At least two samples were collected from each of the houses, except those which 
 
 ![Some of the artifacts uncovered during the excavation of the Kimpo-Yangchon site: semi-lunar shaped knife (upper-left), pots (rim-punctuation; upper-right), and arrowheads (down-left) \label{KY-artifacts}](figures/KY-artifacts.jpg)
 
- Sample No.	 Location/house pit No.	 Part 	C14 date (BP; uncalibrated)   
------------ ----------------------- ------ ----------------------------- 
- KIM030	     Area 2-3 "Na"/No.3	     Body	2660B150 	
- KIM031	     Area 2-3 "Na"/No.3	     Body		
- KIM032	     Area 2-3 "Na"/No.7	     Body	2710B150 	
- KIM033	     Area 2-3 "Na"/No.7	     Body	2710B150 	
- KIM034	     Area 2-3 "Na"/No.7	     Body	2760B150 	
- KIM035	     Area 2-3 "Na"/No.8	     Body	2920B150 	
- KIM036	     Area 2-3 "Na"/No.8	     Body	2920B150 	
- KIM037	     Area 2-3 "Na"/No.8	     Body	2920B150 	
- KIM038	     Area 2-3 "Na"/No.11	 Body		                          
- KIM039	     Area 2-1 "L"/No.3	     Body	2960B150	
- KIM040	     Area 2-1 "L"/No.3	     Body   2960B150	
- KIM041	     Area 2-1 "L"/No.3	     Body	2960B150	
- KIM042	     Area 2-1 "L"/No.10	     Rim	2820B150 	                  
- KIM043      Area 2-1 "L"/No.10	     Body	2820B150 	                  
- KIM044   	 Area 2-1 "L"/No.11	     Body	2910B150 	                  
- KIM045	     Area 2-1 "L"/No.11      Body	2910B150 	
- KIM046	     Area 2-1 "F"/No.1	     Body	4530B150 (Chulmun)	
- KIM047	     Area 2-1 "F"/No.1	     Body	4530B150 (Chulmun)	
- KIM048    	 Area 2-1 "B-1"/No.1     Body		
- KIM049	     Area 2-1 "D"/No.14	     Body		                         
- KIM050	     Area 2-1 "D"/No.14	     Body		
- KIM051	     Area 2-1 "D"/No.8	     Body		                         
- KIM052	     Area 2-1 "D"/No.8	     Body		                         
- KIM053	     Area 2-1 "D"/No.9	     Body		
- KIM054	     Area 2-1 "D"/No.9	     Body		
- KIM055	     Area 2-1 "D"/No.15      Body		
- KIM056	     Area 2-1 "D"/No.15	     Body		
- KIM057	     Area 2-1 "L"/No.3	     Body		                         
- KIM058	     Area 2-1 "D"/No.10	     Body		
- KIM059	     Area 2-3 "NA"/No.5	     Body		                         
- KIM060	     Area 2-3 "NA"/No.5	     Body	                             
- KIM061	     Area 2-1 "G"/No.3	     Body	                             
- KIM062	     Area 2-1 "G"/No.3	     Body		                         
- KIM063    	 Area 2-1 "H"/No.5	     Body	 2380B140	
- KIM064	     Area 2-1 "H"/No.5	     Body	 2380B140	
- KIM065	     Area 2-1 "H"/No.12      Body	 2770B140	
- KIM066	     Area 2-1 "H"/No.12	     Body	 2770B140	
- KIM067	     Area 2-1 "H"/No.20	     Body		
- KIM068	     Area 2-1 "H"/No.20	     Body		
- KIM069	     Area 2-4 "Ra"/No.20	 Body		                         
- KIM070	     Area 2-3 "Na"/No.3	     Body		
- KIM071	     Area 2-1 "B-1"/No.3	 Body		                         
- KIM072	     Area 2-1 "D"/No.14      Body		                         
- KIM073	     Area 2-1 "G"/No.5	     Rim		                         
- KIM074	     Area 2-1 "G"/No.5	     Body		
- KIM075	     Area 2-1 "J"/No.1	     Body		                         
- KIM076	     Area 2-1 "L"/No.1	     Body		                         
- KIM077	     Area 2-1 "D"/No.9	     Body		                         
- KIM078	     Area 2-1 "L"/No.9	     Rim		                         
- 
-Table 5.2. The samples collected from the Kimpo-Yangchon site for the organic geochemical analyses in this thesis
+
+\newpage
+\begin{longtable}[htbp]{@{}llll@{}}
+\toprule
+Location/house pit No. & Cultural historical period & C14 date (uncalibrated years BP) & Calendar date \\ \midrule \endhead 
+Area 2-1 B/No.1        & Mumun                      & 2650±150                & BC 815        \\
+Area 2-1 B-1/No.1      & Mumun                      & 3010±150                & BC 1255       \\
+Area 2-1 B-1/No.2      & Mumun                      & 2540±140                & BC 770        \\
+Area 1-D /No.22        & Mumun                      & 2770±160                & BC 910        \\
+Area 1-D /No.23        & Mumun                      & 2850±40                 & BC 1005       \\
+Area 2-1 F/No.1        & Chulmun                    & 4530±50                 & BC 3175       \\
+Area 2-1 F/No.2        & Chulmun                    & 4550±50                 & BC 3175       \\
+Area 1-G /No.4         & Mumun                      & 2700±40                 & BC 835        \\
+Area 1-G /No.2         & Mumun                      & 2680±50                 & BC 830        \\
+Area 1-H /No.5         & Mumun                      & 2380±40                 & BC 455        \\
+Area 1-H /No.12        & Mumun                      & 2770±40                 & BC 935        \\
+Area 2-1 B-1/No.3      & Mumun                      & 2950±50                 & BC 1175       \\
+Area 2-1 J/No.1        & Mumun                      & 2670±40                 & BC 820        \\
+Area 2-1 J/No.3        & Mumun                      & 2820±50                 & BC 975        \\
+Area 2-1 J/No.4        & Mumun                      & 2740±50                 & BC 875        \\
+Area 2-1 J/No.6        & Mumun                      & 2830±50                 & BC 980        \\
+Area 2-1 J/No.9        & Chulmun                    & 4020±50                 & BC 2525       \\
+Area 2-1 J/No.10       & Mumun                      & 2710±40                 & BC 860        \\
+Area 2-1 J/No.12       & Mumun                      & 2900±50                 & BC 1100       \\
+Area 2-1 J/No.13       & Mumun                      & 2650±50                 & BC 815        \\
+Area 2-1 J/No.13       & Mumun                      & 2920±50                 & BC 1130       \\
+Area 2-1 J/No.16       & Mumun                      & 2630±40                 & BC 808        \\
+Area 2-1 J/No.18       & Mumun                      & 2560±50                 & BC 775        \\
+Area 2-1 K/No.1        & Mumun                      & 2900±50                 & BC 1100       \\
+Area 2-1 K/No.2        & Mumun                      & 2630±40                 & BC 808        \\
+Area 1-K /No.3         & Mumun                      & 3020±50                 & BC 1300       \\
+Area 1-L /No.3         & Mumun                      & 2960±50                 & BC 1190       \\
+Area 1-L /No.5         & Mumun                      & 2750±50                 & BC 885        \\
+Area 1-L /No.6         & Mumun                      & 2550±40                 & BC 770        \\
+Area 1-L /No.10        & Mumun                      & 2820±50                 & BC 975        \\
+Area 1-L /No.11        & Mumun                      & 2910±50                 & BC 1105       \\
+Area 1-L /No.12        & Mumun                      & 2820±60                 & BC 975        \\
+Area 1-L /No.13        & Mumun                      & 2750±50                 & BC 885        \\
+Area 1-L /No.14        & Mumun                      & 2800±50                 & BC 955        \\
+Area 1-L /No.15        & Mumun                      & 3090±60                 & BC 1360       \\
+Area 1-L /No.16        & Mumun                      & 2990±50                 & BC 1215       \\
+Area 1-L /No.17        & Mumun                      & 2910±50                 & BC 1105       \\
+Area 1-L /No.19        & Mumun                      & 2720±50                 & BC 863        \\
+Area 1-L /No.20        & Mumun                      & 2550±50                 & BC 770        \\
+Area 2-3 Na /No.1      & Mumun                      & 2520±50                 & BC 595        \\
+Area 2-3 Na /No.3      & Mumun                      & 2660±60                 & BC 845        \\
+Area 2-3 Na /No.4      & Mumun                      & 2760±50                 & BC 885        \\
+Area 2-3 Na /No.6      & Mumun                      & 2680±56                 & BC 830        \\
+Area 2-3 Na /No.7      & Mumun                      & 2710±50                 & BC 858        \\
+Area 2-3 Na /No.8      & Mumun                      & 2920±50                 & BC 1130       \\
+Area 2-3 Na /No.15     & Mumun                      & 2850±50                 & BC 1010       \\
+Area 2-4 Ga /No. 2     & Baekje Kingdom             & 1730±80                 & AD 320        \\
+Area 2-4 Ga /No. 11    & Baekje Kingdom             & 1670±50                 & AD 375        \\
+Area 2-4 Ga /No. 13    & Baekje Kingdom             & 1670±60                 & AD 375        \\
+Area 2-4 Ga /No. 8     & BaekJe Kingdom             & 1880±60                 & AD 145        \\ \bottomrule
+\caption{The samples collected from the Kimpo-Yangchon site for the organic geochemical analyses in this thesis}
+\label{tab:radiocarbon_KM}
+\end{longtable}
 
 
 
