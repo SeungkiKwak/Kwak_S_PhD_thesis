@@ -1,9 +1,9 @@
 Material,Bulk $\delta$$^{13}$C value ($\permil$)
-C3 plant,.dash.32 to .dash.20
-C4 plant,.dash.17 to .dash.9
-CAM plant,.dash.20 to .dash.10
-Groundwater,.dash.25 to .dash.10
-Atmospheric CO$_{2}$,.dash.8
-Sea grasses,.dash.15 to .dash.3
-Marine vertebrates,.dash.17
+C3 plant,-32 to -20
+C4 plant,-17 to -9
+CAM plant,-20 to -10
+Groundwater,-25 to -10
+Atmospheric CO$_{2}$,-8
+Sea grasses,-15 to -3
+Marine vertebrates,-17
 Marine carbonates,0

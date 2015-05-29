@@ -1,19 +1,19 @@
 Sample No.,Compound detected,C16:0 (??13C),C18:0 (??13C),Interpretation via CSIA
-SON001,C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0,.dash.28.1,.dash.24.9,Possibly Pork adipose
-SON002,C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C18:0, C18:1, C19:0, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0,.dash.27.1,.dash.25.7,Pork adipose
-SON003,C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1,.dash.27.1,.dash.27.6,Fresh water and/or C3 plant oil
-SON004,C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1,.dash.26.6,.dash.25.9,Pork adipose
-SON005,C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1,.dash.28.7,.dash.31.6,Ruminant adipose 
-SON006,C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C18:0, C18:1, C18:2, C19:0, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1,.dash.27.6,.dash.26.9,Pork adipose
-SON012,C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C20:0, C20:1, C21:0, C22:0, C22:1, C24:0, C24:1,.dash.28.1,.dash.27.7,C3 plant oil
-SON013,C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1,.dash.26.7,.dash.26.4,Pork adipose
-SON014,C13:0, C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C22:1, C24:1,.dash.27.9,.dash.29,Ruminant adipose and/or C3 plant oil
-SON016,C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C20:0, C22:1, C24:1,.dash.27.7,.dash.24.7,Possibly Pork adipose
-SON017,C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C22:1, C24:0, C24:1,.dash.27.3,.dash.28.4,Fresh water and/or C3 plant oil
-SON018,C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C22:1, C24:0, C24:1,.dash.23.2,.dash.23.9,Marine
-SON020,C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1,.dash.27.3,.dash.28.6,Fresh water and/or C3 plant oil
-SON022,C14:0, C14:1, C16:0, C16:1, C18:0, C18:2, C20:0, C22:1, C24:1 ,.dash.28.9,.dash.29.3,Ruminant adipose
-SON024,C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C20:0, C22:0, C22:1, C23:0, C24:0, C24:1, phytanic acid,.dash.27.5,.dash.28,Fresh water and/or C3 plant oil
-SON025,C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C20:2, C21:0, C22:0, C22:1, C24:1,.dash.30.1,.dash.28.4,Equine adipose
-SON026,C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C22:0, C22:1, C24:1,.dash.30,.dash.28.9,Equine adipose
-SON027,C14:0, C16:0, C16:1, C18:0, C18:2, C22:1, C24:1,.dash.28.5,.dash.28.1,Terrestrial non.dash.ruminant and/or C3 plant oil
+SON001,"C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0",-28.1,-24.9,Possibly Pork adipose
+SON002,"C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C18:0, C18:1, C19:0, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0",-27.1,-25.7,Pork adipose
+SON003,"C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1",-27.1,-27.6,Fresh water and/or C3 plant oil
+SON004,"C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1",-26.6,-25.9,Pork adipose
+SON005,"C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1",-28.7,-31.6,Ruminant adipose 
+SON006,"C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C18:0, C18:1, C18:2, C19:0, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1",-27.6,-26.9,Pork adipose
+SON012,"C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C20:0, C20:1, C21:0, C22:0, C22:1, C24:0, C24:1",-28.1,-27.7,C3 plant oil
+SON013,"C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1",-26.7,-26.4,Pork adipose
+SON014,"C13:0, C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C22:1, C24:1",-27.9,-29,Ruminant adipose and/or C3 plant oil
+SON016,"C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C20:0, C22:1, C24:1",-27.7,-24.7,Possibly Pork adipose
+SON017,"C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C22:1, C24:0, C24:1",-27.3,-28.4,Fresh water and/or C3 plant oil
+SON018,"C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C22:1, C24:0, C24:1",-23.2,-23.9,Marine
+SON020,"C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1",-27.3,-28.6,Fresh water and/or C3 plant oil
+SON022,"C14:0, C14:1, C16:0, C16:1, C18:0, C18:2, C20:0, C22:1, C24:1 ",-28.9,-29.3,Ruminant adipose
+SON024,"C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C20:0, C22:0, C22:1, C23:0, C24:0, C24:1, phytanic acid",-27.5,-28,Fresh water and/or C3 plant oil
+SON025,"C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C20:2, C21:0, C22:0, C22:1, C24:1",-30.1,-28.4,Equine adipose
+SON026,"C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C22:0, C22:1, C24:1",-30,-28.9,Equine adipose
+SON027,"C14:0, C16:0, C16:1, C18:0, C18:2, C22:1, C24:1",-28.5,-28.1,Terrestrial non-ruminant and/or C3 plant oil

@@ -2,6 +2,13 @@
 set_parent("thesis.Rmd")
 ```
 
+```{r}
+knitr::opts_chunk$set(eval=FALSE)
+```
+
+
+
+
 \chapter{Methodological background, Research design and analytical procedure of the organic geochemical analyses}
 
 \section{Introduction}
@@ -37,7 +44,7 @@ my_table <- xtable(example_tab,
              caption="Criteria used to distinguish food types, based on fatty acid ratios (Eerkens 2005)", 
              label="fatty_acid_ratio")
 # set column widths
-align(my_table) <-  "p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}"
+#align(my_table) <-  "p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}"
 print(my_table, include.rownames=FALSE,
       booktabs = TRUE,
       floating = FALSE, 
@@ -90,7 +97,7 @@ my_table <- xtable(example_tab,
              caption="Identification of fatty acid by using GC-MS (modified from Stear 2008)", 
              label="biomarkers")
 # set column widths
-align(my_table) <-  "p{1cm}p{3cm}p{8cm}p{3cm}"
+#align(my_table) <-  "p{1cm}p{3cm}p{8cm}p{3cm}"
 print(my_table, include.rownames=FALSE,
       booktabs = TRUE,
       floating = FALSE, 
@@ -122,7 +129,7 @@ Figure \ref{Partial_HTGC_profile} shows an example of degraded animal fat obtain
 
 Distributions of TAGs in ancient fats from pots can provide a reasonable evidence for the presence of animal fats and dairy products. For the detection of TAG 'biomarkers', GC-MS is used, which can help to make distinctions between different kinds of animal fats [@Dudd1998]. For example, bovine adipose fats possess saturated TAGs of every carbon number between C44 and C54 and pig fats contain a narrow distribution of them (e.g. TAGs range from C46 to C54) [cf. @Mukherjee2004]. On the other hand, milk fats are quite distinctive because of their relatively wide TAG distribution ranging from C40 to C54 [@Dudd1998; @Evershed2003]. Figure \ref{TAGdistribution} shows TAG distributions of both fresh/degraded lipid residues gathered from the modern reference fats. Most importantly, however, it should be addressed that distributions of TAGs alone are not sufficient enough for the proper identification of lipid origin. Moreover, TAGs frequently do not survive in archaeological residues. Due to this vulnerable characteristic, sometimes TAGs may be misinterpreted. Figure \ref{TAGdistribution}d and e indicate fresh and degraded ruminant milk fat. Since the degradation processes during vessel use or burial make ruminant milk TAG distributions (\ref{TAGdistribution}e) similar to those of adipose fats (\ref{TAGdistribution}a; b), a further decision has to be made based on a more robust stable isotopic criterion [Berstan 2002; @Copley2003; @Dudd1998].
 
-In this study, GC-MS was applied to identify the compounds which are only found in certain food groups (cf. Table 4.2). The biomarkers which these compounds constitute are present in different types of fats; for example, short chain fatty acids in dairy fat, unsaturated fatty acids in plant oil, cholesterol in animal fats and plant sterols (e.g. b-sitosterol) in plant oil. Especially, Phytanic acid (3,7,11,15-tetramethylhexadecanoic acid) and 4,8,12-TMTD (4,8,12-trimethyltridecanoic acid) are isoprenoid compounds that mostly found in particularly high concentrations in marine animals [@Evershed2008b]. Along with thermally produced long-chain ω-(o-alkylphenyl)alkanoic acids, these compounds are indicators of aquatic/marine resources [@Craig2011; @Evershed2008b]. But, as I already indicated, they only occur in case of good preservation of food residues. One way to deal with this preservation issue, which I will employ in this study, is to use GC-MS in the selection monitoring (SIM) mode, where the analysis focuses on specific biomarkers, in order to try to get a better signal from the compounds which may be present in very low quantities, or which may be masked by more abundant compounds such as C16:0 and C18:0 fatty acids.
+In this study, GC-MS was applied to identify the compounds which are only found in certain food groups (cf. Table 4.2). The biomarkers which these compounds constitute are present in different types of fats; for example, short chain fatty acids in dairy fat, unsaturated fatty acids in plant oil, cholesterol in animal fats and plant sterols (e.g. b-sitosterol) in plant oil. Especially, Phytanic acid (3,7,11,15-tetramethylhexadecanoic acid) and 4,8,12-TMTD (4,8,12-trimethyltridecanoic acid) are isoprenoid compounds that mostly found in particularly high concentrations in marine animals [@Evershed2008b]. Along with thermally produced long-chain O	-(o-alkylphenyl)alkanoic acids, these compounds are indicators of aquatic/marine resources [@Craig2011; @Evershed2008b]. But, as I already indicated, they only occur in case of good preservation of food residues. One way to deal with this preservation issue, which I will employ in this study, is to use GC-MS in the selection monitoring (SIM) mode, where the analysis focuses on specific biomarkers, in order to try to get a better signal from the compounds which may be present in very low quantities, or which may be masked by more abundant compounds such as C16:0 and C18:0 fatty acids.
 
 \subsection{Compound specific isotope analysis}
 
@@ -211,10 +218,10 @@ print(xtable(example_tab,
              size="footnotesize", 
              caption="The ranges of bulk $\\delta$$^{13}$C values of natural materials modified from Mukherjee (2004)", 
              label="bulk_istope_reference"),
-      #include.rownames=FALSE,
-      #booktabs = TRUE,
-      #floating = FALSE, 
-      #tabular.environment='longtable',
+      include.rownames=FALSE,
+      booktabs = TRUE,
+      floating = FALSE, 
+      tabular.environment='longtable',
       sanitize.text.function=function(x){x}
       )
 ```
@@ -261,7 +268,7 @@ In this thesis, as for the CSIA, the archaeological samples from the central par
 
 \section{Analytical procedures}
 
-Lipids are medium-sized molecules that possess predominantly linear, branched or cyclic hydrocarbon skeletons making them soluble in organic solvents (Correa-Ascencio and Evershed 2014). For this reason, the most well-known way of the extraction of organic compounds is using a solvent mixture (e.g. chloroform–methanol 2 : 1 v/v) and the ultra-sonication of powdered potsherds. The main purpose of this approach is to extract free fatty acids and other organic compounds that are absorbed and trapped in the voids of clay matrixes. This way of extraction of lipids from archaeological ceramics by a solvent mixture has proven its effectiveness in different parts of the world. However, Craig and his colleagues [-@Craig2004] showed that lipid recovery can be incomplete when extracting with a solvent mixture, and some portions of residues do remain non-extractable without the use of a stronger extractant (e.g. methanolic sodium hydroxide). As a response to that, Correa-Ascencio and Evershed [-@Correa-Ascencio2014] recently developed a new extraction protocol that uses acidified methanol (2% sulfuric acid–methanol v/v). According to Correa-Ascencio and Evershed, this new “methanolic acid extraction” has several advantages over the method of conventional solvent extraction:
+Lipids are medium-sized molecules that possess predominantly linear, branched or cyclic hydrocarbon skeletons making them soluble in organic solvents (Correa-Ascencio and Evershed 2014). For this reason, the most well-known way of the extraction of organic compounds is using a solvent mixture (e.g. chloroform-methanol 2 : 1 v/v) and the ultra-sonication of powdered potsherds. The main purpose of this approach is to extract free fatty acids and other organic compounds that are absorbed and trapped in the voids of clay matrixes. This way of extraction of lipids from archaeological ceramics by a solvent mixture has proven its effectiveness in different parts of the world. However, Craig and his colleagues [-@Craig2004] showed that lipid recovery can be incomplete when extracting with a solvent mixture, and some portions of residues do remain non-extractable without the use of a stronger extractant (e.g. methanolic sodium hydroxide). As a response to that, Correa-Ascencio and Evershed [-@Correa-Ascencio2014] recently developed a new extraction protocol that uses acidified methanol (2% sulfuric acid-methanol v/v). According to Correa-Ascencio and Evershed, this new "methanolic acid extraction" has several advantages over the method of conventional solvent extraction:
 
 (1)	The new method can recover both free and bound lipids from the ceramic matrix and therefore, is especially effective in increasing the recovery rate of lipid residues from archaeological pottery containing those of low concentration (Figure \ref{SEvsAE}). In this regard, the application of this new method has the potential to expand the limits of the analysis of archaeological lipid residues when lipid preservation is limited. 
 
@@ -273,7 +280,7 @@ In this thesis, both methods were employed to test their suitability for the Kor
 
 \subsection{Glassware, solvents and reagents}
 
-All the solvents used for this research were HPLC (High-performance liquid chromatography) grade. The reusable glassware was washed with Decon 90 (Decon laboratories), rinsed with acetone, dried in the oven at first and heated in the furnace (450 °C; 24 hours). In order to prevent contamination, combusted foil and tweezers were used to manipulate the samples. Analytical blanks were prepared with each batch of samples during each procedure of lipid extraction and derivatization to monitor any possible source of contamination. Analytical grade reagents (typically ≥98% purity) were used throughout.
+All the solvents used for this research were HPLC (High-performance liquid chromatography) grade. The reusable glassware was washed with Decon 90 (Decon laboratories), rinsed with acetone, dried in the oven at first and heated in the furnace (450 B0C; 24 hours). In order to prevent contamination, combusted foil and tweezers were used to manipulate the samples. Analytical blanks were prepared with each batch of samples during each procedure of lipid extraction and derivatization to monitor any possible source of contamination. Analytical grade reagents (typically b	%98% purity) were used throughout.
 
 \subsection{ Solvent extraction of lipids}
 
@@ -283,26 +290,26 @@ Lipids were extracted following an established protocol outlined in Figure \ref{
 
 \subsubsection{Preparation of TMS derivatives}
 
-One half of the TLE was treated with N,o-bis(trimethylsilyl)trifluoroacetamide (hereafter BSTFA) containing 1 % trimethylchlorosilane (40 µL; 70 °C; 1 hour). Then, BSTFA was removed under gentle nitrogen gas and the derivatized TLE was dissolved in toluene (50 µL) prior to GC-MS.
+One half of the TLE was treated with N,o-bis(trimethylsilyl)trifluoroacetamide (hereafter BSTFA) containing 1 % trimethylchlorosilane (40 B5L; 70 B0C; 1 hour). Then, BSTFA was removed under gentle nitrogen gas and the derivatized TLE was dissolved in toluene (50 B5L) prior to GC-MS.
 
 \subsubsection{Preparation of FAMEs}
 
-The FAME derivatives of the free fatty acids were prepared by heating them with BF3-methanol (14 % w/v; 100 µL; 70 °C; 1 hour). Nano-purified water was added (1 mL) and the FAME derivatives were extracted with chloroform (3 x 2 mL) and the solvent was removed under nitrogen. The FAMEs were redissolved in hexane prior to the analysis by GC-MS and GC-C-IRMS.  
+The FAME derivatives of the free fatty acids were prepared by heating them with BF3-methanol (14 % w/v; 100 B5L; 70 B0C; 1 hour). Nano-purified water was added (1 mL) and the FAME derivatives were extracted with chloroform (3 x 2 mL) and the solvent was removed under nitrogen. The FAMEs were redissolved in hexane prior to the analysis by GC-MS and GC-C-IRMS.  
 
 \subsection{Methanolic acid extraction of lipids}
 
-Lipids were extracted following an established protocol outlined in Figure \ref{protocol}b. Approximately 5g of each potsherd was sampled and the surface was cleaned using a drill (Dremel 3000) to remove any external contaminations. The cleaned sample was ground to fine powder in a glass mortar & pestle and accurately weighed. The sample was transferred into a culture tube (I) and 5mL of H2SO4 (sulfuric acid) : MeOH (methanol) were added to it; and the whole was heated (2% v/v, 70 °C, 1 hour, vortex-mixing every 5 minutes). It is important to check the pH after extraction whether the sample is still acid, for carbonate- rich ceramic fabrics might neutralize acid. If the pH is ≥3, then more H2SO4 : MeOH should be added. 
+Lipids were extracted following an established protocol outlined in Figure \ref{protocol}b. Approximately 5g of each potsherd was sampled and the surface was cleaned using a drill (Dremel 3000) to remove any external contaminations. The cleaned sample was ground to fine powder in a glass mortar & pestle and accurately weighed. The sample was transferred into a culture tube (I) and 5mL of H2SO4 (sulfuric acid) : MeOH (methanol) were added to it; and the whole was heated (2% v/v, 70 B0C, 1 hour, vortex-mixing every 5 minutes). It is important to check the pH after extraction whether the sample is still acid, for carbonate- rich ceramic fabrics might neutralize acid. If the pH is b	%3, then more H2SO4 : MeOH should be added. 
 
-The H~2~SO~4~ : MeOH solution containing the extract was transferred to the test tube, and centrifuged for 10 minutes (2500 rpm). The clear solution was transferred to another clean culture tube (II) and 2mL of nano-purified water were added. Then, 4 mL of hexane were dropped in the culture tube (I), and vortex-mixed to recover any lipids that are not fully extracted by the methanol solution. The hexane portion was transferred in the culture tube (II) and vortex-mixed with the H2SO4:MeOH solution to extract the lipids. The washing of the culture tube (I) with hexane and vortex-mixing in the culture tube (II) was repeated twice. Then, the hexane portion was transferred to a clean vial. Following this, 2 mL of hexane were added directly to the H2SO4 : MeOH solution in the culture tube (II), and vortex-mixed with it to extract the remaining lipid residues. The hexane extracts were gathered in a clean vial, and evaporated under a gentle nitrogen blow, and re-dissolved in 300 µL of hexane for GC-MS and GC-C-IRMS.
+The H~2~SO~4~ : MeOH solution containing the extract was transferred to the test tube, and centrifuged for 10 minutes (2500 rpm). The clear solution was transferred to another clean culture tube (II) and 2mL of nano-purified water were added. Then, 4 mL of hexane were dropped in the culture tube (I), and vortex-mixed to recover any lipids that are not fully extracted by the methanol solution. The hexane portion was transferred in the culture tube (II) and vortex-mixed with the H2SO4:MeOH solution to extract the lipids. The washing of the culture tube (I) with hexane and vortex-mixing in the culture tube (II) was repeated twice. Then, the hexane portion was transferred to a clean vial. Following this, 2 mL of hexane were added directly to the H2SO4 : MeOH solution in the culture tube (II), and vortex-mixed with it to extract the remaining lipid residues. The hexane extracts were gathered in a clean vial, and evaporated under a gentle nitrogen blow, and re-dissolved in 300 B5L of hexane for GC-MS and GC-C-IRMS.
 
 \subsection{Analysis with GC-MS and GC-C-IRMS}
 
 \subsubsection{High Temperature GC-MS}
 
-The trimethylsilylated TLEs and FAMEs were analyzed by 6890N Network GC system with a 5979 Mass selective Detector from Agilent Technologies at the Sachs laboratory, Department of Oceanography, University of Washington. The GC was equipped with a fused silica capillary column (J&W; DB5-MS; 60m x 0.32 mm; 0.25 µm film thickness) and the interface was maintained at 110 °C. The mass spectrometer was operated in the full scan mode. Helium was the carrier gas and the GC oven was programmed as follows: 2 min isothermal at 50°C are followed by an increase to 350°C at a rate of 10°C min-1 and following this, the temperature is held at 350°C for 10 min. The peaks are identified based on their mass spectral characteristics and GC retention times, and also by comparison with the NIST mass spectral library. 
+The trimethylsilylated TLEs and FAMEs were analyzed by 6890N Network GC system with a 5979 Mass selective Detector from Agilent Technologies at the Sachs laboratory, Department of Oceanography, University of Washington. The GC was equipped with a fused silica capillary column (J&W; DB5-MS; 60m x 0.32 mm; 0.25 B5m film thickness) and the interface was maintained at 110 B0C. The mass spectrometer was operated in the full scan mode. Helium was the carrier gas and the GC oven was programmed as follows: 2 min isothermal at 50B0C are followed by an increase to 350B0C at a rate of 10B0C min-1 and following this, the temperature is held at 350B0C for 10 min. The peaks are identified based on their mass spectral characteristics and GC retention times, and also by comparison with the NIST mass spectral library. 
 
 \subsubsection{GC-C-IRMS}
-The CSIA Analysis (measured ten times) was performed using a Thermo GC/C-IRMS system composed of a Trace GC Ultra gas chromatograph (Thermo Electron Corp., Milan, Italy) coupled onto a Delta V Advantage isotope ratio mass spectrometer through a GC/C-III interface (Thermo Electron Corp., Bremen, Germany). A compound identification support for the CSIA laboratory is provided by a Varian CP3800 gas chromatograph coupled onto a Saturn 2200 ion trap MS/MS (Varian, Inc., Walnut Creek, CA U.S.A.). The FAMEs dissolved in hexane were injected in the splitless mode, and separated on a Varian factor FOUR VF-5ms column (30m $\times$ 0.25mm ID, 0.25 micron film thickness). Once separated, the FAMEs are quantitatively converted to CO~2~ in an oxidation reactor at 950°C. Following water removal through a nafion dryer, CO~2~ enters the IRMS. $\delta$^13^C values were corrected using the working standards composed of several FAMEs calibrated against the NIST standard reference materials.
+The CSIA Analysis (measured ten times) was performed using a Thermo GC/C-IRMS system composed of a Trace GC Ultra gas chromatograph (Thermo Electron Corp., Milan, Italy) coupled onto a Delta V Advantage isotope ratio mass spectrometer through a GC/C-III interface (Thermo Electron Corp., Bremen, Germany). A compound identification support for the CSIA laboratory is provided by a Varian CP3800 gas chromatograph coupled onto a Saturn 2200 ion trap MS/MS (Varian, Inc., Walnut Creek, CA U.S.A.). The FAMEs dissolved in hexane were injected in the splitless mode, and separated on a Varian factor FOUR VF-5ms column (30m $\times$ 0.25mm ID, 0.25 micron film thickness). Once separated, the FAMEs are quantitatively converted to CO~2~ in an oxidation reactor at 950B0C. Following water removal through a nafion dryer, CO~2~ enters the IRMS. $\delta$^13^C values were corrected using the working standards composed of several FAMEs calibrated against the NIST standard reference materials.
 
 ![The GC chromatograms of the same archaeological sherd sample (KIM014) showing different recovery rates. (a) chloroform : methanol solvent extraction (b): acidified methanol extraction (IS = Internal Standard). In both extractions, the same amount of internal standard was injected. The acidified extraction method showed a much higher recovery rate (more than 20 times) compared with the prevailing chloroform/methanol solvent extraction protocol. \label{SEvsAE}](figures/SEvsAE.jpg)
 
