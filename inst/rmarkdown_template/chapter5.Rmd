@@ -19,75 +19,7 @@ Six house pits and two pit features were classified into the Chulmun period. The
 
 As for the Mumun period, 126 house pits, pit features, and firing features were excavated. The house pits are classified into three types based on their shape: square, rectangular, and long house. Each of those houses normally has an array of multiple post holes which crosses the center of the pit; and some of them comprehend pit-hearths, storage pits, and ditches as interior features. Most of the potteries have the rim-punctuation or a combination of lip-scoring/rim-punctuation; and others a combination of double-rim/short slanted line incision (Figure \ref{Mpatterns}). As for the ground stone tools, arrowheads, daggers, and axes were found. As for the farming tools, semi-lunar shaped stone knives (Figure \ref{KY-artifacts}; cf. Figure \ref{farming}b) and mortar/pestle were found. The excavated features can be reclassified into two different lineages: (large) square/rectangular house pits with double-rim/short slanted line incision potteries and (small) rectangular house pits/(elongated) long houses with rim-punctuation potteries (Figure \ref{Mpatterns}). These two lineages are considered to be an extension of the two Early Mumun pottery cultures (Garak-Dong style and Yeoksam-Dong style) which covers a large extent of Gyeonggi province (Figure \ref{site_locations}). These Mumun features of the site have a great value in understanding the overall aspect of the Mumun Period in the central west part of the Korean Peninsula. Considering the number of houses and artifacts (Figure \ref{KY-artifacts}), and their radiocarbon dating (Table \ref{radiocarbon_KM}), the period when the Kimpo-Yangchon site was occupied the most intensively is around 2,900 - 2,700 BP, the incipient/early stage of the Mumun period.
 
- Location/house pit No.	  Cultural historical period	 C14 date (BP; uncalibrated)	Calendar date 
------------------------- ----------------------------- ------------------------------ -------------------
- Area 2-1 "B"/No.1	       Mumun	                    2650B150	                       BC 815
- Area 2-1 "B-1"/No.1	   Mumun	                    3010B150	                       BC 1255
- Area 2-1 "B-1"/No.2	   Mumun	                    2540B140	                       BC 770
- Area 1-D /No.22	       Mumun 	                    2770B160	                       BC 910
- Area 1-D /No.23	       Mumun	                    2850B140	                       BC 1005
- Area 2-1 "F"/No.1	       Chulmun	                    4530B150	                       BC 3175
- Area 2-1 "F"/No.2	       Chulmun                  	4550B150	                       BC 3175
- Area 1-G /No.4	           Mumun                    	2700B140	                       BC 835
- Area 1-G /No.2	           Mumun	                    2680B150	                       BC 830
- Area 1-H /No.5	           Mumun                    	2380B140	                       BC 455
- Area 1-H /No.12	       Mumun	                    2770B140	                       BC 935
- Area 2-1 "B-1"/No.3	   Mumun	                    2950B150                 	   BC 1175
- Area 2-1 "J"/No.1	       Mumun	                    2670B140	                       BC 820
- Area 2-1 "J"/No.3	       Mumun	                    2820B150	                       BC 975
- Area 2-1 "J"/No.4	       Mumun	                    2740B150	                       BC 875
- Area 2-1 "J"/No.6	       Mumun	                    2830B150                  	   BC 980
- Area 2-1 "J"/No.9    	   Chulmun	                    4020B150	                       BC 2525
- Area 2-1 "J"/No.10	       Mumun	                    2710B140	                       BC 860
- Area 2-1 "J"/No.12        Mumun	                    2900B150                  	   BC 1100
- Area 2-1 "J"/No.13	       Mumun	                    2650B150                  	   BC 815
- Area 2-1 "J"/No.13	       Mumun	                    2920B150	                       BC 1130
- Area 2-1 "J"/No.16	       Mumun	                    2630B140	                       BC 808
- Area 2-1 "J"/No.18	       Mumun	                    2560B150	                       BC 775
- Area 2-1 "K"/No.1	       Mumun                    	2900B150	                       BC 1100
- Area 2-1 "K"/No.2	       Mumun                    	2630B140	                       BC 808
- Area 1-K /No.3	           Mumun                    	3020B150                  	   BC 1300
- Area 1-L /No.3	           Mumun                    	2960B150	                       BC 1190
- Area 1-L /No.5	           Mumun	                    2750B150	                       BC 885
- Area 1-L /No.6	           Mumun	                    2550B140	                       BC 770
- Area 1-L /No.10	       Mumun	                    2820B150	                       BC 975
- Area 1-L /No.11     	   Mumun	                    2910B150	                       BC 1105
- Area 1-L /No.12           Mumun	                    2820B160                  	   BC 975
- Area 1-L /No.13	       Mumun	                    2750B150                 	   BC 885
- Area 1-L /No.14	       Mumun	                    2800B150	                       BC 955
- Area 1-L /No.15	       Mumun	                    3090B160                 	   BC 1360
- Area 1-L /No.16	       Mumun	                    2990B150                  	   BC 1215
- Area 1-L /No.17	       Mumun	                    2910B150	                       BC 1105
- Area 1-L /No.19      	   Mumun	                    2720B150	                       BC 863
- Area 1-L /No.20	       Mumun	                    2550B150	                       BC 770
- Area 2-3 "Na" /No.1	   Mumun	                    2520B150	                       BC 595
- Area 2-3 "Na" /No.3	   Mumun	                    2660B160	                       BC 845
- Area 2-3 "Na" /No.4  	   Mumun	                    2760B150	                       BC 885
- Area 2-3 "Na" /No.6	   Mumun	                    2680B156	                       BC 830
- Area 2-3 "Na" /No.7	   Mumun	                    2710B150	                       BC 858
- Area 2-3 "Na" /No.8  	   Mumun	                    2920B150	                       BC 1130
- Area 2-3 "Na" /No.15	   Mumun	                    2850B150	                       BC 1010
- Area 2-4 "Ga" /No. 2	   Baekje Kingdom	            1730B180	                       AD 320
- Area 2-4 "Ga" /No. 11	   Baekje Kingdom	            1670B150	                       AD 375
- Area 2-4 "Ga" /No. 13	   Baekje Kingdom	            1670B160	                       AD 375
- Area 2-4 "Ga" /No. 8	   BaekJe Kingdom	            1880B160	                       AD 145		 
- 
-Table 5.1. The results of AMS radiocarbon dating of the Kimpo-Yangcho site [@Kim2013]
 
-
-
-![The location of the Kimpo-Yangchon site \label{site_locations_zoomin}](figures/site_locations_zoomin.jpg)
-
-\subsection{Sampling}
-
-\subsubsection{Organic geochemical analyses}
-
-At least two samples were collected from each of the houses, except those which did not yield pottery, and of which the date could not be estimated. If available, three samples were collected from one house. One sample was collected from some house pits which did not yield enough potsherds. Researches have showed that the potteries for ordinary day-to-day subsistence around this period tend to have rather monotonous characteristics in terms of shape and size [@Bae2007; @Shoda2008]. Therefore, the shape and size of the potteries were relatively not critical issues for sampling. According to the experimental analysis of Evershed [@Evershed2008], the rim and upper body parts of pots are where organic residues are the most concentrated after cooking [cf. @Barker2012; @Eerkens2007]. Ethnographic observations showed that generally, high-temperature boiling is regarded as a particularly effective cooking method in the preparation of faunal and floral resources in pots [@Crown1995; @Stahl1989; @Wandsnider1997]. During this process, convection currents of boiling water push extracted lipids from food stuffs to the pot wall. Since lipids float on water, they tend to accumulate and penetrate into the wall of the upper body and rim of the pot. Taking these facts as criteria, a total of 49 samples were collected (Table \ref{sampling_OG_KM}).
-
-![Some of the artifacts uncovered during the excavation of the Kimpo-Yangchon site: semi-lunar shaped knife (upper-left), pots (rim-punctuation; upper-right), and arrowheads (down-left) \label{KY-artifacts}](figures/KY-artifacts.jpg)
-
-
-\newpage
 \begin{longtable}[htbp]{@{}llll@{}}
 \toprule
 Location/house pit No. & Cultural historical period & C14 date (uncalibrated years BP) & Calendar date \\ \midrule \endhead 
@@ -141,21 +73,93 @@ Area 2-4 Ga /No. 2     & Baekje Kingdom             & 1730±80                 &
 Area 2-4 Ga /No. 11    & Baekje Kingdom             & 1670±50                 & AD 375        \\
 Area 2-4 Ga /No. 13    & Baekje Kingdom             & 1670±60                 & AD 375        \\
 Area 2-4 Ga /No. 8     & BaekJe Kingdom             & 1880±60                 & AD 145        \\ \bottomrule
-\caption{The samples collected from the Kimpo-Yangchon site for the organic geochemical analyses in this thesis}
+\caption{The results of AMS radiocarbon dating of the Kimpo-Yangcho site (Kim 2013)}
 \label{tab:radiocarbon_KM}
 \end{longtable}
 
 
+\newpage
+\begin{longtable}[htbp]{@{}llll@{}}
+\toprule
+Sample No. & Location/house pit No. & Part & C14 date (uncalibrated years BP) \\ \midrule \endhead 
+KIM030     & Area 2-3 Na/No.3   & Body & 2660±150                    \\
+KIM031     & Area 2-3 Na/No.3   & Body &                             \\
+KIM032     & Area 2-3 Na/No.7   & Body & 2710±150                    \\
+KIM033     & Area 2-3 Na/No.7   & Body & 2710±150                    \\
+KIM034     & Area 2-3 Na/No.7   & Body & 2760±150                    \\
+KIM035     & Area 2-3 Na/No.8   & Body & 2920±150                    \\
+KIM036     & Area 2-3 Na/No.8   & Body & 2920±150                    \\
+KIM037     & Area 2-3 Na/No.8   & Body & 2920±150                    \\
+KIM038     & Area 2-3 Na/No.11  & Body &                             \\
+KIM039     & Area 2-1 L/No.3    & Body & 2960±150                    \\
+KIM040     & Area 2-1 L/No.3    & Body & 2960±150                    \\
+KIM041     & Area 2-1 L/No.3    & Body & 2960±150                    \\
+KIM042     & Area 2-1 L/No.10   & Rim  & 2820±150                    \\
+KIM043     & Area 2-1 L/No.10   & Body & 2820±150                    \\
+KIM044     & Area 2-1 L/No.11   & Body & 2910±150                    \\
+KIM045     & Area 2-1 L/No.11   & Body & 2910±150                    \\
+KIM046     & Area 2-1 F/No.1    & Body & 4530±150 (Chulmun)          \\
+KIM047     & Area 2-1 F/No.1    & Body & 4530±150 (Chulmun)          \\
+KIM048     & Area 2-1 B-1/No.1  & Body &                             \\
+KIM049     & Area 2-1 D/No.14   & Body &                             \\
+KIM050     & Area 2-1 D/No.14   & Body &                             \\
+KIM051     & Area 2-1 D/No.8    & Body &                             \\
+KIM052     & Area 2-1 D/No.8    & Body &                             \\
+KIM053     & Area 2-1 D/No.9    & Body &                             \\
+KIM054     & Area 2-1 D/No.9    & Body &                             \\
+KIM055     & Area 2-1 D/No.15   & Body &                             \\
+KIM056     & Area 2-1 D/No.15   & Body &                             \\
+KIM057     & Area 2-1 L/No.3    & Body &                             \\
+KIM058     & Area 2-1 D/No.10   & Body &                             \\
+KIM059     & Area 2-3 NA/No.5   & Body &                             \\
+KIM060     & Area 2-3 NA/No.5   & Body &                             \\
+KIM061     & Area 2-1 G/No.3    & Body &                             \\
+KIM062     & Area 2-1 G/No.3    & Body &                             \\
+KIM063     & Area 2-1 H/No.5    & Body & 2380±140                    \\
+KIM064     & Area 2-1 H/No.5    & Body & 2380±140                    \\
+KIM065     & Area 2-1 H/No.12   & Body & 2770±140                    \\
+KIM066     & Area 2-1 H/No.12   & Body & 2770±140                    \\
+KIM067     & Area 2-1 H/No.20   & Body &                             \\
+KIM068     & Area 2-1 H/No.20   & Body &                             \\
+KIM069     & Area 2-4 Ra/No.20  & Body &                             \\
+KIM070     & Area 2-3 Na/No.3   & Body &                             \\
+KIM071     & Area 2-1 B-1/No.3  & Body &                             \\
+KIM072     & Area 2-1 D/No.14   & Body &                             \\
+KIM073     & Area 2-1 G/No.5    & Rim  &                             \\
+KIM074     & Area 2-1 G/No.5    & Body &                             \\
+KIM075     & Area 2-1 J/No.1    & Body &                             \\
+KIM076     & Area 2-1 L/No.1    & Body &                             \\
+KIM077     & Area 2-1 D/No.9    & Body &                             \\
+KIM078     & Area 2-1 L/No.9    & Rim  &                             \\ \bottomrule
+\caption{The samples collected from the Kimpo-Yangchon site for organic geochemical analysis}
+\label{tab:sampling_OG_KM}
+\end{longtable}
+
+![The location of the Kimpo-Yangchon site \label{site_locations_zoomin}](figures/site_locations_zoomin.jpg)
+
+\subsection{Sampling}
+
+\subsubsection{Organic geochemical analyses}
+
+At least two samples were collected from each of the houses, except those which did not yield pottery, and of which the date could not be estimated. If available, three samples were collected from one house. One sample was collected from some house pits which did not yield enough potsherds. Researches have showed that the potteries for ordinary day-to-day subsistence around this period tend to have rather monotonous characteristics in terms of shape and size [@Bae2007; @Shoda2008]. Therefore, the shape and size of the potteries were relatively not critical issues for sampling. According to the experimental analysis of Evershed [@Evershed2008], the rim and upper body parts of pots are where organic residues are the most concentrated after cooking [cf. @Barker2012; @Eerkens2007]. Ethnographic observations showed that generally, high-temperature boiling is regarded as a particularly effective cooking method in the preparation of faunal and floral resources in pots [@Crown1995; @Stahl1989; @Wandsnider1997]. During this process, convection currents of boiling water push extracted lipids from food stuffs to the pot wall. Since lipids float on water, they tend to accumulate and penetrate into the wall of the upper body and rim of the pot. Taking these facts as criteria, a total of 49 samples were collected (Table \ref{sampling_OG_KM}).
+
+![Some of the artifacts uncovered during the excavation of the Kimpo-Yangchon site: semi-lunar shaped knife (upper-left), pots (rim-punctuation; upper-right), and arrowheads (down-left) \label{KY-artifacts}](figures/KY-artifacts.jpg)
 
 \subsubsection{Luminescence dating}
 For the luminescence dating two samples were collected to see if there would be positive correlations between the luminescence dates and published AMS radiocarbon dates [Table 5.1, @Kim2013]. Both of the samples were collected from the house that has not been dated (Table \ref{sampling_LM_KM}).
 
-Sample No.	Location/house pit No.  Part   Depth (m)
----------- ----------------------- ------ ------------
-U3045        Area 2-1 "L"/No.3      Body    0.3
-U3046        Area 2-1 "D"/No.10     Body    0.3
 
-Table 5.3. The samples collected from the Kimpo-Yangchon site for the luminescence dating in this thesis
+\begin{table}[h]
+\centering
+\begin{tabular}{@{}llll@{}}
+\toprule
+Sample No. & Location/house pit No. & Part & Depth (m) \\ \midrule
+U3045      & Area 2-1 L/No.3    & Body & 0.3       \\
+U3046      & Area 2-1 D/No.10   & Body & 0.3       \\ \bottomrule
+\end{tabular}
+\caption{The samples collected from the Kimpo-Yangchon site for the luminescence dating in this thesis}
+\label{sampling_LM_KM}
+\end{table}
 
 
 \subsection{Organic geochemical results}
