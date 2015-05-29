@@ -79,7 +79,7 @@ formatting challenges found in thesis production.
 }
 
 
-\dedication{\begin{center}to my dear wife, Joanna\end{center}}
+\dedication{\begin{center}to my dear wife, JeeIn\end{center}}
 
 
 \textpages
