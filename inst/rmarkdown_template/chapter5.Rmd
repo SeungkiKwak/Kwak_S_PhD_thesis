@@ -589,7 +589,7 @@ Though numerous complete pots were excavated (Figure \ref{EUPartifact}a), not ma
 
 Thus, a total of 25 samples were collected from eight house pits (Table \ref{sampling_OG_EP}). Though I tried to collect as many samples as I could in the given situation, I have to confess that the eight house pits might not fully represent the entire aspect of the site.  
 
-![(a): "$L\ddot{u}$" shape and (b): "$T\bar{u}$" shape house pits excavated from the Eupha-Ri site. The description of the house shape is based on the Chinese characters "Lu (e)" and "Tu (e8)" \label{EUPhouse}](figures/EUPhouse.jpg) 
+![(a): "$L\ddot{u}$" shape and (b): "$T\bar{u}$" shape house pits excavated from the Eupha-Ri site. \label{EUPhouse}](figures/EUPhouse.jpg) 
 
 ![Some of the artifacts uncovered during the excavation of the Eupha-Ri site (a): Iron Age style hardened un-patterned pottery, a pot made by the beating method (center, second row) (b): mold for iron casting, net sinker, spindle whorls, iron axes and arrowheads \label{EUPartifact}](figures/EUPartifact.jpg) 
 
