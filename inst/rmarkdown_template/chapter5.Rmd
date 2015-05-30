@@ -413,10 +413,10 @@ Table \ref{tab:LM_SS} shows the results of the luminescence dating. Overall, the
 \toprule
 Lab. No & Depth (m) & Water Content (\%) & Dose rate* (Gy/ka) & TL (De)       & OSL (De)      & IRSL (De)     & Age (BC)            \\ \midrule
 U3042   & 0.3       & 18.4               & 7.872±0.475       & 20.97±1.59   & 14.487±0.43  & 13.194±0.307 & 882±209 \\
-U3043   & 0.3       & 19.7               & 6.664±0.400       & 13.999±1.469 & 11.958±0.229 & 14.18±0.591  & 995±127 \\ \bottomrule
+U3043   & 0.3       & 19.7               & 6.664±0.40        & 13.999±1.469 & 11.958±0.229 & 14.18±0.591  & 995±127 \\ \bottomrule
 \end{tabular}
 \caption{The results of the luminescence dating of the potsherd samples from the Sosa-Dong site}
-\label{tab:LM-SS}
+\label{tab:LM_SS}
 \end{table}
 
 
@@ -470,6 +470,7 @@ No. 70        & Mumun                      & 2430±50                    & BC 58
 
 The samples for the organic geochemical analyses were collected during the 14th excavation of the Songguk-Ri site. The general sampling strategy for the site was somewhat different from that of the Kimpo-Yangchon and Sosa-Dong sites. Since the potsherds from the Songguk-Ri site were quite scarce, all the available ones which were conceded by the institution were sampled for the analysis. Under these circumstances, I have collected a total of 27 samples from 16 house pits and 2 pit features (Table \ref{tab:sampling_OG_SG}). Unfortunately, no rim and upper body parts were selectively collected, for none of the available potsherds came from the rim portion. 
 
+\newpage
 \begin{longtable}[htbp]{@{}lllll@{}}
 \toprule
 Sample No. & Location/house pit No. & Part & C14 date (uncalibrated years BP) \\ \midrule \endhead 
