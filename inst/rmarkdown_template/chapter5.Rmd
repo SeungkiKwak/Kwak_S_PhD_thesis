@@ -275,14 +275,58 @@ Area Ga/No. 4      & Mumun                      & 2300±50                    & 
 
 \subsubsection{Organic geochemical analyses}
 
-The general sampling strategy for the organic geochemical analyses on the Sosa-Dong site is quite similar to that on the Kimpo-Yangchon site. At least two samples were collected from each of the houses, except those which did not yield pottery, and whose date could not be estimate. If available, three samples were collected from one house. One sample was collected from some house pits that did not yield enough potsherds. The shape and size of the pots were not considered, for the potteries for ordinary day-to-day subsistence around this period tend to have rather monotonous characteristics in terms of shape and size [@Bae2007; @Shoda2008]. Following the criteria of Evershed [-@Evershed2008, Figure \ref{lipidcon}], the rim and upper body parts were chosen and a total of 37 samples were collected (Table \ref{sampling_OG_SS}). 
+The general sampling strategy for the organic geochemical analyses on the Sosa-Dong site is quite similar to that on the Kimpo-Yangchon site. At least two samples were collected from each of the houses, except those which did not yield pottery, and whose date could not be estimate. If available, three samples were collected from one house. One sample was collected from some house pits that did not yield enough potsherds. The shape and size of the pots were not considered, for the potteries for ordinary day-to-day subsistence around this period tend to have rather monotonous characteristics in terms of shape and size [@Bae2007; @Shoda2008]. Following the criteria of Evershed [-@Evershed2008, Figure \ref{lipidcon}], the rim and upper body parts were chosen and a total of 37 samples were collected (Table \ref{tab:sampling_OG_SS}). 
 
 ![Diagram showing the lipid concentration of each body part from the both experimental and archaeological sherd samples [adapted from -@Evershed2008] \label{lipidcon}](figures/lipidcon.jpg) 
 
+\newpage
+\begin{longtable}[htbp]{@{}llll@{}}
+\toprule
+Sample No. & Location/house pit No. & Part & C14 date (uncalibrated years BP) \\ \midrule \endhead 
+SOS030     & Area La/No. 14     & Body &                             \\
+SOS031     & Area La/No. 4      & Body &                             \\
+SOS032     & Area La/No. 4      & Rim  &                             \\
+SOS033     & Area La/No. 4      & Rim  &                             \\
+SOS034     & Area Ga/No. 7      & Body & 2930±60                     \\
+SOS035     & Area Ga/No. 10     & Body & 2840±50                     \\
+SOS036     & Area Ga/No. 10     & Body & 2840±50                     \\
+SOS037     & Area Ga/No. 14     & Body & 2850±50                     \\
+SOS038     & Area Ga/No. 14     & Body & 2850±50                     \\
+SOS039     & Area La/No. 11     & Rim  &                             \\  
+SOS040     & Area La/No. 11     & Body &                             \\
+SOS041     & Area La/No. 11     & Body &                             \\
+SOS042     & Area Ga/No. 23     & Body &                             \\
+SOS043     & Area Ga/No. 23     & Body &                             \\
+SOS044     & Area Ga/No. 24     & Body &                             \\
+SOS045     & Area Ga/No. 24     & Body &                             \\
+SOS046     & Area Ga/No. 25     & Body &                             \\
+SOS047     & Area Ga/No. 25     & Body &                             \\
+SOS048     & Area La/No. 15     & Rim  &                             \\
+SOS049     & Area La/No. 15     & Rim  &                             \\
+SOS050     & Area La/No. 15     & Rim  &                             \\
+SOS051     & Area La/No. 2      & Body &                             \\
+SOS052     & Area La/No. 2      & Body &                             \\
+SOS053     & Area La/No. 5      & Body &                             \\
+SOS054     & Area La/No. 5      & Body &                             \\
+SOS055     & Area La/No. 10     & Body & 2900±50                     \\
+SOS056     & Area La/No. 10     & Rim  & 2900±50                     \\
+SOS057     & Area La/No. 19     & Body &                             \\
+SOS058     & Area La/No. 19     & Body &                             \\
+SOS059     & Area La/No. 18     & Body &                             \\
+SOS060     & Area La/No. 18     & Body &                             \\
+SOS061     & Area La/No. 31     & Body &                             \\
+SOS062     & Area La/No. 31     & Body &                             \\
+SOS063     & Area La/No. 31     & Body &                             \\
+SOS064     & Area La/No. 32     & Body &                             \\
+SOS065     & Area La/No. 32     & Body &                             \\
+SOS066     & Area La/No. 36     & Body &                             \\ \bottomrule
+\caption{The samples collected from the Sosa-Dong site for organic geochemical analysis}
+\label{tab:sampling_OG_SS}
+\end{longtable}
 
 \subsubsection{Luminescence dating}
 
-As at the Kimpo-Yangchon site, two samples were collected for the luminesce dating to see if there would be positive correlations between its results and the published AMS radiocarbon dates [@Kim2008, Table ???]. One of the two samples was collected from a house which had been dated by the radiocarbon dating, and the other from another which has not been (Table \ref{tab:sampling_LM_SS}). 
+As at the Kimpo-Yangchon site, two samples were collected for the luminesce dating to see if there would be positive correlations between its results and the published AMS radiocarbon dates [@Kim2008, Table \ref{tab:radiocarbon_SS}]. One of the two samples was collected from a house which had been dated by the radiocarbon dating, and the other from another which has not been (Table \ref{tab:sampling_LM_SS}). 
 
 
 
@@ -295,7 +339,7 @@ U3042      & Area La/No.4       & Body & 0.3       \\
 U3043      & Area La/No.14      & Body & 0.3       \\ \bottomrule
 \end{tabular}
 \caption{ The samples collected from the Sosa-Dong site for the luminescence dating in this thesis}
-\label{tab:sampling_OG_SS}
+\label{tab:sampling_LM_SS}
 \end{table}
 
 \subsection{Organic geochemical results}
@@ -458,7 +502,7 @@ SON026     & No. 63                       & Body &                             &
 SON027     & No. 69                       & Body &                             &                      \\ \bottomrule
 
 \caption{The samples collected from the Songguk-Ri site for the organic geochemical analyses in this thesis}
-\label{tab:CSIA_SG}
+\label{tab:sampling_OG_SG}
 \end{longtable}
 
 
