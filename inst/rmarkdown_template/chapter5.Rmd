@@ -519,16 +519,19 @@ Eupha-Ri is an Iron Age archaeological site in Huengseong city, Gangwon province
 
 Overall, the Eupha-Ri site shows the typical characteristics of the Iron Age sites in the central part of the Korean Peninsula.
 
-house pit No.	         Cultural historical period	  C14 date (BP; uncalibrated)	Calendar date 
------------------------ ---------------------------- ----------------------------- ----------------  
- No. 1	                  Iron Age	                    1850B120	                     AD 188
- No. 15	                  Iron Age	                    1780B120	                     AD 228
- No. 15	                  Iron Age	                    1780B120	                     AD 217
- No. 29	                  Iron Age	                    1640B120	                     AD 336
 
-Table 5.14. The results of the AMS radiocarbon dating of the Eupha-Ri site [@Wang2013]
- 
-
+\begin{table}[h]
+\begin{tabular}{@{}llll@{}}
+\toprule
+House pit No. & Cultural historical period & C14 date (uncalibrated years BP) & Calendar date \\ \midrule
+No. 1         & Iron Age                   & 1850±20         & AD 188        \\
+No. 15        & Iron Age                   & 1780±20         & AD 228        \\
+No. 15        & Iron Age                   & 1780±20         & AD 217        \\
+No. 29        & Iron Age                   & 1640±20         & AD 336        \\ \bottomrule
+\end{tabular}
+\caption{The results of the AMS radiocarbon dating of the Eupha-Ri site (Wang 2013)}
+\label{tab:radiocarbon_EP}
+\end{table}
  
 \subsection{Sampling}
 
