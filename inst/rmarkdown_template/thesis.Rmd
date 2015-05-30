@@ -130,7 +130,7 @@ options(xtable.comment = FALSE)
 \section{Colophon}
 This document was typeset using the \textsf{\XeTeX} typesetting system originally created by the Jonathan Kew, and the [uwthesis class](https://github.com/UWIT-IAM/UWThesis) created by [Jim Fox](https://staff.washington.edu/fox/tex/uwthesis.shtml). Other elements of the document formatting source code have been taken from the [Latex, Knitr, and RMarkdown templates for UC Berkeley's graduate thesis](https://github.com/stevenpollack/ucbthesis), and [Dissertate: a LaTeX dissertation template to support the production and typesetting of a PhD dissertation at Harvard, Princeton, and NYU](https://github.com/suchow/Dissertate) 
 
-The body text is set at 11pt with \familydefault. The thesis was written as [R markdown](http://rmarkdown.rstudio.com/) formatted documents, which was converted to PDF using [pandoc](http://pandoc.org/) using [knitr](http://yihui.name/knitr/) with a custom R package.
+The body text is set at 11pt with \familydefault. The thesis was written as [R markdown](http://rmarkdown.rstudio.com/) and \LaTeX formatted documents, which was converted to PDF using [pandoc](http://pandoc.org/) using [knitr](http://yihui.name/knitr/) with a custom R package.
 
 
 This PDF was generated on `r Sys.time()` in the following computational environment:
