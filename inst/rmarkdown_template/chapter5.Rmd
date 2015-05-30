@@ -457,7 +457,7 @@ SON026     & No. 63                       & Body &                             &
 SON027     & No. 69                       & Body &                             &                      \\ \bottomrule
 
 \caption{The samples collected from the Songguk-Ri site for the organic geochemical analyses in this thesis}
-\label{CSIA-SS}
+\label{CSIA-SG}
 \end{longtable}
 
 
