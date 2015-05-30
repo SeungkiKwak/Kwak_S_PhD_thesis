@@ -472,82 +472,31 @@ Table \ref{CSIA_SG}, Figure \ref{CSIASongguk}, \ref{CSIASongguk2}, and \ref{CSIA
 
 Generally, the most frequently observed compounds in archaeological lipid residues are palmitic (C16:0) and stearic (C18:0) fatty acids (Evershed 2008a). The Songguk-Ri site was not an exception; and C16:0 and C18:0 fatty acids were the only organic compounds that were detected from all the analyzable 18 samples. Along with C16:0 and C18:0 fatty acids, I was able to identify both major short- and long-chain (un)saturated fatty acids including C13:0, C14:0, C15:0, C15:1, C16:1, C17:0, C18:1, C18:2, C19C20:0, C22:0, C22:1, C23:0, C24:0, and C24:1.
 
---------------------------------------------------------------------------------------------------------------------------------------------
-Sample No.	  Compound detected	                          C16:0($\delta$^13^C)	  C18:0($\delta$^13^C)	  Interpretation via CSIA and GC-MS
------------ -------------------------------------------  ----------------------  ----------------------  -----------------------------------
- SON001      C13:0, C14:0, C14:1, C15:0, C15:1, C16:0,      -28.1	                -24.9	               Possibly Pork adipose
-             C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, 
-			 C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, 
-			 C24:0	
- 
- SON002	     C13:0, C14:0, C14:1, C15:0, C15:1, C16:0,      -27.1	                -25.7	               Pork adipose
-             C16:1, C18:0, C18:1, C19:0, C20:0, C20:1, 
-			 C21:0, C22:0, C22:1, C23:0, C24:0	
-			 
- SON003      C13:0, C14:0, C14:1, C15:0, C15:1, C16:0,      -27.1	                -27.6	               Fresh water and/or 
-             C16:1, C17:0, C18:0, C18:1, C19:0, C19:1,                                                     C~3~ plant oil
-			 C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, 
-			 C23:0, C24:0, C24:1	
-			 
- SON004	     C13:0, C14:0, C14:1, C15:0, C15:1, C16:0,      -26.6	                -25.9	               Pork adipose
-             C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, 
-			 C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, 
-			 C23:0, C24:0, C24:1	
-			 
- SON005	     C13:0, C14:0, C14:1, C15:0, C15:1, C16:0,      -28.7	                -31.6	               Ruminant adipose 
-             C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, 
-			 C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, 
-			 C24:0, C24:1	
- 
- SON006	     C13:0, C14:0, C14:1, C15:0, C15:1, C16:0,      -27.6	                -26.9	               Pork adipose
-             C16:1, C18:0, C18:1, C18:2, C19:0, C20:0, 
-			 C20:1, C21:0, C22:0, C22:1, C23:0, C24:0, 
-			 C24:1	
-			 
- SON012	     C14:0, C14:1, C16:0, C16:1, C17:0, C18:0,      -28.1	                -27.7	               C~3~ plant oil
-             C18:1, C18:2, C20:0, C20:1, C21:0, C22:0, 
-			 C22:1, C24:0, C24:1	
-																					  
- SON013	     C14:0, C14:1, C15:0, C16:0, C16:1, C17:0,      -26.7	                -26.4	               Pork adipose
-             C18:0, C18:1, C18:2, C19:0, C19:1, C20:0, 
-			 C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, 
-			 C24:0, C24:1	
-			 
- SON014	     C13:0, C14:0, C14:1, C15:0, C16:0, C16:1,      -27.9	                -29.0	               Ruminant adipose 
-             C17:0, C18:0, C18:2, C22:1, C24:1	                                                           and/or C~3~ plant oil
-			 
- SON016      C14:0, C14:1, C15:0, C16:0, C16:1, C17:0,      -27.7	                -24.7	               Possibly Pork adipose
-             C18:0, C18:2, C20:0, C22:1, C24:1	
-			 
- SON017	     C14:0, C14:1, C15:0, C16:0, C16:1, C17:0,      -27.3	                -28.4	               Fresh water and/or 
-             C18:0, C18:2, C22:0, C22:1, C24:0, C24:1	                                                   C~3~ plant oil
-			 
- SON018	     C14:0, C14:1, C15:0, C15:1, C16:0, C16:1,      -23.2	                -23.9	               Marine
-             C17:0, C18:0, C18:2, C22:0, C22:1, C24:0, 
-			 C24:1	
-			 
- SON020	     C14:0, C14:1, C15:0, C15:1, C16:0, C16:1,      -27.3	                -28.6	               Fresh water and/or
-             C17:0, C18:0, C18:1, C18:2, C19:0, C19:1,                                                     C~3~ plant oil
-			 C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, 
-			 C23:0, C24:0, C24:1	
-			 
- SON022   	 C14:0, C14:1, C16:0, C16:1, C18:0, C18:2,      -28.9	                -29.3	               Ruminant adipose
-             C20:0, C22:1, C24:1 	
- 
- SON024	     C14:0, C14:1, C16:0, C16:1, C17:0, C18:0,      -27.5	                -28.0	               Fresh water and/or 
-             C18:2, C19:0, C20:0, C22:0, C22:1, C23:0,                                                     C~3~ plant oil
-			 C24:0, C24:1, phytanic acid	
- 
- SON025	     C14:0, C14:1, C16:0, C16:1, C17:0, C18:0,      -30.1	                -28.4	               Equine adipose
-             C18:2, C20:2, C21:0, C22:0, C22:1, C24:1	
-			 
- SON026	     C14:0, C14:1, C15:0, C16:0, C16:1, C17:0,      -30.0	                -28.9	               Equine adipose
-             C18:0, C18:1, C18:2, C22:0, C22:1, C24:1	
-			 
- SON027	     C14:0, C16:0, C16:1, C18:0, C18:2, C22:1,      -28.5	                -28.1	               Terrestrial non-ruminant 
-             C24:1	                                                                                       and/or C~3~ plant oil
-------------------------------------------------------------------------------------------------------------------------------------------
-Table 5.13. The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Songguk-Ri site, and their interpretations
+\newpage
+\begin{longtable}[htbp]{@{}lp{5cm}llp{4cm}@{}}
+\toprule
+Sample No. & Compound detected                                                                         & C16:0 ($\delta$\textsuperscript{13}C) & C18:0 ($\delta$\textsuperscript{13}C) & Interpretation via CSIA               \\ \midrule \endhead
+SON001     & C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0               & -28.1         & -24.9         & Possibly Pork adipose                        \\
+SON002     & C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C18:0, C18:1, C19:0, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0                             & -27.1         & -25.7         & Pork adipose                                 \\
+SON003     & C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1 & -27.1         & -27.6         & Fresh water and/or C3 plant oil              \\
+SON004     & C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1 & -26.6         & -25.9         & Pork adipose                                 \\
+SON005     & C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C19:0, C19:1, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1        & -28.7         & -31.6         & Ruminant adipose                             \\
+SON006     & C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C18:0, C18:1, C18:2, C19:0, C20:0, C20:1, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1               & -27.6         & -26.9         & Pork adipose                                 \\
+SON012     & C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C20:0, C20:1, C21:0, C22:0, C22:1, C24:0, C24:1                                           & -28.1         & -27.7         & C3 plant oil                                 \\
+SON013     & C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1        & -26.7         & -26.4         & Pork adipose                                 \\
+SON014     & C13:0, C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C22:1, C24:1                                                                       & -27.9         & -29           & Ruminant adipose and/or C3 plant oil         \\
+SON016     & C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C20:0, C22:1, C24:1                                                                       & -27.7         & -24.7         & Possibly Pork adipose                        \\
+SON017     & C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C22:1, C24:0, C24:1                                                                & -27.3         & -28.4         & Fresh water and/or C3 plant oil              \\
+SON018     & C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:2, C22:0, C22:1, C24:0, C24:1                                                         & -23.2         & -23.9         & Marine                                       \\
+SON020     & C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C19:0, C19:1, C20:0, C20:1, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1 & -27.3         & -28.6         & Fresh water and/or C3 plant oil              \\
+SON022     & C14:0, C14:1, C16:0, C16:1, C18:0, C18:2, C20:0, C22:1, C24:1                                                                                     & -28.9         & -29.3         & Ruminant adipose                             \\
+SON024     & C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C20:0, C22:0, C22:1, C23:0, C24:0, C24:1, phytanic acid                                   & -27.5         & -28           & Fresh water and/or C3 plant oil              \\
+SON025     & C14:0, C14:1, C16:0, C16:1, C17:0, C18:0, C18:2, C20:2, C21:0, C22:0, C22:1, C24:1                                                                & -30.1         & -28.4         & Equine adipose                               \\
+SON026     & C14:0, C14:1, C15:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C22:0, C22:1, C24:1                                                                & -30           & -28.9         & Equine adipose                               \\
+SON027     & C14:0, C16:0, C16:1, C18:0, C18:2, C22:1, C24:1                                                                                                   & -28.5         & -28.1         & Terrestrial non-ruminant and/or C3 plant oil \\ \bottomrule
+\caption{The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Songguk-Ri site, and their interpretations}
+\label{tab:CSIA_SG}
+\end{longtable}
 
 
 
@@ -589,7 +538,13 @@ Though numerous complete pots were excavated (Figure \ref{EUPartifact}a), not ma
 
 Thus, a total of 25 samples were collected from eight house pits (Table \ref{sampling_OG_EP}). Though I tried to collect as many samples as I could in the given situation, I have to confess that the eight house pits might not fully represent the entire aspect of the site.  
 
-![(a): "$L\ddot{u}$" shape and (b): "$T\bar{u}$" shape house pits excavated from the Eupha-Ri site. The description of the house shape is based on the Chinese characters "Lu (e)" and "Tu (e8)" \label{EUPhouse}](figures/EUPhouse.jpg) 
+
+\begin{figure}[hb]
+  \centering
+  \includegraphics{figures/EUPhouse.jpg}
+  \caption{$L\ddot{u}$ shape and (b): $T\bar{u}$ shape house pits excavated from the Eupha-Ri site. The description of the house shape is based on the Chinese characters XX and XX}
+  \label{fig:EUPhouse}
+\end{figure}
 
 ![Some of the artifacts uncovered during the excavation of the Eupha-Ri site (a): Iron Age style hardened un-patterned pottery, a pot made by the beating method (center, second row) (b): mold for iron casting, net sinker, spindle whorls, iron axes and arrowheads \label{EUPartifact}](figures/EUPartifact.jpg) 
 
