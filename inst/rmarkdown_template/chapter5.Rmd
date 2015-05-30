@@ -341,7 +341,7 @@ SOS062     & C14:0, C16:0, C17:0, C18:0, C18:2, C19:0, C20:0, C22:0, C22:1, C24:
 SOS063     & C13:0, C14:0, C14:1, C15:0, C15:1, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C19:1, C20:0, C20:2, C21:0, C22:0, C22:1, C23:0, C24:0, C24:1 & -25.3         & -23.1         & Pork adipose                       \\
 SOS064     & C14:0, C16:0, C16:1, C17:0, C18:0, C18:1, C18:2, C22:1, C24:1                                                                              & -25.2         & -26.3         & Fresh water and/or Marine          \\ \bottomrule
 \caption{The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Sosa-Dong site, and their interpretations}
-\label{CSIA_SS}
+\label{tab:CSIA_SS}
 \end{longtable}
 
 
@@ -372,7 +372,7 @@ U3042   & 0.3       & 18.4               & 7.872±0.475       & 20.97±1.59   & 
 U3043   & 0.3       & 19.7               & 6.664±0.400       & 13.999±1.469 & 11.958±0.229 & 14.18±0.591  & 995±127 \\ \bottomrule
 \end{tabular}
 \caption{The results of the luminescence dating of the potsherd samples from the Sosa-Dong site}
-\label{LM-SS}
+\label{tab:LM-SS}
 \end{table}
 
 
@@ -388,6 +388,7 @@ During the 14th excavation, several kinds of carbonized grains were found at 11 
 
 
 \begin{table}[h]
+  \centering
 \begin{tabular}{@{}llll@{}}
 \toprule
 house pit No. & Cultural historical period & C14 date (uncalibrated years BP) & Calendar date \\ \midrule
@@ -411,7 +412,7 @@ No. 70        & Mumun                      & 2410±40                    & BC 47
 No. 70        & Mumun                      & 2430±50                    & BC 580        \\ \bottomrule
 \end{tabular}
 \caption{ The results of the AMS radiocarbon dating of the Songguk-Ri site Kim 2011; 2013a}
-\label{radiocarbon-SG}
+\label{tab:radiocarbon-SG}
 \end{table}
 
 
@@ -457,7 +458,7 @@ SON026     & No. 63                       & Body &                             &
 SON027     & No. 69                       & Body &                             &                      \\ \bottomrule
 
 \caption{The samples collected from the Songguk-Ri site for the organic geochemical analyses in this thesis}
-\label{CSIA-SG}
+\label{tab:CSIA-SG}
 \end{longtable}
 
 
@@ -520,7 +521,8 @@ Eupha-Ri is an Iron Age archaeological site in Huengseong city, Gangwon province
 Overall, the Eupha-Ri site shows the typical characteristics of the Iron Age sites in the central part of the Korean Peninsula.
 
 
-\begin{table}[h]
+\begin{table}[htbp]
+  \centering
 \begin{tabular}{@{}llll@{}}
 \toprule
 House pit No. & Cultural historical period & C14 date (uncalibrated years BP) & Calendar date \\ \midrule
@@ -542,7 +544,7 @@ Though numerous complete pots were excavated (Figure \ref{EUPartifact}a), not ma
 Thus, a total of 25 samples were collected from eight house pits (Table \ref{sampling_OG_EP}). Though I tried to collect as many samples as I could in the given situation, I have to confess that the eight house pits might not fully represent the entire aspect of the site.  
 
 
-\begin{figure}[hb]
+\begin{figure}[htbp]
   \centering
   \includegraphics{figures/EUPhouse.jpg}
   \caption{$L\ddot{u}$ shape and (b): $T\bar{u}$ shape house pits excavated from the Eupha-Ri site. The description of the house shape is based on the Chinese characters XX and XX}
@@ -551,51 +553,60 @@ Thus, a total of 25 samples were collected from eight house pits (Table \ref{sam
 
 ![Some of the artifacts uncovered during the excavation of the Eupha-Ri site (a): Iron Age style hardened un-patterned pottery, a pot made by the beating method (center, second row) (b): mold for iron casting, net sinker, spindle whorls, iron axes and arrowheads \label{EUPartifact}](figures/EUPartifact.jpg) 
 
-Sample No.	  Location/house pit No.    Part                  C14 date (BP; uncalibrated)
------------ ------------------------- ---------------------- -------------------------------
- EUP001	        No. 15	               Rim	                   1780B120
- EUP002	        No. 15	               Rim	                   1780B120
- EUP003	        No. 15	               Rim	                   1780B120
- EUP004	        No. 15	               Rim	                   1780B120
- EUP005	        No. 15	               Rim	                   1780B120
- EUP006	        No. 15	               Rim	                   1780B120
- EUP007	        No. 15	               Rim	                   1780B120
- EUP008         No. 15	               Bottom	               1780B120
- EUP009	        No. 15	               Bottom	               1780B120
- EUP010	        No. 15	               Bottom	               1780B120
- EUP011	        No. 15	               Bottom	               1780B120
- EUP012	        No. 33	               Rim	
- EUP013	        No. 32                 Body	
- EUP014	        No. 32	               Body	
- EUP015	        No. 32	               Body	
- EUP016	        No. 29	               Body (beating method)   1640B120
- EUP017	        No. 15	               Body	                   1780B120
- EUP018	        No. 15	               Rim	                   1780B120
- EUP019	        No. 7.8.9 disturbed	   Rim	
- EUP020	        No. 7.8.9 disturbed	   Rim	
- EUP021	        No. 12	               Rim (beating method)	
- EUP022	        No. 7.8.9 disturbed	   Rim (beating method)	
- EUP030	        No. 33	               Body	
- EUP031	        No. 32	               Body	
- EUP032	        No. 29	               Body	                   1640B120
- 
-Table 5.15. The samples collected from the Eupha-Ri site for the organic geochemical analyses in this thesis
 
+
+\begin{table}[htbp]
+  \centering
+\begin{tabular}{@{}llll@{}}
+\toprule
+Sample No. & House pit No.       & Part                  & C14 date (uncalibrated years BP) \\ \midrule
+EUP001     & No. 15              & Rim                   & 1780±20         \\
+EUP002     & No. 15              & Rim                   & 1780±20         \\
+EUP003     & No. 15              & Rim                   & 1780±20         \\
+EUP004     & No. 15              & Rim                   & 1780±20         \\
+EUP005     & No. 15              & Rim                   & 1780±20         \\
+EUP006     & No. 15              & Rim                   & 1780±20         \\
+EUP007     & No. 15              & Rim                   & 1780±20         \\
+EUP008     & No. 15              & Bottom                & 1780±20         \\
+EUP009     & No. 15              & Bottom                & 1780±20         \\
+EUP010     & No. 15              & Bottom                & 1780±20         \\
+EUP011     & No. 15              & Bottom                & 1780±20         \\
+EUP012     & No. 33              & Rim                   &                             \\
+EUP013     & No. 32              & Body                  &                             \\
+EUP014     & No. 32              & Body                  &                             \\
+EUP015     & No. 32              & Body                  &                             \\
+EUP016     & No. 29              & Body (beating method) & 1640±20         \\
+EUP017     & No. 15              & Body                  & 1780±20         \\
+EUP018     & No. 15              & Rim                   & 1780±20         \\
+EUP019     & No. 7.8.9 disturbed & Rim                   &                             \\
+EUP020     & No. 7.8.9 disturbed & Rim                   &                             \\
+EUP021     & No. 12              & Rim (beating method)  &                             \\
+EUP022     & No. 7.8.9 disturbed & Rim (beating method)  &                             \\
+EUP030     & No. 33              & Body                  &                             \\
+EUP031     & No. 32              & Body                  &                             \\
+EUP032     & No. 29              & Body                  & 1640±20         \\ \bottomrule
+\end{tabular}
+\caption{The samples collected from the Eupha-Ri site for the organic geochemical analyses in this thesis}
+\label{tab:sampling_OG_EP}
+\end{table}
 
 
 \subsubsection{Luminescence dating}
 
 For the luminescence dating three samples were collected to see if there would be positive correlations between the luminescence dates and published AMS radiocarbon dates [@Wang2013, Table 5.14]. Among the three samples, one was collected from the house pit that had been dated by the radiocarbon dating, and the other two from those which had not been (Table \ref{sampling_LM_EP}). 
 
-Sample No.	  Location/house pit No.	Part	 Depth (m)
------------ ------------------------- -------- -------------
-U3039	      No. 33	                Body	 0.3
-U3040	      No. 32	                Body	 0.3
-U3041	      No. 29	                Body	 0.3
-
-Table 5.16. The samples collected from the Eupha-Ri site for the luminescence dating in this thesis
-
-
+\begin{table}[htbp]
+  \centering
+\begin{tabular}{@{}llll@{}}
+\toprule
+Sample No. & Location/house pit No. & Part & Depth (m) \\ \midrule
+U3039      & No. 33                 & Body & 0.3       \\
+U3040      & No. 32                 & Body & 0.3       \\
+U3041      & No. 29                 & Body & 0.3       \\ \bottomrule
+\end{tabular}
+\caption{The samples collected from the Eupha-Ri site for the luminescence dating in this thesis}
+\label{tab:sampling_LM_EP}
+\end{table}
 
 \subsection{Organic geochemical results}
 
@@ -603,33 +614,28 @@ Table \ref{CSIA_EP}, Figure \ref{CSIAEUP}, \ref{CSIAEUP2} and, \ref{CSIAEUP3} sh
 
 This was quite striking, because the Eupha-Ri site is almost 1000 years younger than the other sites (such as Kimpo-Yangchon or Sosa-Dong), and I thought lipids in younger sites had more chances to survive against the post-depositional process than in older ones. The overall low concentration of lipids at the Eupha-Ri site is probably due to the hard fabric of the Iron Age potteries. The surface treatments and a high firing temperature brought into play in manufacturing the Iron Age ceramic vessels would have generated smaller pores, which would have limited the concentration of lipids [cf. @Correa-Ascencio2014]. Otherwise, more lipids could have been absorbed into the vessels. Though Correa-Ascencio and Evershed [-@Correa-Ascencio2014] showed the effectiveness of the methanolic acid extraction on hard and burnished pots, the lipid concentration of the Eupha-Ri site's potsherds was still low, compared with that which had been observed at more porous Mumun potteries.    
 
---------------------------------------------------------------------------------------------------------------------------------------------
-Sample No.	  Compound detected	                          C16:0($\delta$^13^C)	 C18:0($\delta$^13^C)	  Interpretation via CSIA and GC-MS
------------ -------------------------------------------  ---------------------- ---------------------- -------------------------------------
- EUP005	     C14:0, C15:0, C16:0, C16:1, C17:0, C18:0,      -26.2	               -29.4	             Not identifiable
-             C18:2, C19:0, C20:0, C21:0, C22:0, C22:1, 
-			 C23:0, C24:0, phytanic acid	
- 
- EUP019	     C16:0, C18:0, C20:0, C22:0, C22:1, C24:0	    -29.2	               -30.1	             Ruminant adipose
-			 
- EUP020	     C16:0, C18:0, C18:2	                        -32.4	               -31.4	             Not identifiable	
-			 
- EUP021	     C16:0, C18:0, C18:2	                        -30.1	               -30.4	             Ruminant adipose 
-                                                                                                         and/or Equine adipose 
-			 
- EUP022  	 C16:0, C18:0	                                -32.7	               -30.5	             Not identifiable
- 
- EUP030	     C14:0, C16:0, C16:1, C18:0, C18:2	            -27.3 	               -29.7	             Ruminant adipose and/or  
-			                                                                                             C~3~ plant oil
-			   
- EUP031	     C16:0, C17:0, C18:0, C20:0, C22:0	            -26.8	               -26.6	             Pork adipose and/or 
-																					                     Fresh water resource 
-																					  
- EUP032	     C14:0, C15:0, C16:0, C16:1, C18:0, C18:2	    -27.0	               -28.2	             Ruminant adipose and/or 
-                                                                                                         Fresh water resource  
-																					                     and/or C~3~ plant oil	
---------------------------------------------------------------------------------------------------------------------------------------------
-Table 5.17. The results of the organic geochemical analyses by GC-MS and GC-C-IRMS of the samples from the Eupha-Ri site, and their interpretations
+
+
+\newpage
+\begin{longtable}[htbp]{@{}lp{5cm}llp{4cm}@{}}
+\toprule
+Sample No. & Compound detected                                                                         & C16:0 ($\delta$\textsuperscript{13}C) & C18:0 ($\delta$\textsuperscript{13}C) & Interpretation via CSIA               \\ \midrule \endhead
+           &                                                                                                                 &                &                &                                                                    \\
+EUP005     & C14:0, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C20:0, C21:0, C22:0, C22:1, C23:0, C24:0, phytanic acid & -26.2          & -29.4          & Aquatic resources                                                  \\
+EUP019     & C16:0, C18:0, C20:0, C22:0, C22:1, C24:0                                                                        & -29.2          & -30.1          & Ruminant adipose                                                   \\
+EUP020     & C16:0, C18:0, C18:2                                                                                             & -32.4          & -31.4          & Not identifiable                                                   \\
+EUP021     & C16:0, C18:0, C18:2                                                                                             & -30.1          & -30.4          & Ruminant adipose and/or Equine adipose                             \\
+EUP022     & C16:0, C18:0                                                                                                    & -32.7          & -30.5          & Not identifiable                                                   \\
+EUP030     & C14:0, C16:0, C16:1, C18:0, C18:2                                                                               & -27.3          & -29.7          & Ruminant adipose and/or  C3 plant oil                              \\
+EUP031     & C16:0, C17:0, C18:0, C20:0, C22:0                                                                               & -26.8          & -26.6          & Pork adipose and/or Fresh water resource                           \\
+EUP032     & C14:0, C15:0, C16:0, C16:1, C18:0, C18:2                                                                        & -27            & -28.2          & Ruminant adipose and/or Fresh water resource  and/or  C3 plant oil \\
+           &                                                                                                                 &                &                &                                                                    \\
+           &                                                                                                                 &                &                &                                                                    \\
+           &                                                                                                                 &                &                &                                                                    \\
+           &                                                                                                                 &                &                &                                                                    \\ \bottomrule
+\caption{The results of the organic geochemical analyses by GC-MS and GC-C-IRMS of the samples from the Eupha-Ri site, and their interpretations}
+\label{tab:CSIA_EP}
+\end{longtable}
 
 
 
@@ -650,18 +656,19 @@ The samples were dated using TL, OSL and IRSL at the luminescence dating lab, Un
 
 Table \ref{LM_EP} shows the results of the luminescence dating. U3039 and U3041 corresponded to the published four AMS radiocarbon dates (Table 5.14). The date presumed by U3041 indicates that the site was occupied by the Iron Age people slightly longer than the radiocarbon dates suggest. The result of U3040 did not match with both archaeological features of the site and the radiocarbon dates.
 
---------------------------------------------------------------------------------------------------------------------------------
- Lab. No   Depth (m)   Water Content (%)  Dose rate* (Gy/ka)     TL (De)          OSL (De)        IRSL (De)       Age
---------- ----------- ------------------ -------------------- --------------- ----------------- -------------- -----------------                      
- U3039	    0.30	    14	                 6.38B10.43	       14.67B11.07	    8.13B10.26	     14.65B12.54	     162B1114 AD
-                                                                                                                  (OSL)
- 
- U3040	    0.30	    13.4	             5.34B10.56	       12.3B13.1	        8.97B10.16	     10.04B10.21	     251B1122 BC 
- 
- U3041	    0.30	    12.6	             6.60B10.30	       7.92B10.60	    8.58B10.19	     8.53B10.33	     517B177 AD  
---------------------------------------------------------------------------------------------------------------------------------- 
-Table 5.18. The results of the luminescence dating of the potsherd samples from the Eupha-Ri site. The overall low water content of the samples shows the less porous nature of the Iron Age pottery.
 
+\begin{table}[h]
+\centering
+\begin{tabular}{@{}p{1cm}p{1cm}p{1.5cm}p{1.75cm}lllp{1.75cm}@{}}
+\toprule
+Lab. No & Depth (m) & Water Content (\%) & Dose rate* (Gy/ka) & TL (De)      & OSL (De)     & IRSL (De)     & Age               \\ \midrule
+U3039   & 0.3       & 14                 & 6.378±0.429       & 14.67±1.07  & 8.13±0.264  & 14.652±2.537 & 162±114 AD (OSL) \\
+U3040   & 0.3       & 13.4               & 5.336±0.562       & 12.3±3.1    & 8.974±0.16  & 10.04±0.214  & 251±122 BC       \\
+U3041   & 0.3       & 12.6               & 6.596±0.300       & 7.916±0.598 & 8.578±0.186 & 8.534±0.326  & 517±77 AD        \\ \bottomrule
+\end{tabular}
+\caption{The results of the luminescence dating of the potsherd samples from the Eupha-Ri site. The overall low water content of the samples shows the less porous nature of the Iron Age pottery.}
+\label{tab:LM_EP}
+\end{table}
 
 
 \section{Summary}
