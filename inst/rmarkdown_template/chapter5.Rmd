@@ -185,7 +185,7 @@ KIM061     & C14:0, C16:0, C18:0, C20:0, phytanic acid                          
 KIM062     & C16:0, C18:0                                                                              & -27.8         & -26.9         & Pork adipose and/or C3 plant oil      \\
 KIM069     & C16:0, C17:0, C18:0, C20:0                                                                & -25.7         & -26.6         & Aquatic resource and/or Pork adipose  \\
 KIM071     & C16:0, C18:0                                                                              & -28.7         & -29.8         & Ruminant adipose                      \\
-KIM072     & C16:0, C18:0                                                                              & -28.3         & -29.7         & Ruminant adipose and/or  C3 plant oil \\
+KIM072     & C16:0, C18:0                                                                              & -28.3         & -29.7         & Ruminant adipose and/or C3 plant oil \\
 KIM073     & C14:0, C16:0, C17:0, C18:0                                                                & -27.2         & -27.8         & Pork adipose and/or C3 plant oil      \\
 KIM075     & C14:0, C15:0, C16:0, C17:0, C18:0, C20:0, C20:1                                           & -24.1         & -23.5         & Marine and/or Pork adipose            \\
 KIM076     & C14:0, C16:0, C17:0, C18:0, C20:0                                                         & -26.5         & -26.4         & Pork adipose                          \\
