@@ -2,9 +2,6 @@
 set_parent("thesis.Rmd")
 ```
 
-
-
-
 \chapter{The Results}
 
 \section{Introduction}
