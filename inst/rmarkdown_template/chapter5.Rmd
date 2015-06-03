@@ -145,6 +145,8 @@ At least two samples were collected from each of the houses, except those which 
 \subsubsection{Luminescence dating}
 For the luminescence dating two samples were collected to see if there would be positive correlations between the luminescence dates and published AMS radiocarbon dates [Table 5.1, @Kim2013]. Both of the samples were collected from the house that has not been dated (Table \ref{tab:sampling_LM_KM}).
 
+[often when TL dates are presented we also see certain kinds of plots, like glow curves, etc. There is a nice R package that can do these well: http://www.r-luminescence.de/en/index_en.html I think you should add some of these visualisations for each TL results section]
+
 
 \begin{table}[h]
 \centering
