@@ -916,7 +916,8 @@
 \defaultfontfeatures{Mapping=tex-text}
 \newfontfamily{\smallcaps}[RawFeature={c2sc,scmp}]{EB Garamond}
 \defaultfontfeatures{Ligatures=TeX}
-\setmainfont[Numbers=OldStyle, Contextuals=Alternate, Ligatures={Common, Rare, Historical}]{EB Garamond}
+%% \setmainfont[Numbers=OldStyle, Contextuals=Alternate, Ligatures={Common, Rare, Historical}]{EB Garamond}
+\setmainfont[Numbers=OldStyle, Contextuals=Alternate, Ligatures={Common}]{EB Garamond}
 \setsansfont[Scale=MatchLowercase, BoldFont={Lato Bold}]{Lato Regular}
 \setmonofont[Scale=MatchLowercase]{Source Code Pro}
 

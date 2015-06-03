@@ -42,7 +42,14 @@ Throughout the Chulmun period, ancient people occupied coastlines of almost the 
 
 Isotope analysis on the human remains and animal bones excavated from the Geoje and Tongsam-Dong shell middens, southern part of the Korean peninsula (Figure 1.1) shows a focused diet of the Chulmun people and terrestrial animals  [@Kim2010a; @Choy2010]. The relatively low $\delta$^13^C and $\delta$^15^N values of wild terrestrial mammals such as pigs and deer indicate that the diets of these animals were dominated by C~3~ plants  (Figure 6.3), which means most of indigenous wild plants in the Korean Peninsula are C~3~ plants [cf. @Lee2011b]. On the other hand, the $\delta$^13^C and $\delta$^15^N values of human bone collagen were quite close to those of marine animals (Figure \ref{bulk1}), indicating the Chulmun people mainly consumed marine resources. It suggests, along with the geographic location of the middens (Figure \ref{site_locations}), that procuring marine resources was their main subsistence strategy, though terrestrial mammals were included in their diet. 
 
-![The results of bulk isotope analysis on human remains and animals bones excavated from the Daepo and Tongsam-Dong shell middens [modified from @Lee2011a: p. 41] \label{bulk1}](figures/bulk1.jpg)
+\begin{figure}
+  \centering
+  \includegraphics{figures/bulk1.jpg} 
+  \caption{The results of bulk isotope analysis on human remains and animals bones excavated from the Daepo and Tongsam-Dong shell middens (modified from Lee 2011a p. 41)}
+  \label{bulk1}
+\end{figure}
+
+
 
 D. Ahn [-@Ahn2006; (Figure \ref{bulk2})] conducted isotope analysis on the human remains and animal bones for the Konam-Ri shell midden (Figure \ref{study-area_Konam-ri}b), central part of the Korean peninsula. The samples were collected from both the Chulmun and Mumun periods. The isotope analysis on pig bones from both periods indicates that the pigs mainly consumed C~3~ plants. The $\delta$^13^C and $\delta$^15^N values of Human bone collagen from the Chulmun period were close to those of a wild pig, which means the Chulmun people relied on wild C~3~ plants as well as wild pigs. However, considering the difference in $\delta$^13^C values between human and pig, we cannot totally eliminate the possibility of C~4~ plants in the human diet.
 

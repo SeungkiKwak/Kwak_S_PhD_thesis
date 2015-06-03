@@ -580,7 +580,7 @@ No. 29        & Iron Age                   & 1640±20         & AD 336        \\
 \end{table}
  
  
-![(a): "$L\ddot{u}$" shape and (b): "$T\bar{u}$" shape house pits excavated from the Eupha-Ri site. \label{EUPhouse}](figures/EUPhouse.jpg)  
+![(a): L-u shape and (b): T-u shape house pits excavated from the Eupha-Ri site. \label{EUPhouse}](figures/EUPhouse.jpg)  
  
  
 \subsection{Sampling}
