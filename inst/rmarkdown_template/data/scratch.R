@@ -54,25 +54,13 @@ dates_SS <- data.frame(Name = dates_SS$Name,
 dates <- rbind(dates_EP, dates_KM, dates_SG, dates_SS)
 dates <- dates[complete.cases(dates), ]
 
-
-# construct OxCal format
-oxcal_format <- paste0('R_Date(\"',  gsub("^\\s+|\\s+$", "", dates$Name), '\",', dates$Date, ',', dates$Uncertainty, ');')
-# inspect
-cat(oxcal_format)
-
-# write formatted dates to text file
-write.table(oxcal_format, file = 'oxcal_format.txt', row.names = FALSE, col.names = FALSE, quote = FALSE)
-
-# find location of text file
-getwd()
-
-# Or use the R package BChron...
+# use the R package BChron...
 
 library(Bchron)
 # calibrate
 ages = BchronCalibrate(ages=dates$Date, ageSds=dates$Uncertainty, calCurves=rep('intcal13', nrow(dates)))
 summary(ages)
-plot(ages)
+# plot(ages)
 
 # remove NAs
 dates_SS <- dates_SS[complete.cases(dates_SS),]
@@ -124,13 +112,28 @@ plot_all <- rbind(Dens_EP_plot, Dens_KM_plot, Dens_SG_plot, Dens_SS_plot)
 
 library(ggplot2)
 ggplot(plot_all, aes(dateGrid, densFinal, colour = ID)) +
-  geom_line(size = 1) +
+  geom_line(size = 0.5) +
   theme_minimal(base_size = 14) +
   xlab("calibrated years BP") +
-  ylab("Density")
+  ylab("Density") +
+  xlim(1000,4000)
 
 
 ####################
+
+# construct OxCal format
+oxcal_format <- paste0('R_Date(\"',  gsub("^\\s+|\\s+$", "", dates$Name), '\",', dates$Date, ',', dates$Uncertainty, ');')
+# inspect
+cat(oxcal_format)
+
+# write formatted dates to text file
+write.table(oxcal_format, file = 'oxcal_format.txt', row.names = FALSE, col.names = FALSE, quote = FALSE)
+
+# find location of text file
+getwd()
+
+
+##################
 
 # digitize co-ord of ellipses to identify d13C 
 # reference: http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Poisot.pdf
@@ -177,6 +180,27 @@ ggplot(data[1:130,], aes(x, y)) +
   stat_ellipse(type = "euclid") +
   geom_point()
 
+###################################################
 
+# JAS paper
 
+# read in data
+CSIA_KM <- read.csv('inst/rmarkdown_template/data/CSIA_KM.csv', stringsAsFactors = FALSE)
+CSIA_SS <- read.csv('inst/rmarkdown_template/data/CSIA_SS.csv', stringsAsFactors = FALSE)
+# combine both into one dataframe
+CSIA_KM_and_SS <- rbind(CSIA_KM, CSIA_SS)
+
+# get site ID to control plotting colour and shape
+CSIA_KM_and_SS$ID <- substr(CSIA_KM_and_SS$Sample.No., 1, 2)
+
+# plot
+library
+ggplot2
+ggplot(CSIA_KM_and_SS, aes(C16.0....13C., C18.0....13C., colour = ID )) +
+  geom_point(size = 4, aes(shape = ID)) +
+  theme_minimal(base_size = 14) +
+  xlab("C16:0 d13C") +
+  ylab("C18:0 d13C") +
+  xlim(-40,-10) +
+  ylim(-40,-10) 
 
