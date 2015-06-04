@@ -49,7 +49,7 @@ sudo gdebi pandoc-1.13.2-1-amd64.deb
 # for biber
 sudo apt-get install biber
 # for xelatex
-...
+sudo apt-get install texlive-full
 # for font EB Garamond
 sudo apt-get install fonts-ebgaramond
 # for font Source Code Pro
