@@ -10,9 +10,7 @@ Declarations for Front Matter
 %
 -->
 
-\Title{The Suitability of List \LaTeX\ Text Formatter\\
-  for Thesis Preparation by Technical and\\
-  Non-technical Degree Candidates}
+\Title{The hunting farmers: Long-term chronology of subsistence and the role of intensive agriculture in the central part of the Korean peninsula}
 \Author{Seungki Kwak}
 \Year{2015}
 \Program{UW Anthropology}
