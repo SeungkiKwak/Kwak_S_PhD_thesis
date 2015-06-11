@@ -94,7 +94,7 @@ Especially, among the terrestrial animals pork was the major foodstuff (Figure \
                                                                     & Sosa-Dong                       & Kimpo-Yangchon      & Songguk-Ri          \\ \hline
 Main occupational period                                            & 2900-2700 BP                    & 2900-2700 BP        & 2500-2300 BP        \\ 
 Excavated archaeological phenomena related to hunting and fishing   & arowheads, axes and net sinkers & arrowheads and axes & arrowheads and axes \\ 
-Proportion of terrestrial animals and (aquatic resources (Min.)     & 71 \% (20 samples)                & 60 \% (12 samples)  & 61 \% (11 samples)    \\  \hline
+Proportion of terrestrial animals and aquatic resources (Min.)     & 71 \% (20 samples)                & 60 \% (12 samples)  & 61 \% (11 samples)    \\  \hline
 \end{tabular}
 \caption{The proportion of terrestrial animals and aquatic resources from the three Mumun sites studied in this thesis (percentage of the number of the samples interpreted as containing traces of terrestrial animals and aquatic resources to the total number of the analyzed samples from each site)}
 \label{tab:Mumun_animal}
