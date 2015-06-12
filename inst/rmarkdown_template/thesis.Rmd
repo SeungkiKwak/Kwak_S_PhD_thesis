@@ -10,15 +10,15 @@ Declarations for Front Matter
 %
 -->
 
-\Title{The hunting farmers: Long-term chronology of subsistence and the role of intensive agriculture in the central part of the Korean peninsula}
+\Title{Long-term chronology of subsistence and the role of intensive agriculture in the central part of the Korean peninsula}
 \Author{Seungki Kwak}
 \Year{2015}
 \Program{UW Anthropology}
 
-\Chair{Name of Chairperson}{Title of Chair}{Department of Chair}
-\Signature{First committee member}
-\Signature{Next committee member}
-\Signature{etc}
+\Chair{Ben Marwick}{Assistant Professor}{Anthropology Department}
+\Signature{Peter Lape}
+\Signature{Jim Feathers}
+\Signature{Rick Keil}
 
 \copyrightpage
 
@@ -32,23 +32,7 @@ Declarations for Front Matter
 -->
 \setcounter{page}{-1}
 \abstract{%
-This sample dissertation is an aid to students who are attempting
-to format their theses with \LaTeX, a sophisticated
-text formatter widely used by mathematicians and scientists everywhere.
- 
-\begin{itemize}
-\item It describes the use of a specialized
-macro package developed specifically for thesis production
-at the University.
-The macros customize \LaTeX\ for the correct thesis style,
-allowing the student to concentrate on the substance of
-his or her text.%
-\footnote{See Appendix A to obtain the source to this
- thesis and the class file.}
-\item It demonstrates the solutions to a variety of
-formatting challenges found in thesis production.
-\item It serves as a template for a real dissertation.
-\end{itemize}
+To come...
 }
 
 
@@ -70,9 +54,7 @@ formatting challenges found in thesis production.
 \acknowledgments{% \vskip2pc
   % {\narrower\noindent
   The author wishes to express sincere appreciation to
-  University of Washington, where he has had the opportunity
-  to work with the \TeX\ formatting system,
-  and to the author of \TeX, Donald Knuth, {\it il miglior fabbro}.
+  University of Washington ... more to come.
   % \par}
 }
 
@@ -90,7 +72,8 @@ formatting challenges found in thesis production.
 
 ```{r setup, include=FALSE}
 # for hi-res plots
-knitr::opts_chunk$set(dev = 'pdf')
+library(knitr)
+opts_chunk$set(dev = 'pdf')
 # suppress xtable message
 library(xtable)
 options(xtable.comment = FALSE)
@@ -132,7 +115,7 @@ options(xtable.comment = FALSE)
 \newpage\null\thispagestyle{empty}\newpage
 
 \section{Colophon}
-This document was typeset using the \textsf{\XeTeX} typesetting system originally created by the Jonathan Kew, and the [uwthesis class](https://github.com/UWIT-IAM/UWThesis) created by [Jim Fox](https://staff.washington.edu/fox/tex/uwthesis.shtml). Other elements of the document formatting source code have been taken from the [Latex, Knitr, and RMarkdown templates for UC Berkeley's graduate thesis](https://github.com/stevenpollack/ucbthesis), and [Dissertate: a LaTeX dissertation template to support the production and typesetting of a PhD dissertation at Harvard, Princeton, and NYU](https://github.com/suchow/Dissertate) 
+This document was typeset using the \textsf{\XeTeX} typesetting system, and the [uwthesis class](https://github.com/UWIT-IAM/UWThesis) created by [Jim Fox](https://staff.washington.edu/fox/tex/uwthesis.shtml). Other elements of the document formatting source code have been taken from the [Latex, Knitr, and RMarkdown templates for UC Berkeley's graduate thesis](https://github.com/stevenpollack/ucbthesis), and [Dissertate: a LaTeX dissertation template to support the production and typesetting of a PhD dissertation at Harvard, Princeton, and NYU](https://github.com/suchow/Dissertate) 
 
 The body text is set at 11pt with \familydefault. The thesis was written as [R markdown](http://rmarkdown.rstudio.com/)- and \LaTeX -formatted documents, which was converted to PDF using [pandoc](http://pandoc.org/) using [knitr](http://yihui.name/knitr/) with a custom R package.
 
@@ -150,11 +133,14 @@ The following depedencies external to R are required:
 # what other pieces of software?
 # devtools::install_github("ropensci/dependencies")
 needs <- dependencies::needs()
-c(needs$depends$SystemRequirements[
+needs  <- data.frame(`Dependencies external to R` = gsub("\n", "", c(needs$depends$SystemRequirements[
   needs$depends$SystemRequirements != "NULL"], 
   needs$imports$SystemRequirements[
-    needs$imports$SystemRequirements != "NULL"])
+    needs$imports$SystemRequirements != "NULL"])))
+kable(needs)
 ```
+
+
 
 ```{r git_data, echo=FALSE} 
 # what commit is this file at?
