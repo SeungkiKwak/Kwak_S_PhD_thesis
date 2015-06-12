@@ -259,7 +259,14 @@ The trimethylsilylated TLEs and FAMEs were analyzed by 6890N Network GC system w
 \subsubsection{GC-C-IRMS}
 The CSIA Analysis (measured ten times) was performed using a Thermo GC/C-IRMS system composed of a Trace GC Ultra gas chromatograph (Thermo Electron Corp., Milan, Italy) coupled onto a Delta V Advantage isotope ratio mass spectrometer through a GC/C-III interface (Thermo Electron Corp., Bremen, Germany). A compound identification support for the CSIA laboratory is provided by a Varian CP3800 gas chromatograph coupled onto a Saturn 2200 ion trap MS/MS (Varian, Inc., Walnut Creek, CA U.S.A.). The FAMEs dissolved in hexane were injected in the splitless mode, and separated on a Varian factor FOUR VF-5ms column (30m $\times$ 0.25mm ID, 0.25 micron film thickness). Once separated, the FAMEs are quantitatively converted to CO~2~ in an oxidation reactor at 950 $^{\circ}$C. Following water removal through a nafion dryer, CO~2~ enters the IRMS. $\delta$^13^C values were corrected using the working standards composed of several FAMEs calibrated against the NIST standard reference materials.
 
-![The GC chromatograms of the same archaeological sherd sample (KIM014) showing different recovery rates. (a) chloroform : methanol solvent extraction (b): acidified methanol extraction (IS = Internal Standard). In both extractions, the same amount of internal standard was injected. The acidified extraction method showed a much higher recovery rate (more than 20 times) compared with the prevailing chloroform/methanol solvent extraction protocol. \label{SEvsAE}](figures/SEvsAE.jpg)
+
+\begin{figure}
+  \centering
+  \includegraphics{figures/SEvsAE.jpg} 
+  \caption{The GC chromatograms of the same archaeological sherd sample (KIM014) showing different recovery rates. (a) chloroform : methanol solvent extraction (b): acidified methanol extraction (IS = Internal Standard). In both extractions, the same amount of internal standard was injected. The acidified extraction method showed a much higher recovery rate (more than 20 times) compared with the prevailing chloroform/methanol solvent extraction protocol.}
+  \label{SEvsAE}
+\end{figure}
+
 
 \section{Summary}
 
