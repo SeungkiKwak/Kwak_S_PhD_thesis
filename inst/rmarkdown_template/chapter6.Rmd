@@ -108,7 +108,7 @@ Traditionally, the Chulmun – Mumun transition was explained as rapid, mainly d
 \begin{figure}
   \centering
   \includegraphics{figures/Radiocarbon_dates.jpg} 
-  \caption{The combined results of the radiocarbon dates from the four sites analyzed in this thesis (Sosa-Dong: SS, Kimpo-Yangchon: KM, Songguk-Ri: SG, Eupha-Ri: EP)}
+  \caption{Density distributions of all radiocarbon dates from each site studied in this thesis, using the R package BChron (Sosa-Dong: SS, Kimpo-Yangchon: KM, Songguk-Ri: SG, Eupha-Ri: EP)}
   \label{Radiocarbon_dates}
 \end{figure}
 \end{landscape}
