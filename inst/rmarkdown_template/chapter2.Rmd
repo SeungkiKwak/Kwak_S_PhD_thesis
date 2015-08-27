@@ -66,6 +66,8 @@ This situation could have existed in the prehistoric Korea. We have solid eviden
 
 In this regard, the prevailing rice-centered models, which assume rice to be the most dominant subsistence resource since 3,400 BP., are misleading. My hypothesis is that there was utilization of a wider range of animals and plants resources along with rice among ancient farmers in the central part of the Korean peninsula between 3,400 and 2,000 BP. What is overlooked in the subsistence studies of the prehistoric Korea is the distinction between the first adoption of crops and the later development of intensive agriculture [@Lee2011b]. The migrants [@Kim2006b], if there were any, probably needed time to adjust themselves to the local environmental conditions, particularly for rice agriculture, which required complicated irrigation techniques. As G. Lee [-@Lee2011b] noted, rice may have played a minor subsistence role at this time, and it may not have served as a driving factor of the emergence of social complexity.
 
+![Location of the sites mentioned in the text \label{site_locations}](figures/site_locations.jpg)
+
 \section{Summary}
 
 In this chapter, first I have discuss the history and social context of Korean archaeology focusing on series of political upheavals related to Japanese annexation. Next, I elucidated the current studies on the transition from foragers to farmers and development of rice agriculture in the Korean Peninsula. Then, the problems with these existing ideas stated based on the recent scientific evidence from the Korean peninsula and Japan. Lastly, I clarified main hypothesis of this thesis in detail.    
