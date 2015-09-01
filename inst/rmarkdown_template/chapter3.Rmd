@@ -120,7 +120,7 @@ As I mentioned above, for dating fine-grained samples, one has to deal with the 
 
 \subsection{Determining age}
 
-The time having passed since the last daylight exposure/heating of the pottery sample (Hereafter: age) was calculated through dividing the palaeodose by the dose rate. The final date of the sample was obtained through calculating the average of the three dates from TL, OSL, and IRSL. Normally, when conducting the luminescence dating on a pottery sample, its associated sediment is required for the precise dose rate measurement. However, since there was no associated sediments on my samples, I relied on an average of sediment dose rates determined in other parts of Korea [@Hong2003; -@Hong2001a; @Kim2010a; @Kim2012; @Lim2007]. The age and error for both OSL and TL are calculated by a laboratory constructed spreadsheet, based on Aitken [-@Aitken198]).  All error terms are reported at 1-sigma.
+The time having passed since the last daylight exposure/heating of the pottery sample (Hereafter: age) was calculated through dividing the palaeodose by the dose rate. The final date of the sample was obtained through calculating the average of the three dates from TL, OSL, and IRSL. Normally, when conducting the luminescence dating on a pottery sample, its associated sediment is required for the precise dose rate measurement. However, since there was no associated sediments on my samples, I relied on an average of sediment dose rates determined in other parts of Korea [@Hong2003; -@Hong2001a; @Kim2010a; @Kim2012; @Lim2007]. The age and error for both OSL and TL are calculated by a laboratory constructed spreadsheet, based on Aitken [-@Aitken1985].  All error terms are reported at 1-sigma.
 
 \section{Summary}
 
