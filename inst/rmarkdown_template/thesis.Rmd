@@ -18,7 +18,6 @@ Declarations for Front Matter
 \Chair{Ben Marwick}{Assistant Professor}{Anthropology Department}
 \Signature{Peter Lape}
 \Signature{Jim Feathers}
-\Signature{Rick Keil}
 
 \copyrightpage
 
