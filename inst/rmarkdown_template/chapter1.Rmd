@@ -6,7 +6,7 @@ set_parent("thesis.Rmd")
 
 \section{Introduction}
 
-In this chapter, I will start with brief discussion about the traditional perceptions related to the transition from foraging to farming among the Korean archaeologists. Then, I will clarify the goal and methods of this thesis. After that, the past and current archaeological approaches about the emergence of agriculture will be mentioned along with their theoratical framworks. Lastly, I will briefly discuss about the transition from foraging to farming in other regions of East Asia.   
+In this chapter, I will start with brief discussion about the traditional perceptions related to the transition from foraging to farming among the Korean archaeologists. Then, I will clarify the goal and methods of this thesis. After that, the past and current archaeological approaches about the emergence of agriculture will be mentioned along with their theoretical frameworks. Lastly, I will briefly discuss about the transition from foraging to farming in other regions of East Asia.   
 
 \section{The role of the intensive rice agriculture in the central part of the Korean peninsula}
 
@@ -78,4 +78,4 @@ To most Japanese archaeologists, farming is considered as irrigated rice agricul
 
 \section{Summary}
 
-In this chapter, I have briefly discuss about the traditional perceptions about transition from foraging to farming among the Korean archaeologiste. Then, the goal as well as methods of this thesis were clarified. After that, various approaches in relation to the origin of agriculture and their theoratical frameworks were mentioned. Lastly, I briefly discussed about the transition from foraging to farming in other regions of East Asia.  
+In this chapter, I have briefly discuss about the traditional perceptions about transition from foraging to farming among the Korean archaeologists. Then, the goal as well as methods of this thesis were clarified. After that, various approaches in relation to the origin of agriculture and their theoretical frameworks were mentioned. Lastly, I briefly discussed about the transition from foraging to farming in other regions of East Asia.  
