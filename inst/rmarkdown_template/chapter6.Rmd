@@ -138,7 +138,6 @@ The biggest challenge in here is the relatively wide error terms in the luminesc
 
 Despite the small sample size and the issue mentioned above, the luminescence and radiocarbon dates from the four sites are somewhat correlated with each other overall. Through the luminescence dating, at least in the macroscopic view, I was able to build a general chronology of subsistence between the sites. 
 
-
 \section{Implications and future direction}
 
 Since the methods employed in this thesis are based on several assumptions, there are a number of potential sources of error in this study. Future directions will focus on overcoming those potential limitations. 
