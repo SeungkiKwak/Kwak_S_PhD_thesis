@@ -72,7 +72,7 @@ At this point, I have to admit that the quantitative proportion of different foo
 \begin{tabular}{p{6cm}p{3cm}p{3cm}p{3cm}}
 \hline
                                                                     & Sosa-Dong                       & Kimpo-Yangchon      & Songguk-Ri          \\ \hline
-Main occupational period                                            & 2900-2700 BP                    & 2900-2700 BP        & 2500-2300 BP        \\ 
+Main occupational period                                            & 3000-2700 BP                    & 3000-2700 BP        & 2500-2300 BP        \\ 
 Proportion of C~3~ plants oil (Max.)                                & 14 \% (4 samples)               & 25 \% (5 samples)   & 38 \% (7 samples)   \\
 Proportion of terrestrial animals and aquatic resources (Min.)      & 71 \% (20 samples)              & 60 \% (12 samples)  & 61 \% (11 samples)    \\  \hline
 \end{tabular}
@@ -98,7 +98,7 @@ Traditionally, the Chulmun – Mumun transition was explained as rapid, mainly d
 \begin{figure}
   \centering
   \includegraphics{figures/Radiocarbon_dates.jpg} 
-  \caption{Density distributions of all radiocarbon dates from each site studied in this thesis, using the R package BChron (Sosa-Dong: SS, Kimpo-Yangchon: KM, Songguk-Ri: SG, Eupha-Ri: EP)}
+  \caption{Density distributions of all radiocarbon dates from each site studied in this thesis, using the R package BChron (Sosa-Dong: SS, Kimpo-Yangchon: KM, Songguk-Ri: SG, Eupha-Ri: EP)} All dates were calibrated with 'intcal13' calibration curve
   \label{Radiocarbon_dates}
 \end{figure}
 \end{landscape}

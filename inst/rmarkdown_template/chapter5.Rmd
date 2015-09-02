@@ -14,7 +14,7 @@ The Kimpo-Yangchon site is located on the low hillocks around Guree-Ri, Yoohyeon
 
 Six house pits and two pit features were classified into the Chulmun period. The house pits are either round shaped or square shaped with rounded corners, and hold the interior features such as hearth, four post holes and ditch. Most of the potteries are pointed-bottomed deep bowls with various combinations of patterns including (short) slanted incising, herringbone, and lattice. The excavated house structures are assumed to belong to the late Middle - Late Chulmun Period.
 
-As for the Mumun period, 126 house pits, pit features, and firing features were excavated. The house pits are classified into three types based on their shape: square, rectangular, and long house. Each of those houses normally has an array of multiple post holes which crosses the center of the pit; and some of them comprehend pit-hearths, storage pits, and ditches as interior features. Most of the potteries have the rim-punctuation or a combination of lip-scoring/rim-punctuation; and others a combination of double-rim/short slanted line incision (Figure \ref{Mpatterns}). As for the ground stone tools, arrowheads, daggers, and axes were found. As for the farming tools, semi-lunar shaped stone knives (Figure \ref{KY-artifacts}; cf. Figure \ref{farming}b) and mortar/pestle were found. The excavated features can be reclassified into two different lineages: (large) square/rectangular house pits with double-rim/short slanted line incision potteries and (small) rectangular house pits/(elongated) long houses with rim-punctuation potteries (Figure \ref{Mpatterns}). These two lineages are considered to be an extension of the two Early Mumun pottery cultures (Garak-Dong style and Yeoksam-Dong style) which covers a large extent of Gyeonggi province (Figure \ref{site_locations}). These Mumun features of the site have a great value in understanding the overall aspect of the Mumun Period in the central west part of the Korean Peninsula. Considering the number of houses, artifacts (Figure \ref{KY-artifacts}), and the radiocarbon dating on charcoals from hearths in the house pits [@Kim2013a, Table \ref{tab:radiocarbon_KM}], the period when the Kimpo-Yangchon site was occupied the most intensively is around 2,900 - 2,700 BP, the incipient/early stage of the Mumun period (cf. Figure \ref{Radiocarbon_dates}).
+As for the Mumun period, 126 house pits, pit features, and firing features were excavated. The house pits are classified into three types based on their shape: square, rectangular, and long house. Each of those houses normally has an array of multiple post holes which crosses the center of the pit; and some of them comprehend pit-hearths, storage pits, and ditches as interior features. Most of the potteries have the rim-punctuation or a combination of lip-scoring/rim-punctuation; and others a combination of double-rim/short slanted line incision (Figure \ref{Mpatterns}). As for the ground stone tools, arrowheads, daggers, and axes were found. As for the farming tools, semi-lunar shaped stone knives (Figure \ref{KY-artifacts}; cf. Figure \ref{farming}b) and mortar/pestle were found. The excavated features can be reclassified into two different lineages: (large) square/rectangular house pits with double-rim/short slanted line incision potteries and (small) rectangular house pits/(elongated) long houses with rim-punctuation potteries (Figure \ref{Mpatterns}). These two lineages are considered to be an extension of the two Early Mumun pottery cultures (Garak-Dong style and Yeoksam-Dong style) which covers a large extent of Gyeonggi province (Figure \ref{site_locations}). These Mumun features of the site have a great value in understanding the overall aspect of the Mumun Period in the central west part of the Korean Peninsula. Considering the number of houses, artifacts (Figure \ref{KY-artifacts}), and the radiocarbon dating on charcoals from hearths in the house pits [@Kim2013a, Table \ref{tab:radiocarbon_KM}], the period when the Kimpo-Yangchon site was occupied the most intensively is around 3,000 - 2,700 BP, the incipient/early stage of the Mumun period (cf. Figure \ref{km_radio}; \ref{Radiocarbon_dates}).
 
 
 \begin{longtable}[htbp]{@{}llll@{}}
@@ -74,6 +74,8 @@ Area 2-4 Ga /No. 8     & BaekJe Kingdom             & 1880±60                 &
 \label{tab:radiocarbon_KM}
 \end{longtable}
 
+![The density distribution of radiocarbon dates from the Kimpo-Yangchon site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{km_radio}](figures/km_radio.jpg)
+
 
 \newpage
 \begin{longtable}[htbp]{@{}llll@{}}
@@ -132,18 +134,20 @@ KIM078     & Area 2-1 L/No.9    & Rim  &                             \\ \bottomr
 \label{tab:sampling_OG_KM}
 \end{longtable}
 
-![The location of the Kimpo-Yangchon site \label{site_locations_zoomin}](figures/site_locations_zoomin.jpg)
+![The location of the four sites analyzed in this thesis \label{site_locations_zoomin}](figures/site_locations_zoomin.jpg)
+
+![The site plan of the Kimpo-Yangchon site and the location/number of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{km_map}](figures/km_map.jpg)
 
 \subsection{Sampling}
 
 \subsubsection{Organic geochemical analyses}
 
-At least two samples were collected from each of the houses, except those which did not yield pottery, and of which the date could not be estimated. If available, three samples were collected from one house. One sample was collected from some house pits which did not yield enough potsherds. Researches have showed that the potteries for ordinary day-to-day subsistence around this period tend to have rather monotonous characteristics in terms of shape and size [@Bae2007; @Shoda2008]. Therefore, the shape and size of the potteries were relatively not critical issues for sampling. According to the experimental analysis of Evershed [@Evershed2008], the rim and upper body parts of pots are where organic residues are the most concentrated after cooking [cf. @Barker2012; @Eerkens2007]. Ethnographic observations showed that generally, high-temperature boiling is regarded as a particularly effective cooking method in the preparation of faunal and floral resources in pots [@Crown1995; @Stahl1989; @Wandsnider1997]. During this process, convection currents of boiling water push extracted lipids from food stuffs to the pot wall. Since lipids float on water, they tend to accumulate and penetrate into the wall of the upper body and rim of the pot. Taking these facts as criteria, a total of 49 samples were collected (Table \ref{tab:sampling_OG_KM}). Since some of the house pits were dated by the AMS radiocarbon dating, if there are available dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_KM}.   
+At least two samples were collected from each of the houses, except those which did not yield pottery, and of which the date could not be estimated. If available, three samples were collected from one house. One sample was collected from some house pits which did not yield enough potsherds. Researches have showed that the potteries for ordinary day-to-day subsistence around this period tend to have rather monotonous characteristics in terms of shape and size [@Bae2007; @Shoda2008]. Therefore, the shape and size of the potteries were relatively not critical issues for sampling. According to the experimental analysis of Evershed [@Evershed2008], the rim and upper body parts of pots are where organic residues are the most concentrated after cooking [cf. @Barker2012; @Eerkens2007]. Ethnographic observations showed that generally, high-temperature boiling is regarded as a particularly effective cooking method in the preparation of faunal and floral resources in pots [@Crown1995; @Stahl1989; @Wandsnider1997]. During this process, convection currents of boiling water push extracted lipids from food stuffs to the pot wall. Since lipids float on water, they tend to accumulate and penetrate into the wall of the upper body and rim of the pot. Taking these facts as criteria, a total of 49 samples were collected (Table \ref{tab:sampling_OG_KM}, Figure \ref{km_map}). Since some of the house pits were dated by the AMS radiocarbon dating, if there are available dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_KM}.   
 
 ![Some of the artifacts uncovered during the excavation of the Kimpo-Yangchon site: semi-lunar shaped knife (upper-left), pots (rim-punctuation; upper-right), and arrowheads (down-left) \label{KY-artifacts}](figures/KY-artifacts.jpg)
 
 \subsubsection{Luminescence dating}
-For the luminescence dating two samples were collected. Both of the samples were collected from the house that has not been dated (Table \ref{tab:sampling_LM_KM}).
+For the luminescence dating two samples were collected. Both of the samples were collected from the house that has not been dated (Table \ref{tab:sampling_LM_KM}, Figure \ref{km_map}).
 
 
 \begin{table}[h]
@@ -161,7 +165,7 @@ U3046      & Area 2-1 D/No.10   & Body & 0.3       \\ \bottomrule
 
 \subsection{Organic geochemical results}
 
-Before collecting 49 samples from the Kinpo-Yangchon site for the organic geochemical analysis in this thesis, 25 samples were collected for a preliminary analysis. They were all collected based on the same criteria that were mentioned in the "sampling" section. The purpose of the preliminary analysis is to ascertain the applicability of the organic geochemical analyses to examining the potteries from the central part of the Korean Peninsula. The samples were analyzed in accordance with the well-known standard solvent extraction protocol that demands the use of solvent mixture (chloroform-methanol 2 : 1 v/v; cf. chapter 4), at the organic geochemistry unit, University of Bristol, under the guidance of Dr. Richard P. Evershed. Unfortunately, since the lipid concentration of the samples were so low, I was not able to extract an analyzable amount of lipids from those 25 samples (cf. Figure \ref{protocol}a). Following Dr. Evershed's suggestion, the direction of examination was changed to employ the methanolic acid extraction protocol [@Correa-Ascencio2014, cf. chapter 4].In this thesis, all the 49 samples from the Kimpo-Yangchon site were analyzed by the acid extraction protocol. 
+Before collecting 49 samples from the Kimpo-Yangchon site for the organic geochemical analysis in this thesis, 25 samples were collected for a preliminary analysis. They were all collected based on the same criteria that were mentioned in the "sampling" section. The purpose of the preliminary analysis is to ascertain the applicability of the organic geochemical analyses to examining the potteries from the central part of the Korean Peninsula. The samples were analyzed in accordance with the well-known standard solvent extraction protocol that demands the use of solvent mixture (chloroform-methanol 2 : 1 v/v; cf. chapter 4), at the organic geochemistry unit, University of Bristol, under the guidance of Dr. Richard P. Evershed. Unfortunately, since the lipid concentration of the samples were so low, I was not able to extract an analyzable amount of lipids from those 25 samples (cf. Figure \ref{protocol}a). Following Dr. Evershed's suggestion, the direction of examination was changed to employ the methanolic acid extraction protocol [@Correa-Ascencio2014, cf. chapter 4].In this thesis, all the 49 samples from the Kimpo-Yangchon site were analyzed by the acid extraction protocol. 
 
 Table \ref{tab:CSIA_KM} and Figure \ref{CSIAKimpo}, \ref{CSIAKM2}, and \ref{CSIAKM3} show the results of the organic geochemical analyses. Among the 49 samples, I was able to analyze 20. 29 samples had to be omitted mainly due to contamination and low concentration of lipids. In spite of going through the cleaning process of samples using drill bits to minimize contamination, in accordance with the standard protocol (cf. Chapter 4), not all the sherds were suitable for the analyses. This is mainly because of poor handling of the pottery during the excavation and curation processes. Generally, the most frequently observed compounds in archaeological lipid residues are palmitic (C16:0) and stearic (C18:0) fatty acids [@Evershed2008]. As expected, the organic compounds of all samples were dominated by those two saturated fatty acids. This means those organic compounds were highly degraded in soil during several thousand years of post-depositional processes (cf. Chapter 4). Nevertheless, with the results of GC-MS analysis, I was able to identify both major short- and long-chain (un)saturated fatty acids including C14:0, C15:0, C15:1, C17:0, C18:1, C20:0, C22:0, C22:2, and C24:0.
 
@@ -230,7 +234,7 @@ U3046   & 0.3       & 15.1               & 6.880±0.579       & 10.792±2.031 & 
 
 The Sosa-Dong site is located on the low hill of Sosa-Dong, Pyeongtaek city, Gyeonggi province. The site is about 2.5 kilometers north of the Anseong stream (Figure \ref{site_locations}; \ref{site_locations_zoomin}).The excavation was conducted by Korea institute of Heritage, from September 2004 to September 2006 [@Kim2008]. The site comprehends various archaeological phenomena such as house pits, mound burials, pit graves, pit features and ditches which belong to different time periods from the Mumun period to the historical Joseon Dynasty (AD 1392 - 1897). 
 
-A total of 81 Mumun period house pits were found. Based on the results of the radiocarbon dating of charcoal from the house pits [@Kim2008, Table \ref{tab:radiocarbon_SS}], it is inferred that the site goes back to the times as early as the incipient/early stage of the Mumun period, or as late as the middle/late Mumun period  (cf. Figure \ref{Radiocarbon_dates}). The house pits are classified into four types based on their shape: square, circular, rectangular, and longhouse. The rectangular and longhouse pits were built around the early stage of the Mumun period (2900 - 2700 BP); and the square and circular pits near the late Mumun period (2500 - 2300 BP). According to the radiocarbon dating on charcoals from hearths in the house pits, the site has a chronological void from 2700 BP to 2500 BP (Table \ref{tab:radiocarbon_SS}). Some of these houses incorporate hearths, storage pits and ditches as interior features. Most of the potteries have the rim-punctuation or a combination of lip-scoring/rim-punctuation; and others a combination of double-rim/short slanted incision or rim-punctuation/short slanted incision (figure \ref{SS-artifacts}). As for the ground stone tools, arrowheads, daggers, chisels and axes were found (Figure \ref{SS-artifacts}). As for the farming tools, semi-lunar shaped stone knives (Figure \ref{farming}b) and mortars/pestles were found. Especially, carbonized 46 rice (Oryza sativa; Figure \ref{Rice}a) and 31 possible barley (Hodeum vulgare L.; Figure \ref{Rice}b) grains were found inside of one house pit, near the hearth (Area "Ga"/No. 10). 
+A total of 81 Mumun period house pits were found. Based on the results of the radiocarbon dating of charcoal from the house pits [@Kim2008, Table \ref{tab:radiocarbon_SS}], it is inferred that the site goes back to the times as early as the incipient/early stage of the Mumun period, or as late as the middle/late Mumun period  (cf. Figure \ref{ss_radio}; \ref{Radiocarbon_dates}). The house pits are classified into four types based on their shape: square, circular, rectangular, and longhouse. The rectangular and longhouse pits were built around the early stage of the Mumun period (3000 - 2700 BP); and the square and circular pits near the late Mumun period (2500 - 2300 BP). According to the radiocarbon dating on charcoals from hearths in the house pits, the site has a chronological void from 2700 BP to 2500 BP (Table \ref{tab:radiocarbon_SS}). Some of these houses incorporate hearths, storage pits and ditches as interior features. Most of the potteries have the rim-punctuation or a combination of lip-scoring/rim-punctuation; and others a combination of double-rim/short slanted incision or rim-punctuation/short slanted incision (figure \ref{SS-artifacts}). As for the ground stone tools, arrowheads, daggers, chisels and axes were found (Figure \ref{SS-artifacts}). As for the farming tools, semi-lunar shaped stone knives (Figure \ref{farming}b) and mortars/pestles were found. Especially, carbonized 46 rice (Oryza sativa; Figure \ref{Rice}a) and 31 possible barley (Hodeum vulgare L.; Figure \ref{Rice}b) grains were found inside of one house pit, near the hearth (Area "Ga"/No. 10). 
 
 The overall archaeological phenomena of the Sosa-Dong site are quite similar to those of the Kimpo-Yangchon site. The composition of different types of house pits, potteries and stone artifacts clearly indicate the resemblance between the two sites. Probably one of the most interesting features of the Sosa-Dong site compared with the Kimpo-Yangchon site is carbonized rice and possible barley grains. Considering their 'burnt' condition, it is beyond all doubt that rice and barley were cooked for consumption.    
    
@@ -258,10 +262,11 @@ Area Ga/No. 13     & Mumun                      & 2550±50                    & 
 Area La/No. 7      & Mumun                      & 2470±80                    & BC 600        \\
 Area Ga/No. 15     & Mumun                      & 2470±60                    & BC 590        \\
 Area Ga/No. 4      & Mumun                      & 2300±50                    & BC 310        \\ \bottomrule
-\caption{The results of AMS radiocarbon dating of the Sosa-Dong site. The }
+\caption{The results of AMS radiocarbon dating of the Sosa-Dong site}
 \label{tab:radiocarbon_SS}
 \end{longtable}
 
+![The density distribution of radiocarbon dates from the Sosa-Dong site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{ss_radio}](figures/ss_radio.jpg)
 
 ![Some of the artifacts uncovered during the excavation of the Sosa-Dong site including potsherd, arrowheads and stone chisel. The potsherd in the picture has the rim-punctuation/short slanted incision \label{SS-artifacts}](figures/SS-artifacts.jpg) 
 
@@ -271,7 +276,7 @@ Area Ga/No. 4      & Mumun                      & 2300±50                    & 
 
 \subsubsection{Organic geochemical analyses}
 
-The general sampling strategy for the organic geochemical analyses on the Sosa-Dong site is quite similar to that on the Kimpo-Yangchon site. At least two samples were collected from each of the houses, except those which did not yield pottery, and whose date could not be estimate. If available, three samples were collected from one house. One sample was collected from some house pits that did not yield enough potsherds. The shape and size of the pots were not considered, for the potteries for ordinary day-to-day subsistence around this period tend to have rather monotonous characteristics in terms of shape and size [@Bae2007; @Shoda2008]. Following the criteria of Evershed [-@Evershed2008, Figure \ref{lipidcon}], the rim and upper body parts were chosen and a total of 37 samples were collected (Table \ref{tab:sampling_OG_SS}). If there are available radiocarbon dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_SS}.  
+The general sampling strategy for the organic geochemical analyses on the Sosa-Dong site is quite similar to that on the Kimpo-Yangchon site. At least two samples were collected from each of the houses, except those which did not yield pottery, and whose date could not be estimate. If available, three samples were collected from one house. One sample was collected from some house pits that did not yield enough potsherds. The shape and size of the pots were not considered, for the potteries for ordinary day-to-day subsistence around this period tend to have rather monotonous characteristics in terms of shape and size [@Bae2007; @Shoda2008]. Following the criteria of Evershed [-@Evershed2008, Figure \ref{lipidcon}], the rim and upper body parts were chosen and a total of 37 samples were collected (Table \ref{tab:sampling_OG_SS}, Figure \ref{ss_map}). If there are available radiocarbon dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_SS}.  
 
 ![Diagram showing the lipid concentration of each body part from the both experimental and archaeological sherd samples [adapted from -@Evershed2008] \label{lipidcon}](figures/lipidcon.jpg) 
 
@@ -320,9 +325,11 @@ SOS066     & Area La/No. 36     & Body &                             \\ \bottomr
 \label{tab:sampling_OG_SS}
 \end{longtable}
 
+![The site plan of the Sosa-Dong site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{ss_map}](figures/ss_map.jpg)
+
 \subsubsection{Luminescence dating}
 
-As at the Kimpo-Yangchon site, two samples were collected for the luminescence dating. One of the two samples was collected from a house which had been dated by the radiocarbon dating, and the other from another which has not been (Table \ref{tab:sampling_LM_SS}). 
+As at the Kimpo-Yangchon site, two samples were collected for the luminescence dating. One of the two samples was collected from a house which had been dated by the radiocarbon dating, and the other from another which has not been (Table \ref{tab:sampling_LM_SS}, Figure \ref{ss_map}). 
 
 
 \begin{table}[h]
@@ -421,7 +428,7 @@ Among the thousands of prehistoric archaeological phenomena in the Korean penins
 
 Groups of pit-houses are found in various spots in an area of almost several square kilometers. The un-patterned potteries excavated from the site were named 'the Songguk-Ri style pottery'; and potteries of this style were found at many other sites in the central part of the Korean peninsula with typical assemblages. The evidence of a wooden fence around the residential area indicates conflict and competition between the local Mumun societies [@NationalResearchInstituteofCulturalHeritage2002]. A number of smaller settlements presumed to be formed about the same period were found within the radius of several kilometers from Songguk-Ri. The site also comprehends stone-cist burials with a Liaoning-style bronze dagger, large tubular-shaped greenstone ornaments and a ground stone dagger (Figure \ref{SON-artifacts}). The high status materials (e.g. bronze dagger, green stone beads) in stone cist burials at the site and a number of small settlements around it led archaeologists to assume that in Songguk-Ri and its vicinity appeared the earliest form of social hierarchy in the ancient Korean Peninsula. With the importance of the site, it is registered as "Historical Site No. 249 (Cultural heritage Administration of Korea)".
 
-The latest excavation of the Songguk-Ri site was conducted by the Korean National University of Cultural Heritage. The 12th to 14th excavations were held from April of 2008 to September of 2011 [@Kim2011; -@Kim2013]. As for the Mumun period, 47 house pits and 34 pit features were found. Based on the results of the radiocarbon dating of charcoal from the house pits and pit features [@Kim2011; -@Kim2013, Table \ref{tab:radiocarbon_SG}], the site was classified into the middle/late Mumun period (cf. Figure \ref{Radiocarbon_dates}). The house pits are classified into four types by their shape: circular, square, rectangular. No longhouse was found, for this type existed only during the incipient/early stage of the Mumun period. As for the ground stone tools, arrowheads, semi-lunar shaped stone knives, spindle whorl, and pieces of green stone beads were excavated.  
+The latest excavation of the Songguk-Ri site was conducted by the Korean National University of Cultural Heritage. The 12th to 14th excavations were held from April of 2008 to September of 2011 [@Kim2011; -@Kim2013]. As for the Mumun period, 47 house pits and 34 pit features were found. Based on the results of the radiocarbon dating of charcoal from the house pits and pit features [@Kim2011; -@Kim2013, Table \ref{tab:radiocarbon_SG}], the site was classified into the middle/late Mumun period (cf. Figure  \ref{sg_radio}; \ref{Radiocarbon_dates}). The house pits are classified into four types by their shape: circular, square, rectangular. No longhouse was found, for this type existed only during the incipient/early stage of the Mumun period. As for the ground stone tools, arrowheads, semi-lunar shaped stone knives, spindle whorl, and pieces of green stone beads were excavated.  
 
 During the 14th excavation, several kinds of carbonized grains were found at 11 different features including house pits and pit features. The confirmed kinds were rice (Oryza sativa), foxtail millet (Setaria italica), broomcorn millet (Panicum Millaceum), soybean (Glycine max) and azuki (Vigna augularis). The two dominant grains were foxtail millet and rice, which occupied respectively about 65 and 32 percent of the identified ones, (their respective number: 5798 and 2892).
 
@@ -454,8 +461,7 @@ No. 70        & Mumun                      & 2430±50                    & BC 58
 \label{tab:radiocarbon_SG}
 \end{table}
 
-
-
+![The density distribution of radiocarbon dates from the Songguk-Ri site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{sg_radio}](figures/sg_radio.jpg)
 
 ![(a): some of the artifacts uncovered during the excavation of the Songguk-Ri site: pot, large tubular-shaped greenstone ornaments, semi-lunar shaped stone knife, arrowheads, ground stone dagger, and Liaoning-style bronze dagger [@Yoon2010] (b): the "Songguk-Ri style" rounded pit-houses with two post holes [@Yoon2010] \label{SON-artifacts}](figures/SON-artifacts.jpg) 
 
@@ -463,7 +469,7 @@ No. 70        & Mumun                      & 2430±50                    & BC 58
 
 \subsection{Organic geochemical analyses}
 
-The samples for the organic geochemical analyses were collected during the 14th excavation of the Songguk-Ri site. The general sampling strategy for the site was somewhat different from that of the Kimpo-Yangchon and Sosa-Dong sites. Since the potsherds from the Songguk-Ri site were quite scarce, all the available ones which were conceded by the institution were sampled for the analysis. Under these circumstances, I have collected a total of 27 samples from 16 house pits and 2 pit features (Table \ref{tab:sampling_OG_SG}). Unfortunately, no rim and upper body parts were selectively collected, for none of the available potsherds came from the rim portion. If there are available radiocarbon dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_SG}.
+The samples for the organic geochemical analyses were collected during the 14th excavation of the Songguk-Ri site. The general sampling strategy for the site was somewhat different from that of the Kimpo-Yangchon and Sosa-Dong sites. Since the potsherds from the Songguk-Ri site were quite scarce, all the available ones which were conceded by the institution were sampled for the analysis. Under these circumstances, I have collected a total of 27 samples from 16 house pits and 2 pit features (Table \ref{tab:sampling_OG_SG}, Figure \ref{sg_map}). Unfortunately, no rim and upper body parts were selectively collected, for none of the available potsherds came from the rim portion. If there are available radiocarbon dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_SG}.
 
 \newpage
 \begin{longtable}[htbp]{@{}lllll@{}}
@@ -500,6 +506,8 @@ SON027     & No. 69                       & Body &                             &
 \caption{The samples collected from the Songguk-Ri site for the organic geochemical analyses in this thesis}
 \label{tab:sampling_OG_SG}
 \end{longtable}
+
+![The site plan of the Songguk-Ri site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{sg_map}](figures/sg_map.jpg)
 
 
 \subsubsection{Luminescence dating}
@@ -556,7 +564,7 @@ The results of the isotope analysis of C16:0 and C18:0 fatty acids show their ch
 
 Eupha-Ri is an Iron Age archaeological site in Huengseong city, Gangwon province, South Korea (Figure \ref{site_locations_zoomin}). The Huengseong city council had had a plan to build a cultural/athletic park; and the archaeological investigation had been performed beforehand by the Yonsei University Wonju Museum [@Wang2013]. The excavation was held from May 15th, 2009 to December 11th, 2011. The site comprehends various archaeological phenomena such as house pits, pit features and jar burials which represent different time periods from the Iron Age to the historical Joseon Dynasty (AD 1392 - 1897). The total site area is 23,840 square meters. Its main archaeological features belong to the Iron Age; and this thesis is focusing on this time period.    
 
-36 house pits, 24 pit features, and four jar burials were excavated and classified into the Iron Age. Based on the AMS radio carbon dating applied to the four charcoal samples collected from the house pits, the main occupation period was assumed to be around 1,850 - 1,640 BP [@Wang2013, Table \ref{tab:radiocarbon_EP}, cf. Figure \ref{Radiocarbon_dates}]. The house pits are either "L$\ddot{u}$" or "T$\bar{u}$" shape with rounded corners, and comprehend interior features such as hearth and post holes (Figure \ref{EUPhouse}). This description of their shape is based on the Chinese characters. The Iron age style hardened un-patterned pottery and that which was made by the beating method were excavated. Other ceramic artifacts were also found, including a mold for iron casting, a net sinker and spindle whorls (Figure \ref{EUPartifact}b). As for Iron ware, axes, daggers and arrowheads were found (Figure \ref{EUPartifact}b).     
+36 house pits, 24 pit features, and four jar burials were excavated and classified into the Iron Age. Based on the AMS radio carbon dating applied to the four charcoal samples collected from the house pits, the main occupation period was assumed to be around 1,850 - 1,640 BP [@Wang2013, Table \ref{tab:radiocarbon_EP}, cf. Figure \ref{ep_radio}; \ref{Radiocarbon_dates}]. The house pits are either "L$\ddot{u}$" or "T$\bar{u}$" shape with rounded corners, and comprehend interior features such as hearth and post holes (Figure \ref{EUPhouse}). This description of their shape is based on the Chinese characters. The Iron age style hardened un-patterned pottery and that which was made by the beating method were excavated. Other ceramic artifacts were also found, including a mold for iron casting, a net sinker and spindle whorls (Figure \ref{EUPartifact}b). As for Iron ware, axes, daggers and arrowheads were found (Figure \ref{EUPartifact}b).     
 
 Overall, the Eupha-Ri site shows the typical characteristics of the Iron Age sites in the central part of the Korean Peninsula.
 
@@ -575,6 +583,9 @@ No. 29        & Iron Age                   & 1640±20         & AD 336        \\
 \label{tab:radiocarbon_EP}
 \end{table}
  
+
+![The density distribution of radiocarbon dates from the Eupha-Ri site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{ep_radio}](figures/ep_radio.jpg)
+ 
  
 ![(a): L$\ddot{u}$ shape and (b): T$\bar{u}$ shape house pits excavated from the Eupha-Ri site. \label{EUPhouse}](figures/EUPhouse.jpg)  
  
@@ -585,7 +596,7 @@ No. 29        & Iron Age                   & 1640±20         & AD 336        \\
 
 Though numerous complete pots were excavated (Figure \ref{EUPartifact}a), not many 'potsherds' were found. Since in archaeological investigation, the priority is given to preserving pots in their original form and since it is not common to find lots of complete ones, I was not allowed to take parts from complete ones for the analyses. Under these limited conditions, the samples were collected among the available potsherds found at house pits.      
 
-Thus, a total of 25 samples were collected from eight house pits (Table \ref{tab:sampling_OG_EP}). Though I tried to collect as many samples as I could in the given situation, I have to confess that the eight house pits might not fully represent the entire aspect of the site. If there are available radiocarbon dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_EP}.  
+Thus, a total of 25 samples were collected from eight house pits (Table \ref{tab:sampling_OG_EP}, Figure \ref{ep_map}). Though I tried to collect as many samples as I could in the given situation, I have to confess that the eight house pits might not fully represent the entire aspect of the site. If there are available radiocarbon dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_EP}.  
 
 
 ![Some of the artifacts uncovered during the excavation of the Eupha-Ri site (a): Iron Age style hardened un-patterned pottery, a pot made by the beating method (center, second row) (b): mold for iron casting, net sinker, spindle whorls, iron axes and arrowheads \label{EUPartifact}](figures/EUPartifact.jpg) 
@@ -627,10 +638,12 @@ EUP032     & No. 29              & Body                  & 1640±20         \\ \
 \label{tab:sampling_OG_EP}
 \end{table}
 
+![The site plan of the Eupha-Ri site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{ep_map}](figures/ep_map.jpg)
+
 
 \subsubsection{Luminescence dating}
 
-For the luminescence dating three samples were collected. Among the three samples, one was collected from the house pit that had been dated by the radiocarbon dating, and the other two from those which had not been (Table \ref{tab:sampling_LM_EP}). 
+For the luminescence dating three samples were collected. Among the three samples, one was collected from the house pit that had been dated by the radiocarbon dating, and the other two from those which had not been (Table \ref{tab:sampling_LM_EP}, Figure \ref{ep_map}). 
 
 \begin{table}[htbp]
   \centering
