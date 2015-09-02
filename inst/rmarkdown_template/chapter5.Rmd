@@ -74,7 +74,7 @@ Area 2-4 Ga /No. 8     & BaekJe Kingdom             & 1880±60                 &
 \label{tab:radiocarbon_KM}
 \end{longtable}
 
-![The density distribution of radiocarbon dates from the Kimpo-Yangchon site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{km_radio}](figures/km_radio.jpg)
+![The density distribution of radiocarbon dates from the Kimpo-Yangchon site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{km_radio}](figures/km_radio.jpeg)
 
 
 \newpage
@@ -203,6 +203,7 @@ The result of isotope analysis (Figure \ref{CSIAKimpo}; \ref{CSIAKM2}; \ref{CSIA
 
 The result of CSIA on KIM061 agreed with that of GC-MS analysis, indicating the pot was used for processing marine resources. 25 percent (five samples) shows presence of C~3~ plant oils. However, it has to be carefully considered whether this means rice occupied about one-fourth of those farmers' diet. Firstly, C~3~ plants include not only rice, but also legumes and barley. As G. Lee (2011) mentioned, we have pollen data from 5,500 BP to 2,600 BP showing the ancient farmers of the Korean peninsula utilized soybean (Glycine max) and azuki (Vignaaugularis) as subsistence resources. Therefore, it is impetuous to argue that the detected C~3~ plant oils are from rice alone. Secondly, since the area of C~3~ plant oils in Figure \ref{CSIAKimpo} could indicate the mixture of pork and ruminant adipose (cf. Chapter 4), we do not have any assurance that the C~3~ plant oils of which the presence is indicated by those five samples are actually plant oil. Lastly, all of the samples identified as revealing C~3~ plant oils are also interpreted as containing pork and ruminant adipose, for the ellipses of C~3~ plant oils and pork adipose overlap each other (cf. Figure \ref{CSIAKimpo}; \ref{CSIAKM2}; \ref{overlap}). Therefore, under this circumstance, assuming the total diet can be reflected in ceramic residues, what we can draw from the given data is that 'at most', rice occupied about one-fourth of the diet of the ancient farmers at the Kimpo-Yangchon site.  
 
+
 ![The results of CSIA by GC-C-IRMS of the samples from the Kimpo-Yangchon site using the available references [cf. @Dudd1998a; @Dudd1999; @Steele2010]  \label{CSIAKimpo}](figures/CSIAKimpo.jpg)
 
 ![The results of CSIA by GC-C-IRMS of the samples from the Kimpo-Yangchon site using the reference from @Craig2011 \label{CSIAKM2}](figures/CSIAKM2.jpg)
@@ -230,6 +231,7 @@ U3046   & 0.3       & 15.1               & 6.880±0.579       & 10.792±2.031 & 
 \end{table}
 
 
+\newpage
 \section{Sosa-Dong}
 
 The Sosa-Dong site is located on the low hill of Sosa-Dong, Pyeongtaek city, Gyeonggi province. The site is about 2.5 kilometers north of the Anseong stream (Figure \ref{site_locations}; \ref{site_locations_zoomin}).The excavation was conducted by Korea institute of Heritage, from September 2004 to September 2006 [@Kim2008]. The site comprehends various archaeological phenomena such as house pits, mound burials, pit graves, pit features and ditches which belong to different time periods from the Mumun period to the historical Joseon Dynasty (AD 1392 - 1897). 
@@ -237,6 +239,10 @@ The Sosa-Dong site is located on the low hill of Sosa-Dong, Pyeongtaek city, Gye
 A total of 81 Mumun period house pits were found. Based on the results of the radiocarbon dating of charcoal from the house pits [@Kim2008, Table \ref{tab:radiocarbon_SS}], it is inferred that the site goes back to the times as early as the incipient/early stage of the Mumun period, or as late as the middle/late Mumun period  (cf. Figure \ref{ss_radio}; \ref{Radiocarbon_dates}). The house pits are classified into four types based on their shape: square, circular, rectangular, and longhouse. The rectangular and longhouse pits were built around the early stage of the Mumun period (3000 - 2700 BP); and the square and circular pits near the late Mumun period (2500 - 2300 BP). According to the radiocarbon dating on charcoals from hearths in the house pits, the site has a chronological void from 2700 BP to 2500 BP (Table \ref{tab:radiocarbon_SS}). Some of these houses incorporate hearths, storage pits and ditches as interior features. Most of the potteries have the rim-punctuation or a combination of lip-scoring/rim-punctuation; and others a combination of double-rim/short slanted incision or rim-punctuation/short slanted incision (figure \ref{SS-artifacts}). As for the ground stone tools, arrowheads, daggers, chisels and axes were found (Figure \ref{SS-artifacts}). As for the farming tools, semi-lunar shaped stone knives (Figure \ref{farming}b) and mortars/pestles were found. Especially, carbonized 46 rice (Oryza sativa; Figure \ref{Rice}a) and 31 possible barley (Hodeum vulgare L.; Figure \ref{Rice}b) grains were found inside of one house pit, near the hearth (Area "Ga"/No. 10). 
 
 The overall archaeological phenomena of the Sosa-Dong site are quite similar to those of the Kimpo-Yangchon site. The composition of different types of house pits, potteries and stone artifacts clearly indicate the resemblance between the two sites. Probably one of the most interesting features of the Sosa-Dong site compared with the Kimpo-Yangchon site is carbonized rice and possible barley grains. Considering their 'burnt' condition, it is beyond all doubt that rice and barley were cooked for consumption.    
+   
+![Some of the artifacts uncovered during the excavation of the Sosa-Dong site including potsherd, arrowheads and stone chisel. The potsherd in the picture has the rim-punctuation/short slanted incision \label{SS-artifacts}](figures/SS-artifacts.jpg) 
+
+![(a): The carbonized rice grains (Oryza sativa) and (b): possible barley (Hodeum vulgare L.) grains excavated in the Area "Ga" house pit No. 10 \label{Rice}](figures/Rice.jpg)    
    
 \begin{longtable}[htbp]{@{}llll@{}}
 \toprule
@@ -266,11 +272,10 @@ Area Ga/No. 4      & Mumun                      & 2300±50                    & 
 \label{tab:radiocarbon_SS}
 \end{longtable}
 
-![The density distribution of radiocarbon dates from the Sosa-Dong site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{ss_radio}](figures/ss_radio.jpg)
 
-![Some of the artifacts uncovered during the excavation of the Sosa-Dong site including potsherd, arrowheads and stone chisel. The potsherd in the picture has the rim-punctuation/short slanted incision \label{SS-artifacts}](figures/SS-artifacts.jpg) 
+![The density distribution of radiocarbon dates from the Sosa-Dong site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{ss_radio}](figures/ss_radio.jpeg)
 
-![(a): The carbonized rice grains (Oryza sativa) and (b): possible barley (Hodeum vulgare L.) grains excavated in the Area "Ga" house pit No. 10 \label{Rice}](figures/Rice.jpg) 
+
 
 \subsection{Sampling}
 
@@ -324,6 +329,7 @@ SOS066     & Area La/No. 36     & Body &                             \\ \bottomr
 \caption{The samples collected from the Sosa-Dong site for organic geochemical analysis}
 \label{tab:sampling_OG_SS}
 \end{longtable}
+
 
 ![The site plan of the Sosa-Dong site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{ss_map}](figures/ss_map.jpg)
 
@@ -396,6 +402,7 @@ The geographic location of the Sosa-Dong site is quite similarly to that of the 
 
 The results of the isotope analysis effected on palmitic (C16:0) and stearic (C18:0) fatty acids on the samples show a varied diet of these ancient farmers. The result (Figure \ref{CSIASosa}; \ref{CSIASosa2}; \ref{CSIASosa3}) indicate that they consumed several food stuffs including pork, aquatic resources, and C~3~ plants. The diet of the ancient dwellers of the Sosa-Dong site was dominated by pork and aquatic (freshwater and marine) resources. About 40 percent of the samples shows the presence of Pork adipose. At most only 14 percent (4 samples) shows the presence of C~3~ plant oil. Considering that 17 net sinkers were found at the site, it is not surprising that about 30 percent (8 samples) indicates the presence of aquatic resources. As a whole, the diet pattern of the Sosa-Dong site is somewhat similar to that of the Kimpo-Yangchon site.   
 
+
 ![The results of CSIA by GC-C-IRMS of the samples from the Sosa-Dong site using the available references [cf. @Dudd1998a; @Dudd1999; @Steele2010] \label{CSIASosa}](figures/CSIASosa.jpg) 
 
 ![The results of CSIA by GC-C-IRMS of the samples from the Sosa-Dong site using the reference from @Craig2011 \label{CSIASosa2}](figures/CSIASosa2.jpg)
@@ -421,7 +428,7 @@ U3043   & 0.3       & 19.7               & 6.664±0.40        & 13.999±1.469 & 
 \label{tab:LM_SS}
 \end{table}
 
-
+\newpage
 \section{Songguk-Ri}
 
 Among the thousands of prehistoric archaeological phenomena in the Korean peninsula, probably one of the most well-known and thoroughly studied sites is the Songguk-Ri site. Located in Buyeo city, Chungnam province, South Korea, it belongs to the Middle and Late Mumun period (Figure \ref{site_locations}; \ref{site_locations_zoomin}). The initial excavation was conducted in 1975; and Songguk-Ri became the first archaeological site in Korea, which yielded bronze artifacts, tubular greenstone (jade) beads, typical un-patterned pottery and rounded pit-houses with two post holes (Figure \ref{SON-artifacts}). These characteristic rounded pit houses were also found at other archaeological sites of later excavation, along with similar assemblages. It is why archaeologists recognized Songguk-Ri as a certain archaeological type of the Middle Mumun period, and designated both the formers and the latters 'the Songguk-ri Style'. Until now, the site has been excavated 14 times by different branches of the National Museum of Korea and the Korean National University of Cultural heritage [@BuyeoNationalMuseum2000; @NationalMuseumofKorea1979; -@NationalMuseumofKorea1986; @NationalMuseumofKorea1987; @Kim2011; -@Kim2013a].
@@ -432,6 +439,8 @@ The latest excavation of the Songguk-Ri site was conducted by the Korean Nationa
 
 During the 14th excavation, several kinds of carbonized grains were found at 11 different features including house pits and pit features. The confirmed kinds were rice (Oryza sativa), foxtail millet (Setaria italica), broomcorn millet (Panicum Millaceum), soybean (Glycine max) and azuki (Vigna augularis). The two dominant grains were foxtail millet and rice, which occupied respectively about 65 and 32 percent of the identified ones, (their respective number: 5798 and 2892).
 
+
+![(a): some of the artifacts uncovered during the excavation of the Songguk-Ri site: pot, large tubular-shaped greenstone ornaments, semi-lunar shaped stone knife, arrowheads, ground stone dagger, and Liaoning-style bronze dagger [@Yoon2010] (b): the "Songguk-Ri style" rounded pit-houses with two post holes [@Yoon2010] \label{SON-artifacts}](figures/SON-artifacts.jpg) 
 
 \begin{table}[h]
   \centering
@@ -461,9 +470,10 @@ No. 70        & Mumun                      & 2430±50                    & BC 58
 \label{tab:radiocarbon_SG}
 \end{table}
 
-![The density distribution of radiocarbon dates from the Songguk-Ri site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{sg_radio}](figures/sg_radio.jpg)
 
-![(a): some of the artifacts uncovered during the excavation of the Songguk-Ri site: pot, large tubular-shaped greenstone ornaments, semi-lunar shaped stone knife, arrowheads, ground stone dagger, and Liaoning-style bronze dagger [@Yoon2010] (b): the "Songguk-Ri style" rounded pit-houses with two post holes [@Yoon2010] \label{SON-artifacts}](figures/SON-artifacts.jpg) 
+![The density distribution of radiocarbon dates from the Songguk-Ri site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{sg_radio}](figures/sg_radio.jpeg)
+
+
 
 \subsection{Sampling}
 
@@ -506,6 +516,7 @@ SON027     & No. 69                       & Body &                             &
 \caption{The samples collected from the Songguk-Ri site for the organic geochemical analyses in this thesis}
 \label{tab:sampling_OG_SG}
 \end{longtable}
+
 
 ![The site plan of the Songguk-Ri site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{sg_map}](figures/sg_map.jpg)
 
@@ -560,6 +571,7 @@ The results of the isotope analysis of C16:0 and C18:0 fatty acids show their ch
 ![The results of CSIA by GC-C-IRMS of the samples from the Songguk-Ri site using the reference from @Craig2013 \label{CSIASongguk3}](figures/CSIASongguk3.jpg)
 
 
+\newpage
 \section{Eupha-Ri}
 
 Eupha-Ri is an Iron Age archaeological site in Huengseong city, Gangwon province, South Korea (Figure \ref{site_locations_zoomin}). The Huengseong city council had had a plan to build a cultural/athletic park; and the archaeological investigation had been performed beforehand by the Yonsei University Wonju Museum [@Wang2013]. The excavation was held from May 15th, 2009 to December 11th, 2011. The site comprehends various archaeological phenomena such as house pits, pit features and jar burials which represent different time periods from the Iron Age to the historical Joseon Dynasty (AD 1392 - 1897). The total site area is 23,840 square meters. Its main archaeological features belong to the Iron Age; and this thesis is focusing on this time period.    
@@ -568,6 +580,8 @@ Eupha-Ri is an Iron Age archaeological site in Huengseong city, Gangwon province
 
 Overall, the Eupha-Ri site shows the typical characteristics of the Iron Age sites in the central part of the Korean Peninsula.
 
+![(a): L$\ddot{u}$ shape and (b): T$\bar{u}$ shape house pits excavated from the Eupha-Ri site. \label{EUPhouse}](figures/EUPhouse.jpg)  
+ 
 
 \begin{table}[htbp]
   \centering
@@ -584,10 +598,7 @@ No. 29        & Iron Age                   & 1640±20         & AD 336        \\
 \end{table}
  
 
-![The density distribution of radiocarbon dates from the Eupha-Ri site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{ep_radio}](figures/ep_radio.jpg)
- 
- 
-![(a): L$\ddot{u}$ shape and (b): T$\bar{u}$ shape house pits excavated from the Eupha-Ri site. \label{EUPhouse}](figures/EUPhouse.jpg)  
+![The density distribution of radiocarbon dates from the Eupha-Ri site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{ep_radio}](figures/ep_radio.jpeg)
  
  
 \subsection{Sampling}
@@ -596,7 +607,7 @@ No. 29        & Iron Age                   & 1640±20         & AD 336        \\
 
 Though numerous complete pots were excavated (Figure \ref{EUPartifact}a), not many 'potsherds' were found. Since in archaeological investigation, the priority is given to preserving pots in their original form and since it is not common to find lots of complete ones, I was not allowed to take parts from complete ones for the analyses. Under these limited conditions, the samples were collected among the available potsherds found at house pits.      
 
-Thus, a total of 25 samples were collected from eight house pits (Table \ref{tab:sampling_OG_EP}, Figure \ref{ep_map}). Though I tried to collect as many samples as I could in the given situation, I have to confess that the eight house pits might not fully represent the entire aspect of the site. If there are available radiocarbon dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_EP}.  
+Thus, a total of 25 samples were collected from eight house pits (Table \ref{tab:sampling_OG_EP}, Figure \ref{eup_map}). Though I tried to collect as many samples as I could in the given situation, I have to confess that the eight house pits might not fully represent the entire aspect of the site. If there are available radiocarbon dates from the house pits where the samples were collected, I have indicated in Table \ref{tab:sampling_OG_EP}.  
 
 
 ![Some of the artifacts uncovered during the excavation of the Eupha-Ri site (a): Iron Age style hardened un-patterned pottery, a pot made by the beating method (center, second row) (b): mold for iron casting, net sinker, spindle whorls, iron axes and arrowheads \label{EUPartifact}](figures/EUPartifact.jpg) 
@@ -638,12 +649,13 @@ EUP032     & No. 29              & Body                  & 1640±20         \\ \
 \label{tab:sampling_OG_EP}
 \end{table}
 
-![The site plan of the Eupha-Ri site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{ep_map}](figures/ep_map.jpg)
+
+![The site plan of the Eupha-Ri site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{eup_map}](figures/eup_map.jpg)
 
 
 \subsubsection{Luminescence dating}
 
-For the luminescence dating three samples were collected. Among the three samples, one was collected from the house pit that had been dated by the radiocarbon dating, and the other two from those which had not been (Table \ref{tab:sampling_LM_EP}, Figure \ref{ep_map}). 
+For the luminescence dating three samples were collected. Among the three samples, one was collected from the house pit that had been dated by the radiocarbon dating, and the other two from those which had not been dated (Table \ref{tab:sampling_LM_EP}, Figure \ref{eup_map}). 
 
 \begin{table}[htbp]
   \centering
@@ -692,6 +704,7 @@ EUP032     & C14:0, C15:0, C16:0, C16:1, C18:0, C18:2                           
 Geographically, the Eupha-Ri site is just near the Seom River. Therefore, aquatic resources, especially fresh water ones, might have chances of having contributed to its dwellers' diet. In order to fully understand whether they relied heavily on aquatic resources or not, it is important to carefully examine the presence of aquatic biomarkers such as phytanic acid (3,7,11,15-tetramethylhexadecanoic acid), 4,8,12-TMTD (4,8,12-trimethyltridecanoic acid), and thermally produced long-chain O	-(o-alkylphenyl) [cf. @Craig2011; @Evershed2008a]. Among the eight samples, one samples showed the presence of phytanic acid (EUP005), indicating the possibility that those pots were used for processing aquatic resources.
 
 In the Eupha-Ri site, the diet pattern is quite different from that of the former three cases. The isotope analysis of C16:0 and C18:0 fatty acids shows its interesting aspect. The results of the analysis (Figure \ref{CSIAEUP}; \ref{CSIAEUP2}; \ref{CSIAEUP3}) indicate that the site's ancient dwellers mainly consumed several food stuffs such as ruminants, C~3~ plants and aquatic resources (fresh water). The most interesting result is that only one sample indicated the presence of pork adipose. Also, almost all samples except two 'not identifiable' ones showed the presence of ruminant adipose. This diet pattern focused on ruminants in the Iron Age is quite different from that of the Mumun period in which the pork is dominant. Also, one sample showed the possibility of the presence of equine adipose. During the excavation of the Eupha-Ri site, two molars that belong to horse and cattle were found. In this regards, it is quite possible that people consumed these animals. Two samples showed the possibility of the presence of C~3~ plant oil.              
+
 
 ![The results of CSIA by GC-C-IRMS of the samples from the Eupha-Ri site using the available references [cf. @Dudd1998a; @Dudd1999; @Steele2010] \label{CSIAEUP}](figures/CSIAEUP.jpg) 
 
