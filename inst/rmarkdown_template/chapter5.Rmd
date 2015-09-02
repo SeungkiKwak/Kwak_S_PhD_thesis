@@ -74,7 +74,7 @@ Area 2-4 Ga /No. 8     & BaekJe Kingdom             & 1880±60                 &
 \label{tab:radiocarbon_KM}
 \end{longtable}
 
-![The density distribution of radiocarbon dates from the Kimpo-Yangchon site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{km_radio}](figures/km_radio.jpeg)
+![The density distribution of radiocarbon dates from the Kimpo-Yangchon site, using the R package BChron  [dates were calibrated using 'intcal13' calibration curve, cf. @Reimer2013] \label{km_radio}](figures/km_radio.jpeg)
 
 
 \newpage
@@ -136,7 +136,7 @@ KIM078     & Area 2-1 L/No.9    & Rim  &                             \\ \bottomr
 
 ![The location of the four sites analyzed in this thesis \label{site_locations_zoomin}](figures/site_locations_zoomin.jpg)
 
-![The site plan of the Kimpo-Yangchon site and the location/number of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{km_map}](figures/km_map.jpg)
+![The site plan of the Kimpo-Yangchon site and the location/number of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) [@Kim2013a] \label{km_map}](figures/km_map.jpg)
 
 \subsection{Sampling}
 
@@ -273,7 +273,7 @@ Area Ga/No. 4      & Mumun                      & 2300±50                    & 
 \end{longtable}
 
 
-![The density distribution of radiocarbon dates from the Sosa-Dong site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{ss_radio}](figures/ss_radio.jpeg)
+![The density distribution of radiocarbon dates from the Sosa-Dong site, using the R package BChron [dates were calibrated using 'intcal13' calibration curve, cf. @Reimer2013] \label{ss_radio}](figures/ss_radio.jpeg)
 
 
 
@@ -331,7 +331,7 @@ SOS066     & Area La/No. 36     & Body &                             \\ \bottomr
 \end{longtable}
 
 
-![The site plan of the Sosa-Dong site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{ss_map}](figures/ss_map.jpg)
+![The site plan of the Sosa-Dong site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) [@Kim2008] \label{ss_map}](figures/ss_map.jpg)
 
 \subsubsection{Luminescence dating}
 
@@ -471,7 +471,7 @@ No. 70        & Mumun                      & 2430±50                    & BC 58
 \end{table}
 
 
-![The density distribution of radiocarbon dates from the Songguk-Ri site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{sg_radio}](figures/sg_radio.jpeg)
+![The density distribution of radiocarbon dates from the Songguk-Ri site, using the R package BChron  [dates were calibrated using 'intcal13' calibration curve, cf. @Reimer2013] \label{sg_radio}](figures/sg_radio.jpeg)
 
 
 
@@ -518,7 +518,7 @@ SON027     & No. 69                       & Body &                             &
 \end{longtable}
 
 
-![The site plan of the Songguk-Ri site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{sg_map}](figures/sg_map.jpg)
+![The site plan of the Songguk-Ri site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) [@Kim2013] \label{sg_map}](figures/sg_map.jpg)
 
 
 \subsubsection{Luminescence dating}
@@ -598,7 +598,7 @@ No. 29        & Iron Age                   & 1640±20         & AD 336        \\
 \end{table}
  
 
-![The density distribution of radiocarbon dates from the Eupha-Ri site, using the R package BChron (dates were calibrated using 'intcal13' calibration curve) \label{ep_radio}](figures/ep_radio.jpeg)
+![The density distribution of radiocarbon dates from the Eupha-Ri site, using the R package BChron  [dates were calibrated using 'intcal13' calibration curve, cf. @Reimer2013] \label{ep_radio}](figures/ep_radio.jpeg)
  
  
 \subsection{Sampling}
@@ -650,7 +650,7 @@ EUP032     & No. 29              & Body                  & 1640±20         \\ \
 \end{table}
 
 
-![The site plan of the Eupha-Ri site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) \label{eup_map}](figures/eup_map.jpg)
+![The site plan of the Eupha-Ri site and the location of samples taken for the radiocarbon dating (R), organic geochemical analyses (O), and luminescence dating (L) [@Wang2013] \label{eup_map}](figures/eup_map.jpg)
 
 
 \subsubsection{Luminescence dating}
