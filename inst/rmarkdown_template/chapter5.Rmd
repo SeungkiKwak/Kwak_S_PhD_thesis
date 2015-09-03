@@ -149,7 +149,6 @@ At least two samples were collected from each of the houses, except those which 
 \subsubsection{Luminescence dating}
 For the luminescence dating two samples were collected. Both of the samples were collected from the house that has not been dated (Table \ref{tab:sampling_LM_KM}, Figure \ref{km_map}).
 
-
 \begin{table}[h]
 \centering
 \begin{tabular}{@{}llll@{}}
@@ -161,7 +160,6 @@ U3046      & Area 2-1 D/No.10   & Body & 0.3       \\ \bottomrule
 \caption{The samples collected from the Kimpo-Yangchon site for the luminescence dating in this thesis}
 \label{tab:sampling_LM_KM}
 \end{table}
-
 
 \subsection{Organic geochemical results}
 
@@ -210,12 +208,12 @@ The result of CSIA on KIM061 agreed with that of GC-MS analysis, indicating the 
 
 ![The results of CSIA by GC-C-IRMS of the samples from the Kimpo-Yangchon site using the reference from @Craig2013 \label{CSIAKM3}](figures/CSIAKM3.jpg)
 
-
+\newpage
 \subsection{Luminescence dating results}
 
 The samples were dated using TL, OSL, and IRSL at the luminescence dating lab, University of Washington. 
 
-Table \ref{tab:LM_KM} shows the results of the luminescence dating. Overall, the dates match with the main occupation period of the Kimpo-Yangchon site estimated by the radiocarbon dates.
+Table \ref{tab:LM_KM} shows the results of the luminescence dating. The OSL and TL ages were in agreement for the sample UW3045, and TL fading was not significant. The IRSL age is younger, probably due to the anomalous fading. The OSL age was the best estimate for the sample UW3046. The IRSL age for UW3056 was younger, probably due to the fading. Overall, the dates match with the main occupation period of the Kimpo-Yangchon site estimated by the radiocarbon dates.
 
 
 \begin{table}[h]
@@ -226,7 +224,7 @@ Lab. No & Depth (m) & Water Content (\%) & Dose rate* (Gy/ka) & TL (De)       & 
 U3045   & 0.3       & 10.7               & 5.227±0.486       & 13.625±3.55  & 12.819±0.296 & 11.141±0.429 & 740±160       \\
 U3046   & 0.3       & 15.1               & 6.880±0.579       & 10.792±2.031 & 11.775±0.389 & 10.16±0.445  & 740±180 (OSL) \\ \bottomrule
 \end{tabular}
-\caption{The results of the luminescence dating of the potsherd samples from the Kimpo-Yangchon site. Note that the age of U3046 was calculated solely based on the OSL signal due to an abnormally large error term of the TL date (11538 yr)}
+\caption{The results of the luminescence dating of the potsherd samples from the Kimpo-Yangchon site. }
 \label{tab:LM_KM}
 \end{table}
 
@@ -409,11 +407,12 @@ The results of the isotope analysis effected on palmitic (C16:0) and stearic (C1
 
 ![The results of CSIA by GC-C-IRMS of the samples from the Sosa-Dong site using the reference from @Craig2013 \label{CSIASosa3}](figures/CSIASosa3.jpg)
 
+\newpage
 \subsection{Luminescence dating results}
 
 The samples were dated using TL, OSL, and IRSL at the luminescence dating lab, University of Washington. 
 
-Table \ref{tab:LM_SS} shows the results of the luminescence dating. The dates were slightly younger than the main occupation period of the Sosa-Dong site estimated by the radiocarbon dates. 
+Table \ref{tab:LM_SS} shows the results of the luminescence dating. The OSL and TL ages were in agreement for the sample UW3042, and TL fading was not significant. The IRSL age was younger, probably because of the fading of feldspar. The OSL, IRSL, and TL ages were in agreement for the sample UW3043 (fading was not significant). The dates were slightly younger than the main occupation period of the Sosa-Dong site estimated by the radiocarbon dates. 
 
 
 \begin{table}[h]
@@ -677,12 +676,9 @@ Table \ref{tab:CSIA_EP}, Figure \ref{CSIAEUP}, \ref{CSIAEUP2} and, \ref{CSIAEUP3
 This was quite striking, because the Eupha-Ri site is almost 1000 years younger than the other sites (such as Kimpo-Yangchon or Sosa-Dong), and I thought lipids in younger sites had more chances to survive against the post-depositional process than in older ones. The overall low concentration of lipids at the Eupha-Ri site is probably due to the hard fabric of the Iron Age potteries. The surface treatments and a high firing temperature brought into play in manufacturing the Iron Age ceramic vessels would have generated smaller pores, which would have limited the concentration of lipids [cf. @Correa-Ascencio2014]. Otherwise, more lipids could have been absorbed into the vessels. Though Correa-Ascencio and Evershed [-@Correa-Ascencio2014] showed the effectiveness of the methanolic acid extraction on hard and burnished pots, the lipid concentration of the Eupha-Ri site's potsherds was still low, compared with that which had been observed at more porous Mumun potteries.    
 
 
-
-\newpage
 \begin{longtable}[htbp]{@{}lp{5cm}llp{4cm}@{}}
 \toprule
 Sample No. & Compound detected                                                                         & C16:0 ($\delta$\textsuperscript{13}C) & C18:0 ($\delta$\textsuperscript{13}C) & Interpretation via CSIA               \\ \midrule \endhead
-           &                                                                                                                 &                &                &                                                                    \\
 EUP005     & C14:0, C15:0, C16:0, C16:1, C17:0, C18:0, C18:2, C19:0, C20:0, C21:0, C22:0, C22:1, C23:0, C24:0, phytanic acid & -26.2          & -29.4          & Aquatic resources                                                  \\
 EUP019     & C16:0, C18:0, C20:0, C22:0, C22:1, C24:0                                                                        & -29.2          & -30.1          & Ruminant adipose                                                   \\
 EUP020     & C16:0, C18:0, C18:2                                                                                             & -32.4          & -31.4          & Not identifiable                                                   \\
@@ -690,15 +686,10 @@ EUP021     & C16:0, C18:0, C18:2                                                
 EUP022     & C16:0, C18:0                                                                                                    & -32.7          & -30.5          & Not identifiable                                                   \\
 EUP030     & C14:0, C16:0, C16:1, C18:0, C18:2                                                                               & -27.3          & -29.7          & Ruminant adipose and/or  C3 plant oil                              \\
 EUP031     & C16:0, C17:0, C18:0, C20:0, C22:0                                                                               & -26.8          & -26.6          & Pork adipose and/or Fresh water resource                           \\
-EUP032     & C14:0, C15:0, C16:0, C16:1, C18:0, C18:2                                                                        & -27            & -28.2          & Ruminant adipose and/or Fresh water resource  and/or  C3 plant oil \\
-           &                                                                                                                 &                &                &                                                                    \\
-           &                                                                                                                 &                &                &                                                                    \\
-           &                                                                                                                 &                &                &                                                                    \\
-           &                                                                                                                 &                &                &                                                                    \\ \bottomrule
+EUP032     & C14:0, C15:0, C16:0, C16:1, C18:0, C18:2                                                                        & -27            & -28.2          & Ruminant adipose and/or Fresh water resource  and/or  C3 plant oil \\ \bottomrule
 \caption{The results of the organic geochemical analyses by GC-MS and GC-C-IRMS of the samples from the Eupha-Ri site, and their interpretations}
 \label{tab:CSIA_EP}
 \end{longtable}
-
 
 
 Geographically, the Eupha-Ri site is just near the Seom River. Therefore, aquatic resources, especially fresh water ones, might have chances of having contributed to its dwellers' diet. In order to fully understand whether they relied heavily on aquatic resources or not, it is important to carefully examine the presence of aquatic biomarkers such as phytanic acid (3,7,11,15-tetramethylhexadecanoic acid), 4,8,12-TMTD (4,8,12-trimethyltridecanoic acid), and thermally produced long-chain O	-(o-alkylphenyl) [cf. @Craig2011; @Evershed2008a]. Among the eight samples, one samples showed the presence of phytanic acid (EUP005), indicating the possibility that those pots were used for processing aquatic resources.
@@ -712,12 +703,12 @@ In the Eupha-Ri site, the diet pattern is quite different from that of the forme
 
 ![The results of CSIA by GC-C-IRMS of the samples from the Eupha-Ri site using the reference from @Craig2013 \label{CSIAEUP3}](figures/CSIAEUP3.jpg)
 
-
+\newpage
 \subsection{Luminescence dating results}
 
 The samples were dated using TL, OSL and IRSL at the luminescence dating lab, University of Washington. 
 
-Table \ref{tab:LM_EP} shows the results of the luminescence dating. U3039 and U3041 corresponded to the published four AMS radiocarbon dates (Table 5.14). The date presumed by U3041 indicates that the site was occupied by the Iron Age people slightly longer than the radiocarbon dates suggest. The result of U3040 did not match with both archaeological features of the site and the radiocarbon dates.
+Table \ref{tab:LM_EP} shows the results of the luminescence dating. The OSL signal for UW3039 was most likely from quartz. The IRSL signal was weak and the OSL b-value was obviously in the range of quartz. The TL age was generally older but only by about 120 years. The OSL age gave the best estimate for the sample UW3039.  The ages for OSL, IRSL, and TL were all in agreement for the sample UW3040 (fading was not significant). The ages for OSL and IRSL were in agreement for the sample UW3041. The TL age was younger probably due to the very high fading rate. U3039 and U3041 corresponded to the published four AMS radiocarbon dates (Table 5.14). The date presumed by U3041 indicates that the site was occupied by the Iron Age people slightly longer than the radiocarbon dates suggest. The result of U3040 did not match with both archaeological features of the site and the radiocarbon dates.
 
 
 \begin{table}[h]
