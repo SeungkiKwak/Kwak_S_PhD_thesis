@@ -55,7 +55,7 @@ sudo apt-get install fonts-ebgaramond
 # for font Source Code Pro
 wget https://github.com/adobe-fonts/source-code-pro/archive/1.017R.zip
 unzip 1.017R.zip
-cp source-code-pro-1.017R/OTF/*.otf /usr/local/share/fonts/
+sudo cp source-code-pro-1.017R/OTF/*.otf /usr/local/share/fonts/
 
 ```
 
