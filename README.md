@@ -16,6 +16,7 @@ Then open the `Kwak_S_PhD_Thesis.RProj` file in RStudio to explore the compendiu
 To install this as an R package, and access the thesis files, use `devtools`  with the following lines at the R prompt:
 
 ```
+install.packages("devtools")
 library(devtools)
 devtools::install_github("ropensci/dependencies") # non-CRAN dependency
 devtools::install_github("SeungkiKwak/Kwak_S_PhD_thesis")

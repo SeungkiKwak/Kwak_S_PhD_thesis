@@ -129,7 +129,7 @@
 % ----- change 'stamp' to 'nostamp'
 %------ to omit watermark
 %
-\usepackage[stamp]{draftwatermark}
+\usepackage[nostamp]{draftwatermark}
 % % Use the following to make modification
 \SetWatermarkText{DRAFT}
 \SetWatermarkLightness{0.95}
