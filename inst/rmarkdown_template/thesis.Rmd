@@ -31,7 +31,7 @@ Declarations for Front Matter
 -->
 \setcounter{page}{-1}
 \abstract{%
-To come...
+The transition from foragers to farmers and the role of intensive rice agriculture have been among the most controversial subjects in Korean archaeology. However, the relatively high acidity of sediment in the Korean peninsula has made it impossible to examine faunal/floral remains directly for tracing the subsistence change. For this reason, many of the studies on the transition heavily relied on the shell middens in the coastal areas, which reflect only a small portion of the overall subsistence in the Korean Peninsula. The subsistence behaviors recorded in numerous large-scale inland habitation sites have been obscured by the overall separation between hunter-gatherer and intensive rice farmer. My dissertation research investigates the role of intensive rice farming as a subsistence strategy in the central part of the prehistoric Korean peninsula using organic geochemical analysis and luminescence dating on potsherds. The central hypothesis of this research is that there was a wide range of resource utilization along with rice farming around 3,400-2,600 BP. This hypothesis contrasts with prevailing rice-based models, where climatically driven intensive rice agriculture from 3,400 BP is thought to be the dominant subsistence strategy that drove social complexity. This research focuses on four large-scale inland habitation sites that contain abundant pottery collections to evaluate the central hypothesis as well the prevailing rice-centered model. This research produced critical data for addressing prehistoric subsistence of Korean peninsula and established detailed chronology of subsistence during 3,400-1,800 BP. 
 }
 
 
