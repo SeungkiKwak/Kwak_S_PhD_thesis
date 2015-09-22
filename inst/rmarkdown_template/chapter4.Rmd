@@ -19,7 +19,7 @@ Biomolecular archaeology is the study of ancient biomolecules that can provide i
 
 Among all the compound classes I have mentioned above, solvent-extractable lipids are the most frequently recovered compounds from archaeological contexts [@Evershed1993; -@Evershed2008; -@Evershed2008a]. Because of their stability against degradation and inherent hydrophobicity, they tend to persist at the original place of deposition more than other biomolecules. Due to these characteristics, lipids are nowadays the most widely studied organic compounds in the discipline of biomolecular archaeology. 
 
-Under favorable conditions, lipids are preserved at archaeological sites in association with a wide range of archaeological contexts, e. g. pottery, soils, human and animal remains and other deposits [@Evershed1993; @Evershed1999]. Among them, potsherds are probably the most widely distributed at archaeological sites. Due to this reason, the pottery is one of the most extensively studied materials for the organic geochemical analysis.
+Under favorable conditions, lipids are preserved at archaeological sites in association with a wide range of archaeological contexts, e. g. pottery, sediments, human and animal remains [@Evershed1993; @Evershed1999; @Mukherjee2004]. Among them, potsherds are probably the most widely distributed at archaeological sites. Due to this reason, the pottery is one of the most extensively studied material cultures for the organic geochemical analysis.
 
 Organic residues are found in association with archaeological pottery either as (1) charred remains on the inner or outer surface of the vessels, or, (2) absorbed within the fabric of their wall [@Evershed1999; @Evershed2008a]. The residues both on their surface and in their fabric can provide invaluable information regarding the use of ancient pottery vessels. However the latter case is more commonly encountered, for the fired clay acts as a 'trap' or 'net', protecting and preserving lipids during burial [@Evershed2001; @Reber2004]. Studies have shown that these compounds are relatively well insulated and preserved within that fabric over millennia [@Heron1991; @Eerkens2001; -@Eerkens2005]. The absorbed residues, unlike the visible ones, cannot be removed from a sample by washing or scraping, and remain within the ceramic matrix of a pot until extracted by solvents [@Reber2004, p. 20].
 
@@ -62,7 +62,7 @@ Beeswax                         & Characteristic distribution of odd number n-al
 Birch bark tar                  & Triterpenoids from lupane family, namely betulin, lupeol and lupenone                                                                                                                       & Charters et al. 1993                                      \\ 
 Palm fruit                      & High abundance of C12:0 and C14:0 saturated fatty acid                                                                                                                                      & Copley et al. 2001                                        \\  \hline
 \end{tabular}
-\caption{Identification of fatty acid by using GC-MS (modified from Stear 2008)}
+\caption{Identification of fatty acid by using GC-MS [@Stear2008, p. 26]}
 \label{tab:biomarkers}
 \end{table}
 
@@ -150,7 +150,9 @@ When utilizing this theoretical mixing model for the interpretation of the contr
 
 \subsubsection{Possibilities of variation in the $\texorpdfstring{\delta^13^C}{TEXT}$ values of fatty acids from archaeological lipid}
 
-C3, C4 and marine plant contributions
+According to the Mukherjee [-@Mukherjee2004], there are several possible sources that can affect $\delta$^13^C values of fatty acids from archaeological lipid.    
+
+*C3, C4 and marine plant contributions*
 
 Plants are consumed by herbivores and herbivores are consumed by carnivores. Since $\delta$^13^C values in living organisms are influenced by their food, careful consideration is demanded, when the researcher tries to trace their identity based on $\delta$^13^C values. For example, discriminating the contribution of C4 plants to the diet of animals is not an easy task. This task might not be a problem in the areas where there are no native C4 plants (e.g. the northern part of Europe or Britain), but must be taken into account when analyzing the lipids from more arid regions, where C4 plants are quite ubiquitous. Table \ref{tab:bulk_isotope_reference} shows the ranges of bulk $\delta$^13^C values of the major ecosystem; it provides a guideline to the trends that might be observed in archaeological lipids [@Mukherjee2004]. 
 
@@ -188,7 +190,7 @@ Most marine plants cannot absorb carbon dioxide directly from the atmosphere, bu
 
 ![Plots showing the difference in the d^13^C values of the C18:0 and C16:0 fatty acids (D^13^C = d^13^C18:0 - d^13^C16:0 ) obtained from the modern reference fats [@Copley2003] \label{Bigdelta}](figures/Bigdelta.jpg)
 
-Forest density and depletion of ^13^C  
+*Forest density and depletion of ^13^C*  
 
 In the areas covered with dense forest we see a significant deviation of ^13^C distribution from the global average causing plants to be depleted of ^13^C. In these regions, a positive correlation between the forest density and the degree of depletion of ^13^C is observed. In addition, there is a gradual variation of $\delta$^13^C values of tree leaves from the ground to the top of the tree; and it indicates that the most negative values occur near the ground [@Medina1980; @Vogel1978]. This is what we call the 'canopy effect' [@Medina1980]. The average bulk $\delta$^13^C value of C3 plants in open air areas is about -26 $\permil$. However, for the leaves in a subtropical monsoon forest, a $\delta$^13^C value of -35 $\permil$ was recorded, and a value as low as -37 $\permil$ was observed in the Amazon forest [@Ehleringer1987; @Medina1980a].
 
@@ -196,17 +198,17 @@ This phenomenon in dense forest areas will influence the $\delta$^13^C values of
 
 ![13C values of cellulose from the oak tree-ring sequence (a): 11-yr running mean from ancient Irish oaks [data obtained from @McCormac1994; @Mukherjee2004] (b): Yearly measurement from 1970 to 1995 of modern oaks in east England [@Robertson1997] \label{tree-ring}](figures/tree-ring.jpg)
 
-Variations in $\delta$^13^C values of CO~2~
+*Variations in $\delta$^13^C values of CO~2~*
 
 Things change over time. Any variation in the atmospheric CO~2~ which occurred over time as a result of climate change or environmental fluctuations, may have caused a deviation of $\delta$^13^C values of archaeological animal fats from the reference values. The variation in the $\delta$^13^C value of atmospheric CO~2~ from the multiplied tree-ring record obtained from oaks suggests it can vary up to 1.5 $\permil$ [Figure \ref{tree-ring}a), @McCormac1994]. Even within a relatively short term, $\delta$^13^C value of atmospheric CO~2~ can vary quite dynamically [Figure \ref{tree-ring}b, @Robertson1997].  It is likely that other terrestrial plants will also show variation in a similar way, but its scale might differ between the species [@Mukherjee2004]. The differences in $\delta$^13^C values between modern and ancient fats resulting from such temporal variation in atmospheric CO~2~ can be overcome by comparing $\delta$^13^C values of modern reference and archaeological fats. 
 
-Sources of variation related to human activity
+*Sources of variation related to human activity*
 
 As I mentioned above, the theoretical mixing curve was calculated to consider mixing of different food products within a single vessel during its lifetime usage. However, in some cases, mixture with other uneatable natural products is often observed. For example, the beeswax contained in lipid extracts from potsherds appears often as a mixture with degraded fat from foodstuffs. Beeswax is characterized by a distribution of linear hydrocarbons of odd-numbered carbon (C21 - C23), free fatty acids of even-numbered carbon (C22 - C30), and/or long-chain wax esters with the carbon number range from C40 to C52 [Kolattukudy1976; cf. @Mukherjee2004]. Though the exact reasons for the presence of beeswax in archaeological pottery vessels are yet unknown, it may have been used as a 'slip' due to its hydrophobic characteristic, or it might be a byproduct of the use of honey in cooking/flavoring. The abundant C16:0 fatty acid present in modern beeswax exhibits a $\delta$^13^C value of around -26.4 $\permil$, while C18:0 fatty acid is present in low abundance [@Mukherjee2004]. In this situation it is important to assess whether there is a significant isotopic contribution from natural products like beewax and how it may influence our interpretation of isotopic analyses.
 
 \subsubsection{Relating lipid residues to faunal assemblages}
 
-In most cases, animal domestication in prehistory has been assessed through the analysis of bone assemblages. In a dairying economy we may assume that an adult herd consists mostly of cows, with a small number of bulls for breeding and regularity in the group. It is also assumed that the majority of males were killed soon after their birth. In this perspective, it is quite probable that a bone assemblage from a dairying economy comprise generally calves and adult cows. On the other hand, in a meat-producing economy, animals were slaughtered just before they became adults [@Legge1981; @McCormick1992; @Payne1973].
+In most cases, animal domestication in prehistory has been assessed through the analysis of bone assemblages. In a dairying economy we may assume that an adult herd consists mostly of cows, with a small number of bulls for breeding and regularity in the group. It is also assumed that the majority of males were killed soon after their birth. On the other hand, in a meat-producing economy, animals were slaughtered just before they became adults [@Legge1981; @McCormick1992; @Payne1973].
 
 As I have mentioned just above, bone assemblages are often used to understand animal exploitation. However, there are some complications with interpretation. For example, (1) bone assemblages found at one place may not truly represent the actual fact, because animals may have been killed and processed at other places; (2) in acidic soils, juvenile or fragile bones are preferentially lost; (3) a bone assemblage may be incomplete due to the bones that have been discarded away from the site. Since it is possible to apply the recent progress of the analysis of lipid residues to understanding aspects of animal domestication, it is advisable to compare the interpretations based on fatty acid $\delta$^13^C values and from bone assemblages.
 
