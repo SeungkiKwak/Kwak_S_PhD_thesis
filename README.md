@@ -8,7 +8,7 @@ This research compendium contains the source files for my PhD. It is organised a
 The most convinent way to access the files in this compendium is to download the zip file and unzip on your computer, or clone this repository to your computer with this line at the terminal:
 
 ```
-git clone https://github.com/SeungkiKwak/kwakthesis
+git clone https://github.com/SeungkiKwak/Kwak_S_PhD_thesis/
 ```
 
 Then open the `Kwak_S_PhD_Thesis.RProj` file in RStudio to explore the compendium. The PDF file of the thesis, along with other supporting material, is in the [`inst/rmarkdown_template`](/inst/rmarkdown_template) directory .
@@ -41,7 +41,7 @@ which xelatex
 which biber
 ```
 
-If you don't have one of these, you can install from the shell prompt like so:
+If you don't have one of these, you can install from the shell prompt like so (these instructions are for Linux, if you're using Windows or OSX, go to Google for instructions specific to your system):
 
 ```
 # for pandoc
