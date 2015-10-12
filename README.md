@@ -57,6 +57,7 @@ sudo apt-get install fonts-ebgaramond
 wget https://github.com/adobe-fonts/source-code-pro/archive/1.017R.zip
 unzip 1.017R.zip
 sudo cp source-code-pro-1.017R/OTF/*.otf /usr/local/share/fonts/
+# for font Lato regular
 
 ```
 
