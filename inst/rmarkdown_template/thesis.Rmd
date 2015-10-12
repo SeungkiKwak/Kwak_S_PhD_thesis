@@ -5,9 +5,7 @@ Declarations for Front Matter
 \prelimpages
 
 <!-- 
-%
-% ----- copyright and title pages
-%
+Copyright and title pages
 -->
 
 \Title{Long-term chronology of subsistence and the role of intensive agriculture in the central part of the Korean peninsula}
@@ -25,34 +23,29 @@ Declarations for Front Matter
 
 
 <!--
-%
-% ----- abstract
-%
+ abstract
 -->
+
 \setcounter{page}{-1}
 \abstract{%
 The transition from foragers to farmers and the role of intensive rice agriculture have been among the most controversial subjects in Korean archaeology. However, the relatively high acidity of sediment in the Korean peninsula has made it impossible to examine faunal/floral remains directly for tracing the subsistence change. For this reason, many of the studies on the transition heavily relied on the shell middens in the coastal areas, which reflect only a small portion of the overall subsistence in the Korean Peninsula. The subsistence behaviors recorded in numerous large-scale inland habitation sites have been obscured by the overall separation between hunter-gatherer and intensive rice farmer. My dissertation research investigates the role of intensive rice farming as a subsistence strategy in the central part of the prehistoric Korean peninsula using organic geochemical analysis and luminescence dating on potsherds. The central hypothesis of this research is that there was a wide range of resource utilization along with rice farming around 3,400-2,600 BP. This hypothesis contrasts with prevailing rice-based models, where climatically driven intensive rice agriculture from 3,400 BP is thought to be the dominant subsistence strategy that drove social complexity. This research focuses on four large-scale inland habitation sites that contain abundant pottery collections to evaluate the central hypothesis as well the prevailing rice-centered model. This research produced critical data for addressing prehistoric subsistence of Korean peninsula and established detailed chronology of subsistence during 3,400-1,800 BP. 
 }
 
-
 <!--
-%
-% ----- contents & etc.
-%
+Contents & etc.
 -->
+
 \tableofcontents
 \listoffigures
 \listoftables  
  
 <!--
-%
-% ----- Acknowledgments & dedication
-%
+Acknowledgments & dedication
 -->
 
 \acknowledgments{% \vskip2pc
   % {\narrower\noindent
-The dissertation thesis here is a product that benefited by considerable advice and support from so many people. My academic advisor, Dr. Ben Marwick, provided me one of the rarest chance to study archaeology as a science. His passion, encouragement, and guidance had a vital role in the development of this thesis. My other committee members, Dr. Peter Lape and Dr. James Feathers gave me invaluable comments that made the final product incomparable to the first draft. The Graduate School Representative (GSR), Dr. Rick Keil, was as helpful as other committee members with his profound knowledge in organic chemistry. Considering the international and interdisciplinary character of the project, many collaborators and institutions from United States, United Kingdom, and South Korea assisted in the completion of this thesis. Dr. Julian Sachs, Dr. Joshua Gregersen, Dr. Daniel Nelson taught me how to prepare and analyze lipid samples. I was also truly benefited by the sincere help from Dr. Richard Evershed, Dr. Julie Dunne, and Dr. Marisol Correa-Ascencio at the Organic Geochemistry Unit, University of Bristol. Dr. Byeong-mo Kim, Dr. Gyeong-taek Kim, Dr. Tae-seop Choi, and Dr. Soojin Kong kindly provided their Korean potsherd samples for this research. I would like to say special thanks to Ah-guan Kim and Taehong Kang for helping me collecting suitable samples. Also, thanks to Dr. Gyeong-taek Kim and Dr. Chuntaek Seong for their sincere advice. In addition, a National Science Foundation Doctoral Dissertation Improvement Grant (#1349747) provided valuable funding. 
+The dissertation thesis here is a product that benefited by considerable advice and support from so many people. My academic advisor, Dr. Ben Marwick, provided me one of the rarest chance to study archaeology as a science. His passion, encouragement, and guidance had a vital role in the development of this thesis. My other committee members, Dr. Peter Lape and Dr. James Feathers gave me invaluable comments that made the final product incomparable to the first draft. The Graduate School Representative (GSR), Dr. Rick Keil, was as helpful as other committee members with his profound knowledge in organic chemistry. Considering the international and interdisciplinary character of the project, many collaborators and institutions from United States, United Kingdom, and South Korea assisted in the completion of this thesis. Dr. Julian Sachs, Dr. Joshua Gregersen, Dr. Daniel Nelson taught me how to prepare and analyze lipid samples. I was also truly benefited by the sincere help from Dr. Richard Evershed, Dr. Julie Dunne, and Dr. Marisol Correa-Ascencio at the Organic Geochemistry Unit, University of Bristol. Dr. Byeong-mo Kim, Dr. Gyeong-taek Kim, Dr. Tae-seop Choi, and Dr. Soojin Kong kindly provided their Korean potsherd samples for this research. I would like to say special thanks to Ah-guan Kim and Taehong Kang for helping me collecting suitable samples. Also, thanks to Dr. Gyeong-taek Kim and Dr. Chuntaek Seong for their sincere advice. In addition, a National Science Foundation Doctoral Dissertation Improvement Grant (1349747) provided valuable funding. 
 
 During my six years of graduate student life, I was fortunate to be surrounded by fantastic colleagues at the University of Washington who helped so much in getting through the tough times. Anna Cohen, the best cohort colleague I have ever had, shared her broad knowledge in archaeology all the time. Erik Gjesfjeld, Jake Deppen, Natalia Slobodina, David Carlson, Rodrigo Solinis-Casparius, Joss Whittaker, Ian Kretzler, Jiun-Yu Liu, Lauryl Zenobi, Li-Ying Wang, and Gayoung Park were the best friends and colleagues at the same time. In addition to these amazing cohort, Catherine Ziegler and John Cady were so helpful for me to get through all the administrative complexities of the University.
   
@@ -68,9 +61,7 @@ Finally, none of these accomplishments would be possibly without sincere support
 \textpages
 
 <!--
-%
-% ----- Main body of the thesis: This is where we pull in the individual chapter files
-%
+ Main body of the thesis: This is where we pull in the individual chapter files
 -->
 
 ```{r setup, include=FALSE}
@@ -104,9 +95,7 @@ options(xtable.comment = FALSE)
 ```
 
 <!--
-%
-% ----- end of the main body of the thesis
-%
+ end of the main body of the thesis
 -->
 
  

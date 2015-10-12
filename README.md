@@ -41,7 +41,7 @@ which xelatex
 which biber
 ```
 
-If you don't have one of these, you can install from the shell prompt like so (these instructions are for Linux, if you're using Windows or OSX, go to Google for instructions specific to your system):
+If you don't have one of these, you can install from the shell prompt like so (these instructions are for Linux, if you're using Windows or OSX, go to Google for instructions specific to your system and Xelatex installation):
 
 ```
 # for pandoc
