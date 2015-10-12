@@ -360,8 +360,6 @@ Table \ref{tab:CSIA_SS}, Figure \ref{CSIASosa}, \ref{CSIASosa2}, and \ref{CSIASo
 
 As I mentioned above, the most frequently observed compounds in archaeological lipid residues are the palmitic (C16:0) and stearic (C18:0) fatty acids [@Evershed2008]. The Sosa-Dong site was not an exception, and the organic compounds of all samples were dominated by those two saturated fatty acids, due to the degradation in soil during several thousand years of post-depositional processes (Figure \ref{chromatogram2}). Along with the C16:0 and C18:0 fatty acids, I was able to identify both major short- and long-chain (un)saturated fatty acids including C13:0, C14:0, C15:0, C15:1, C16:1, C17:0, C18:1, C18:2, C20:0, C22:0, C22:1, C23:0, C24:0, and C24:1.
 
-Table 5.9. The results of the organic geochemical analysis by GC-MS and GC-C-IRMS of the samples from the Sosa-Dong site, and their interpretations
-
 
 \begin{longtable}[htbp]{@{}lp{5cm}llp{4cm}@{}}
 \toprule
