@@ -6,7 +6,7 @@ set_parent("thesis.Rmd")
 
 \section{Introduction}
 
-In this chapter, I will start with a brief discussion about the traditional perceptions of the Korean archaeologists related to the transition from foraging to farming. Then, I will clarify the goal and methods of this thesis. After that, the past and current archaeological approaches to the emergence of agriculture will be mentioned along with their theoretical frameworks. Lastly, I will briefly discuss the transition from foraging to farming in other regions of East Asia.   
+In this chapter, I will start with a brief discussion about the traditional perceptions of the Korean archaeologists related to the transition from foraging to farming. Then, I will clarify the goal and methods of this thesis. After that, I will provide context to my project by reviewing the past and current archaeological approaches to the emergence of agriculture, along with their theoretical frameworks. Lastly, I will briefly discuss the geographical context by reviewing the transition from foraging to farming in other regions of East Asia.   
 
 \section{The role of the intensive rice agriculture in the central part of the Korean peninsula}
 
@@ -72,7 +72,7 @@ The critical time period related to the transition from foraging to farming and 
 
 Traditionally, in Japan, the strict dichotomy between Jomon Neolithic hunter-gatherers and Yayoi Bronze Age farmers persisted among the archaeologists. This trend began in the 1980s when the concept of affluent foragers was considered to provide a suitable explanation of Jomon economy [@Aikens1986; @Koyama1981]. However, this widely accepted view that the Jomon people sustained their hunter-gathering life for several thousands of years in a "naturally rich environment [@Crawford2011: p. S336]" was criticized by other scholars, for it oversimplifies the Jomon subsistence [@Crawford2008; @Kobayashi2004; @Nishida1983]. A recent study from Obata and his colleague [-@Obata2007] showed solid evidence of plant domestication during the Middle Jomon period in the Kyushu area.    
 
-To most Japanese archaeologists, farming is considered as irrigated rice agriculture during the Yayoi period. However, according to Crawford [-@Crawford2011] the Yayoi agricultural system was not soley based on rice. A wide range of plants including millet, barley, wheat, and leguminous was also a significant component of the Yayoi agricultural economy. 
+To most Japanese archaeologists, farming is considered as irrigated rice agriculture during the Yayoi period. However, according to Crawford [-@Crawford2011] the Yayoi agricultural system was not solely based on rice. A wide range of plants including millet, barley, wheat, and leguminous was also a significant component of the Yayoi agricultural economy. 
 
 ![The map of the Korean Peninsula and its vicinity \label{Korean_peninsula}](figures/Korean_peninsula.jpg)
 
