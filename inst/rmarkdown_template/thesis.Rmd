@@ -111,7 +111,14 @@ This document was typeset using the \textsf{\XeTeX} typesetting system, and the 
 
 The body text is set at 11pt with \familydefault. The thesis was written in [RStudio](https://www.rstudio.com/)  and [Notepad++](https://notepad-plus-plus.org/) as [R markdown](http://rmarkdown.rstudio.com/)- and \LaTeX -formatted documents, which was converted to PDF using [pandoc](http://pandoc.org/) using [knitr](http://yihui.name/knitr/). 
 
-The source files for this thesis, along with all the data files, have been organised intto an R package, `kwakthesis`, which is available at [https://github.com/SeungkiKwak/Kwak_S_PhD_thesis/](https://github.com/SeungkiKwak/Kwak_S_PhD_thesis/). A hard copy of the thesis can be found in the University of Washington library. 
+The source files for this thesis, along with all the data files, have been organised intto an R package, `kwakthesis`, which is available at [https://github.com/SeungkiKwak/Kwak_S_PhD_thesis/](https://github.com/SeungkiKwak/Kwak_S_PhD_thesis/). A hard copy of the thesis can be found in the University of Washington library.
+
+```{r git_data, echo=FALSE} 
+# what commit is this file at?
+library(git2r)
+repo <- repository(path = "../..")
+last_commit <- commits(repo)[[1]]
+```
 
 The current git commit of this file is `r last_commit@sha`, which is on the `r branches(repo)[[1]]@name` branch and was made by `r last_commit@committer@name` on `r when(last_commit)`. The current commit message is "`r last_commit@summary`".
 
@@ -136,13 +143,6 @@ kable(needs)
 ```
 
 
-
-```{r git_data, echo=FALSE} 
-# what commit is this file at?
-library(git2r)
-repo <- repository(path = "../..")
-last_commit <- commits(repo)[[1]]
-```
 
 
 
