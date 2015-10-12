@@ -109,8 +109,11 @@ options(xtable.comment = FALSE)
 \section{Colophon}
 This document was typeset using the \textsf{\XeTeX} typesetting system, and the [uwthesis class](https://github.com/UWIT-IAM/UWThesis) created by [Jim Fox](https://staff.washington.edu/fox/tex/uwthesis.shtml). Other elements of the document formatting source code have been taken from the [Latex, Knitr, and RMarkdown templates for UC Berkeley's graduate thesis](https://github.com/stevenpollack/ucbthesis), and [Dissertate: a LaTeX dissertation template to support the production and typesetting of a PhD dissertation at Harvard, Princeton, and NYU](https://github.com/suchow/Dissertate) 
 
-The body text is set at 11pt with \familydefault. The thesis was written in [RStudio](https://www.rstudio.com/)  and [Notepad++](https://notepad-plus-plus.org/) as [R markdown](http://rmarkdown.rstudio.com/)- and \LaTeX -formatted documents, which was converted to PDF using [pandoc](http://pandoc.org/) using [knitr](http://yihui.name/knitr/) with a custom R package.
+The body text is set at 11pt with \familydefault. The thesis was written in [RStudio](https://www.rstudio.com/)  and [Notepad++](https://notepad-plus-plus.org/) as [R markdown](http://rmarkdown.rstudio.com/)- and \LaTeX -formatted documents, which was converted to PDF using [pandoc](http://pandoc.org/) using [knitr](http://yihui.name/knitr/). 
 
+The source files for this thesis, along with all the data files, have been organised intto an R package, `kwakthesis`, which is available at [https://github.com/SeungkiKwak/Kwak_S_PhD_thesis/](https://github.com/SeungkiKwak/Kwak_S_PhD_thesis/). A hard copy of the thesis can be found in the University of Washington library. 
+
+The current git commit of this file is `r last_commit@sha`, which is on the `r branches(repo)[[1]]@name` branch and was made by `r last_commit@committer@name` on `r when(last_commit)`. The current commit message is "`r last_commit@summary`".
 
 This PDF was generated on `r Sys.time()` in the following computational environment:
 
@@ -141,9 +144,7 @@ repo <- repository(path = "../..")
 last_commit <- commits(repo)[[1]]
 ```
 
-A public copy of the source files of this thesis can be found at [https://github.com/SeungkiKwak/Kwak_S_PhD_thesis/](https://github.com/SeungkiKwak/Kwak_S_PhD_thesis/). A hard copy can be found in the University of Washington library. 
 
-The current git commit of this file is `r last_commit@sha`, which is on the `r branches(repo)[[1]]@name` branch and was made by `r last_commit@committer@name` on `r when(last_commit)`. The current commit message is "`r last_commit@summary`".
 
 \cleardoublepage\null
 
