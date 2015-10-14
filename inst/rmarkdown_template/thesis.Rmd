@@ -8,14 +8,14 @@ Declarations for Front Matter
 Copyright and title pages
 -->
 
-\Title{Long-term chronology of subsistence and the role of intensive agriculture in the central part of the Korean peninsula}
+\Title{Long-term chronology of subsistence and the role of intensive agriculture in the central part of the Korean peninsula during the Late Holocene}
 \Author{Seungki Kwak}
 \Year{2015}
 \Program{UW Anthropology}
 
 \Chair{Ben Marwick}{Assistant Professor}{Anthropology Department}
 \Signature{Peter Lape}
-\Signature{Jim Feathers}
+\Signature{James K. Feathers}
 
 \copyrightpage
 

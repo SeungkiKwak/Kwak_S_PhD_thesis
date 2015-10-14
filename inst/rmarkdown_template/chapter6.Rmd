@@ -138,7 +138,14 @@ Eupha-Ri       & 370 BC – 590 AD (3 dates)                        & 168 – 35
 
 The biggest challenge in here is the relatively wide error terms in the luminescence dates (Table \ref{tab:LM_KM}; \ref{tab:LM_SS}; \ref{tab:LM_EP}), in comparison with those in the radiocarbon dates (Table \ref{tab:radiocarbon_KM}; \ref{tab:radiocarbon_SS}; \ref{tab:radiocarbon_SG}; \ref{tab:radiocarbon_EP}). The average error term of the luminescence dates was about 120 years; and it created a range of error of about 240 years in each of the dates. Despite the relatively wider error terms of the luminescence dating compared to the Radiocarbon method, all the luminescence dates from the Mumun period were within the range of the Radiocarbon dates. The results from the Iron Age Eupha-Ri site was a bit different, indicating both the upper and lower limits of the luminescence dates exceeded those of the radiocarbon ones regardless of the error terms. This might be simply because the number of radiocarbon dates from the Eupha-Ri site is much smaller than those from the Mumun period sites, creating a narrower range of age.  
 
-Despite the small sample size and the issue mentioned above, the luminescence and radiocarbon dates from the four sites are somewhat correlated with each other overall. Through the luminescence dating, at least in the macroscopic view, I was able to build a general chronology of subsistence between the sites. 
+\begin{figure}
+  \centering
+  \includegraphics{figures/Radiocarbon_and_Luminescence.jpg} 
+  \caption{The comparison between the AMS radiocarbon dates and luminescence dates of the four sites}
+  \label{date_compare2}
+\end{figure}
+
+Despite the small sample size and the issue mentioned above, the luminescence and radiocarbon dates from the four sites are somewhat correlated with each other overall (Figure \ref{date_compare2}). Through the luminescence dating, at least in the macroscopic view, I was able to build a general chronology of subsistence between the sites. 
 
 \section{Implications and future directions}
 
