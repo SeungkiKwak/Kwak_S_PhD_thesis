@@ -150,7 +150,7 @@ When utilizing this theoretical mixing model for the interpretation of the contr
 
 \subsubsection{Possibilities of variation in $\texorpdfstring{\delta^13^C}{TEXT}$ values of the fatty acids from the archaeological lipid}
 
-According to the Mukherjee [-@Mukherjee2004], there are several possible sources that can affect $\delta$^13^C values of fatty acids from archaeological lipid.    
+According to the Mukherjee [-@Mukherjee2004: pp. 23-30], there are several possible sources that can affect $\delta$^13^C values of fatty acids from archaeological lipid.    
 
 
 *C3, C4 and marine plant contributions*
